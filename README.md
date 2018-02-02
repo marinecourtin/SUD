@@ -1,7 +1,7 @@
 # SUD
 Syntactic Universal Dependency Treebanks
 
-The conll folder contains the UD treebanks that have been transformed to functional heads.
+The `conll` folder contains the [UD treebanks](https://github.com/UniversalDependencies) that have been transformed to functional heads.
 The tool folder contains tools that were used for the transformation: 
 - conlleva can transform individual treebanks and create html views (transform), it can search in conllu files and produce search result views, and it can simply transform a conllu file into an graphical html view of that file.
 - syntacticize applies the grammar in parallel and only produces the final conllu files.
