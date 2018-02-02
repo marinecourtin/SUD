@@ -1,0 +1,4934 @@
+# id = IBA_13_M_1
+1	so	so	ADV	SCONJ	_	7	discourse	_	_
+2	ma	my	PRON	PRON	_	3	nmod:poss	_	_
+3	people	people	NOUN	NOUN	_	6	vocative	_	_
+4	<	<	PUNCT	PUNCT	_	-1	_	_	_
+5	we	we	PRON	PRON	_	6	subj	_	_
+6	don	have	AUX	AUX	_	0	root	_	_
+7	show	show	VERB	VERB	_	6	obj	_	_
+8	again	again	ADV	ADV	_	7	advmod	_	_
+9	as	as	SCONJ	ADP	_	7	advcl	_	_
+10	we	we	PRON	PRON	_	11	subj	_	_
+11	dey	be	AUX	AUX	_	9	obj	_	_
+12	always	always	ADV	ADV	_	13	advmod	_	_
+13	show	show	VERB	VERB	_	11	obj	_	_
+14	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_2
+1	em	em	INTJ	INTJ	_	16	discourse	_	_
+2	na	now	ADV	ADV	_	16	discourse	_	_
+3	we	we	PRON	PRON	_	16	dislocated	_	_
+4	|a	|a	PUNCT	PUNCT	_	5	punct	_	_
+5	FRSC	FRSC	PROPN	PROPN	_	3	conj:appos	_	_
+6	<	<	PUNCT	PUNCT	_	-1	_	_	_
+7	as	as	SCONJ	ADP	_	16	obl:ad	_	_
+8	una	you	PRON	PRON	_	9	nsubj	_	_
+9	know	know	VERB	VERB	_	7	obj	_	_
+10	<	<	PUNCT	PUNCT	_	-1	_	_	_
+11	#	#	PUNCT	PUNCT	_	9	punct	_	_
+12	our	our	PRON	PRON	_	13	nmod:poss	_	_
+13	work	work	NOUN	NOUN	_	16	nsubj	_	_
+14	na	na	PART	PART	_	16	cop	_	_
+15	to	to	PART	ADP	_	0	root	_	_
+16	ensure	ensure	VERB	VERB	_	15	obj	_	_
+17	sey	that	SCONJ	SCONJ	_	16	ccomp	_	_
+18	#	#	PUNCT	PUNCT	_	17	punct	_	_
+19	[	[	PUNCT	PUNCT	_	23	punct	_	_
+20	accident	accident	NOUN	NOUN	_	23	nsubj	_	_
+21	no	not	PART	PART	_	23	advmod	_	_
+22	too	too	ADV	ADV	_	23	advmod	_	_
+23	happen	happen	VERB	VERB	_	17	obj	_	_
+24	for	for	ADP	ADP	_	23	obl:comp	_	_
+25	road	road	NOUN	NOUN	_	24	obj	_	_
+26	]	]	NOUN	NOUN	_	23	punct	_	_
+27	//	//	PUNCT	PUNCT	_	16	punct	_	_
+
+
+# id = IBA_13_M_4
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	so	so	ADV	SCONJ	_	5	advmod	_	_
+3	we	we	PRON	PRON	_	4	subj	_	_
+4	don	have	AUX	AUX	_	0	root	_	_
+5	carry	carry	VERB	VERB	_	4	obj	_	_
+6	di	the	DET	DET	_	7	det	_	_
+7	matter	matter	NOUN	NOUN	_	5	obj	_	_
+8	come	come	VERB	VERB	_	5	compound:svc	_	_
+9	again	again	ADV	ADV	_	8	advmod	_	_
+10	as	as	SCONJ	ADP	_	8	advcl	_	_
+11	we	we	PRON	PRON	_	12	subj	_	_
+12	dey	be	AUX	AUX	_	10	obj	_	_
+13	always	always	ADV	ADV	_	14	advmod	_	_
+14	carry	carry	VERB	VERB	_	12	obj	_	_
+15	am	he	PRON	PRON	_	14	obj	_	_
+16	come	come	VERB	VERB	_	14	compound:svc	_	_
+17	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_5
+1	we	we	PRON	PRON	_	2	subj	_	_
+2	don	PERF	AUX	AUX	_	0	root	_	_
+3	carry	carry	VERB	VERB	_	2	obj	_	_
+4	am	he	PRON	PRON	_	3	obj	_	_
+5	come	come	VERB	VERB	_	3	compound:svc	_	_
+6	your	your	PRON	PRON	_	7	nmod:poss	_	_
+7	dormot	dormot	NOUN	NOUN	_	5	obj	_	_
+8	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_6
+1	#	#	PUNCT	PUNCT	_	6	punct	_	_
+2	right	right	ADJ	ADJ	_	3	advmod	_	_
+3	now	now	ADV	ADV	_	6	advmod	_	_
+4	<	<	PUNCT	PUNCT	_	3	punct	_	_
+5	we	we	PRON	PRON	_	6	nsubj	_	_
+6	dey	be	VERB	AUX	_	0	root	_	_
+7	#	#	PUNCT	PUNCT	_	10	punct	_	_
+8	Ifesinachi	Ifesinachi	PROPN	PROPN	_	10	compound	_	_
+9	#	#	PUNCT	PUNCT	_	8	punct	_	_
+10	park	park	NOUN	NOUN	_	6	obj	_	_
+11	#	#	PUNCT	PUNCT	_	13	punct	_	_
+12	for	for	ADP	ADP	_	10	obl:npmod	_	_
+13	Dugbe	Dugbe	PROPN	PROPN	_	12	obj	_	_
+14	//+	//+	PUNCT	PUNCT	_	16	punct	_	_
+15	for	for	ADP	ADP	_	10	nmod:npmod	_	_
+16	Ibadan	Ibadan	PROPN	PROPN	_	15	obj	_	_
+17	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_7
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	and	and	CCONJ	CCONJ	_	0	root	_	_
+3	we	we	PRON	PRON	_	4	subj	_	_
+4	dey	be	AUX	AUX	_	2	obj	_	_
+5	try	try	VERB	VERB	_	4	obj	_	_
+6	tell	tell	VERB	VERB	_	5	xcomp	_	_
+7	una	you	PRON	PRON	_	6	obj	_	_
+8	sey	that	SCONJ	SCONJ	_	6	ccomp	_	_
+9	#	#	PUNCT	PUNCT	_	8	punct	_	_
+10	[	[	PUNCT	PUNCT	_	25	punct	_	_
+11	one	one	NUM	NUM	_	13	nummod	_	_
+12	of	of	ADP	ADP	_	25	dislocated	_	_
+13	reason	reason	NOUN	NOUN	_	12	obj	_	_
+14	{	{	PUNCT	PUNCT	_	18	punct	_	_
+15	wey	where	SCONJ	SCONJ	_	18	conj:dicto	_	_
+16	|	|	PUNCT	PUNCT	_	15	punct	_	_
+17	#	#	PUNCT	PUNCT	_	15	punct	_	_
+18	why	why	ADV	ADV	_	22	mark	_	_
+19	}	}	PUNCT	PUNCT	_	18	punct	_	_
+20	accident	accident	NOUN	NOUN	_	21	subj	_	_
+21	dey	be	AUX	AUX	_	13	acl:relcl	_	_
+22	happen	happen	VERB	VERB	_	21	obj	_	_
+23	na	na	PART	PART	_	25	cop	_	_
+24	sey	that	SCONJ	SCONJ	_	23	fixed	_	_
+25	overspeeding	overspeeding	NOUN	NOUN	_	8	obj	_	_
+26	#	#	PUNCT	PUNCT	_	29	punct	_	_
+27	wey	where	SCONJ	SCONJ	_	25	acl:cleft	_	_
+28	we	we	PRON	PRON	_	29	subj	_	_
+29	dey	be	AUX	AUX	_	27	obj	_	_
+30	speed	speed	VERB	VERB	_	29	obj	_	_
+31	]	]	NOUN	NOUN	_	25	punct	_	_
+32	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_8
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	and	and	CCONJ	CCONJ	_	0	root	_	_
+3	im	he	PRON	PRON	_	4	subj	_	_
+4	dey	be	AUX	AUX	_	2	obj	_	_
+5	cause	cause	VERB	VERB	_	4	obj	_	_
+6	#	#	PUNCT	PUNCT	_	8	punct	_	_
+7	plenty	plenty	ADJ	NOUN	_	8	amod	_	_
+8	accident	accident	NOUN	NOUN	_	5	obj	_	_
+9	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_9
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	and	and	CCONJ	CCONJ	_	0	root	_	_
+3	we	we	PRON	PRON	_	4	subj	_	_
+4	don	have	AUX	AUX	_	2	obj	_	_
+5	look	look	VERB	VERB	_	4	obj	_	_
+6	am	he	PRON	PRON	_	5	obj	_	_
+7	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_10
+1	we	we	PRON	PRON	_	2	subj	_	_
+2	don	PERF	AUX	AUX	_	0	root	_	_
+3	check	check	VERB	VERB	_	2	obj	_	_
+4	di	the	DET	DET	_	5	det	_	_
+5	matter	matter	NOUN	NOUN	_	3	obj	_	_
+6	for	for	ADP	ADP	_	3	obl:ad	_	_
+7	our	our	PRON	PRON	_	9	nmod:poss	_	_
+8	national	national	ADJ	ADJ	_	9	amod	_	_
+9	headquarters	headquarters	NOUN	NOUN	_	6	obj	_	_
+10	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_11
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	and	and	CCONJ	CCONJ	_	0	root	_	_
+3	we	we	PRON	PRON	_	4	subj	_	_
+4	don	PROG	AUX	AUX	_	2	obj	_	_
+5	discover	discover	VERB	VERB	_	4	obj	_	_
+6	sey	that	SCONJ	SCONJ	_	5	ccomp	_	_
+7	fifty	fifty	NUM	NUM	_	8	nummod	_	_
+8	eight	eight	NUM	NUM	_	9	nummod	_	_
+9	percent	percent	NOUN	NOUN	_	19	dislocated	_	_
+10	of	of	ADP	ADP	_	9	obl:npmod	_	_
+11	accident	accident	NOUN	NOUN	_	10	obj	_	_
+12	wey	where	SCONJ	SCONJ	_	11	acl:relcl	_	_
+13	im	he	PRON	PRON	_	14	nsubj	_	_
+14	happen	happen	VERB	VERB	_	12	obj	_	_
+15	for	for	ADP	ADP	_	14	obl:ad	_	_
+16	road	road	NOUN	NOUN	_	15	obj	_	_
+17	<	<	PUNCT	PUNCT	_	9	punct	_	_
+18	na	na	PART	PART	_	19	cop	_	_
+19	overspeeding	overspeeding	NOUN	NOUN	_	6	obj	_	_
+20	>+	>+	PUNCT	SCONJ	_	22	punct	_	_
+21	naim	naim	ADV	SCONJ	_	23	mark	_	_
+22	dey	be	AUX	AUX	_	19	acl:cleft	_	_
+23	cause	cause	VERB	VERB	_	22	obj	_	_
+24	am	he	PRON	PRON	_	23	obj	_	_
+25	//	//	PUNCT	PUNCT	_	5	obl:npmod	_	_
+
+
+# id = IBA_13_M_12
+1	#	#	PUNCT	PUNCT	_	6	punct	_	_
+2	now	now	ADV	ADV	_	8	discourse	_	_
+3	<	<	PUNCT	PUNCT	_	2	punct	_	_
+4	we	we	PRON	PRON	_	6	subj	_	_
+5	no	not	PART	PART	_	6	advmod	_	_
+6	fit	can	AUX	AUX	_	0	root	_	_
+7	just	just	ADV	ADV	_	8	advmod	_	_
+8	fold	fold	VERB	VERB	_	6	obj	_	_
+9	our	our	PRON	PRON	_	10	nmod:poss	_	_
+10	arm	arm	NOUN	NOUN	_	8	obj	_	_
+11	make	let	AUX	AUX	_	8	conj:coord	_	_
+12	we	we	PRON	PRON	_	11	subj	_	_
+13	just	just	ADV	ADV	_	14	advmod	_	_
+14	siddon	siddon	VERB	VERB	_	11	obj	_	_
+15	make	let	AUX	AUX	_	8	conj:coord	_	_
+16	we	we	PRON	PRON	_	15	subj	_	_
+17	look	look	VERB	VERB	_	15	obj	_	_
+18	#	#	PUNCT	PUNCT	_	-1	_	_	_
+19	as	as	SCONJ	ADP	_	17	advcl	_	_
+20	dis	this	DET	DET	_	21	det	_	_
+21	accident	accident	NOUN	NOUN	_	22	subj	_	_
+22	dey	be	AUX	AUX	_	19	obj	_	_
+23	continue	continue	VERB	VERB	_	22	obj	_	_
+24	and	and	CCONJ	CCONJ	_	23	conj:coord	_	_
+25	people	people	NOUN	NOUN	_	26	subj	_	_
+26	dey	be	AUX	AUX	_	24	obj	_	_
+27	die	die	VERB	VERB	_	26	obj	_	_
+28	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_13
+1	na	na	PART	PART	_	2	cop	_	_
+2	why	why	ADV	ADV	_	0	root	_	_
+3	>+	>+	PUNCT	VERB	_	5	punct	_	_
+4	we	we	PRON	PRON	_	5	nsubj	_	_
+5	say	say	VERB	VERB	_	2	ccomp:cleft	_	_
+6	[	[	PUNCT	PUNCT	_	7	punct	_	_
+7	make	JUS	AUX	AUX	_	5	parataxis:obj	_	_
+8	we	we	PRON	PRON	_	7	subj	_	_
+9	carry	carry	VERB	VERB	_	7	obj	_	_
+10	dis	this	DET	DET	_	11	det	_	_
+11	matter	matter	NOUN	NOUN	_	9	obj	_	_
+12	come	come	VERB	VERB	_	9	compound:svc	_	_
+13	your	your	PRON	PRON	_	14	nmod:poss	_	_
+14	dormot	dormot	NOUN	NOUN	_	12	obj	_	_
+15	|c	|c	PUNCT	PUNCT	_	19	parataxis:obj	_	_
+16	make	let	AUX	AUX	_	9	conj:coord	_	_
+17	we	we	PRON	PRON	_	16	subj	_	_
+18	come	come	AUX	VERB	_	16	obj	_	_
+19	follow	follow	VERB	VERB	_	18	obj	_	_
+20	unasef	unasef	PRON	PRON	_	19	obj	_	_
+21	talk	talk	VERB	VERB	_	19	compound:svc	_	_
+22	//	//	PUNCT	PUNCT	_	23	punct	_	_
+23	]	]	PUNCT	PUNCT	_	7	punct	_	_
+24	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_14
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	sey	that	SCONJ	SCONJ	_	0	root	_	_
+3	im	he	PRON	PRON	_	4	nsubj:expl	_	_
+4	get	get	VERB	VERB	_	2	obj	_	_
+5	speed	speed	NOUN	VERB	_	6	compound	_	_
+6	limit	limit	NOUN	NOUN	_	4	nsubj:quasi	_	_
+7	#	#	PUNCT	PUNCT	_	11	punct	_	_
+8	wey	where	SCONJ	SCONJ	_	6	acl:relcl	_	_
+9	government	government	NOUN	NOUN	_	11	nsubj	_	_
+10	#	#	PUNCT	PUNCT	_	9	punct	_	_
+11	put	put	VERB	VERB	_	8	obj	_	_
+12	for	for	ADP	ADP	_	11	obl:comp	_	_
+13	each	each	ADJ	PRON	_	14	amod	_	_
+14	motor	motor	NOUN	NOUN	_	12	obj	_	_
+15	#	#	PUNCT	PUNCT	_	17	punct	_	_
+16	wey	where	SCONJ	SCONJ	_	14	acl:relcl	_	_
+17	dey	be	AUX	AUX	_	16	obj	_	_
+18	waka	waka	VERB	VERB	_	17	obj	_	_
+19	for	for	ADP	ADP	_	18	obl:comp	_	_
+20	Nigerian	Nigerian	ADJ	PROPN	_	21	amod	_	_
+21	roads	roads	NOUN	NOUN	_	19	obj	_	_
+22	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_15
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	so	so	ADV	SCONJ	_	12	discourse	_	_
+3	and	and	CCONJ	CCONJ	_	0	root	_	_
+4	wetin	what	PRON	PRON	_	5	subj	_	_
+5	be	be	VERB	PART	_	12	csubj	_	_
+6	di	the	DET	DET	_	7	det	_	_
+7	thing	thing	NOUN	NOUN	_	5	obj	_	_
+8	wey	where	SCONJ	SCONJ	_	7	acl:relcl	_	_
+9	we	we	PRON	PRON	_	10	nsubj	_	_
+10	talk	talk	VERB	VERB	_	8	obj	_	_
+11	now	now	ADV	ADV	_	10	advmod	_	_
+12	be	be	VERB	PART	_	3	obj	_	_
+13	sey	that	SCONJ	SCONJ	_	12	ccomp	_	_
+14	make	let	AUX	AUX	_	13	obj	_	_
+15	we	we	PRON	PRON	_	14	subj	_	_
+16	try	try	VERB	VERB	_	14	obj	_	_
+17	cut	cut	VERB	VERB	_	16	xcomp	_	_
+18	our	our	PRON	PRON	_	19	nmod:poss	_	_
+19	speed	speed	VERB	VERB	_	17	obj	_	_
+20	make	let	AUX	AUX	_	16	parataxis:conj	_	_
+21	we	we	PRON	PRON	_	20	subj	_	_
+22	no	not	PART	PART	_	20	advmod	_	_
+23	overspeed	overspeed	VERB	VERB	_	20	obj	_	_
+24	again	again	ADV	ADV	_	23	advmod	_	_
+25	//	//	PUNCT	PUNCT	_	12	punct	_	_
+
+
+# id = IBA_13_M_16
+1	#	#	PUNCT	PUNCT	_	6	punct	_	_
+2	because	because	SCONJ	SCONJ	_	0	root	_	_
+3	speed	speed	VERB	VERB	_	7	dislocated	_	_
+4	<	<	PUNCT	PUNCT	_	3	punct	_	_
+5	im	he	PRON	PRON	_	6	subj	_	_
+6	dey	be	AUX	AUX	_	2	obj	_	_
+7	lead	lead	VERB	VERB	_	6	obj	_	_
+8	to	to	ADP	ADP	_	7	obl:comp	_	_
+9	accident	accident	NOUN	NOUN	_	8	obj	_	_
+10	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_17
+1	and	and	CCONJ	CCONJ	_	0	root	_	_
+2	when	when	ADV	ADV	_	4	mark	_	_
+3	im	he	PRON	PRON	_	4	nsubj	_	_
+4	lead	lead	VERB	VERB	_	9	advcl	_	_
+5	to	to	ADP	ADP	_	4	obl:comp	_	_
+6	accident	accident	NOUN	NOUN	_	5	obj	_	_
+7	<+	<+	PUNCT	PUNCT	_	4	punct	_	_
+8	you	you	PRON	PRON	_	9	nsubj	_	_
+9	know	know	VERB	VERB	_	1	obj	_	_
+10	sey	that	SCONJ	SCONJ	_	9	ccomp	_	_
+11	plenty	plenty	ADJ	NOUN	_	12	amod	_	_
+12	people	people	NOUN	NOUN	_	13	subj	_	_
+13	dey	be	AUX	AUX	_	10	obj	_	_
+14	die	die	VERB	VERB	_	13	obj	_	_
+15	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_18
+1	#	#	PUNCT	PUNCT	_	5	punct	_	_
+2	some	some	DET	DET	_	3	det	_	_
+3	people	people	NOUN	NOUN	_	5	subj	_	_
+4	no	not	PART	PART	_	5	advmod	_	_
+5	go	will	AUX	AUX	_	0	root	_	_
+6	die	die	VERB	VERB	_	5	obj	_	_
+7	but	but	CCONJ	CCONJ	_	6	conj:coord	_	_
+8	for	for	ADP	ADP	_	19	obl:ad	_	_
+9	di	the	DET	DET	_	10	det	_	_
+10	rest	rest	NOUN	VERB	_	8	obj	_	_
+11	of	of	ADP	ADP	_	10	nmod	_	_
+12	deir	their	PRON	PRON	_	13	nmod:poss	_	_
+13	life	life	NOUN	NOUN	_	11	obj	_	_
+14	<+	<+	PUNCT	PUNCT	_	10	punct	_	_
+15	dey	be	AUX	AUX	_	7	obj	_	_
+16	no	not	PART	PART	_	15	advmod	_	_
+17	go	will	AUX	AUX	_	15	obj	_	_
+18	fit	can	AUX	AUX	_	17	obj	_	_
+19	waka	waka	VERB	VERB	_	18	obj	_	_
+20	again	again	ADV	ADV	_	19	advmod	_	_
+21	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_19
+1	some	some	PRON	DET	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	just	just	ADV	ADV	_	4	advmod	_	_
+4	dey	be	VERB	AUX	_	2	obj	_	_
+5	bedridden	bedridden	ADJ	ADJ	_	4	obj	_	_
+6	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_20
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	na	na	PART	PART	_	3	cop	_	_
+3	why	why	ADV	ADV	_	0	root	_	_
+4	>+	>+	PUNCT	VERB	_	6	punct	_	_
+5	we	we	PRON	PRON	_	6	nsubj	_	_
+6	carry	carry	VERB	VERB	_	3	ccomp:cleft	_	_
+7	di	the	DET	DET	_	8	det	_	_
+8	matter	matter	NOUN	NOUN	_	6	obj	_	_
+9	come	come	VERB	VERB	_	6	compound:svc	_	_
+10	sey	that	SCONJ	SCONJ	_	9	advcl	_	_
+11	make	let	AUX	AUX	_	10	obj	_	_
+12	we	we	PRON	PRON	_	11	subj	_	_
+13	ensure	ensure	VERB	VERB	_	11	obj	_	_
+14	sey	that	SCONJ	SCONJ	_	13	ccomp	_	_
+15	we	we	PRON	PRON	_	17	subj	_	_
+16	no	not	PART	PART	_	17	advmod	_	_
+17	dey	be	AUX	AUX	_	14	obj	_	_
+18	overspeed	overspeed	VERB	VERB	_	17	obj	_	_
+19	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_21
+1	#	#	PUNCT	PUNCT	_	8	punct	_	_
+2	and	and	CCONJ	CCONJ	_	0	root	_	_
+3	now	now	ADV	ADV	_	11	advmod	_	_
+4	wey	where	SCONJ	SCONJ	_	2	obj	_	_
+5	be	be	VERB	PART	_	4	fixed	_	_
+6	sey	that	SCONJ	SCONJ	_	5	fixed	_	_
+7	government	government	NOUN	NOUN	_	8	subj	_	_
+8	don	have	AUX	AUX	_	4	obj	_	_
+9	even	even	ADV	ADV	_	11	advmod	_	_
+10	come	come	AUX	VERB	_	8	obj	_	_
+11	make	let	VERB	VERB	_	10	obj	_	_
+12	am	he	PRON	PRON	_	11	obj	_	_
+13	easier	easier	ADJ	ADJ	_	12	amod	_	_
+14	//	//	PUNCT	PUNCT	_	8	punct	_	_
+
+
+# id = IBA_13_M_22
+1	de	they	PRON	PRON	_	2	subj	_	_
+2	don	have	AUX	AUX	_	0	root	_	_
+3	carry	carry	VERB	VERB	_	2	obj	_	_
+4	wetin	what	PRON	PRON	_	3	obj	_	_
+5	we	we	PRON	PRON	_	6	subj	_	_
+6	dey	be	AUX	AUX	_	4	acl:relcl	_	_
+7	call	call	VERB	VERB	_	6	obj	_	_
+8	speed	speed	NOUN	VERB	_	9	nmod	_	_
+9	limiting	limiting	ADJ	ADJ	_	10	amod	_	_
+10	device	device	NOUN	NOUN	_	7	obj	_	_
+11	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_23
+1	de	be	PRON	AUX	_	2	subj	_	_
+2	don	have	AUX	AUX	_	0	root	_	_
+3	carry	carry	VERB	VERB	_	2	obj	_	_
+4	am	he	PRON	PRON	_	3	obj	_	_
+5	comot	leave	VERB	VERB	_	3	compound:svc	_	_
+6	#	where	#	SCONJ	_	13	punct	_	_
+7	wey	where	SCONJ	SCONJ	_	3	parataxis:conj	_	_
+8	be	be	VERB	PART	_	7	fixed	_	_
+9	sey	that	SCONJ	SCONJ	_	8	fixed	_	_
+10	all	all	DET	DET	_	12	det	_	_
+11	commercial	commercial	ADJ	ADJ	_	12	amod	_	_
+12	vehicle	vehicle	NOUN	NOUN	_	13	nsubj	_	_
+13	get	get	VERB	VERB	_	7	obj	_	_
+14	to	to	PART	ADP	_	13	xcomp	_	_
+15	put	put	VERB	VERB	_	14	obj	_	_
+16	for	for	ADP	ADP	_	15	obl:comp	_	_
+17	deir	their	PRON	PRON	_	18	nmod:poss	_	_
+18	motor	motor	NOUN	NOUN	_	16	obj	_	_
+19	#	#	PUNCT	PUNCT	_	-1	_	_	_
+20	wey	where	SCONJ	SCONJ	_	3	parataxis:conj	_	_
+21	go	will	AUX	AUX	_	20	obj	_	_
+22	ensure	ensure	VERB	VERB	_	21	obj	_	_
+23	sey	that	SCONJ	SCONJ	_	22	ccomp	_	_
+24	[	[	PUNCT	PUNCT	_	35	punct	_	_
+25	speed	speed	VERB	VERB	_	35	conj:dicto	_	_
+26	&//	&//	PUNCT	PUNCT	_	25	punct	_	_
+27	#	#	PUNCT	PUNCT	_	25	punct	_	_
+28	{	{	PUNCT	PUNCT	_	33	punct	_	_
+29	you	you	PRON	PRON	_	30	orphan	_	_
+30	no	not	PART	PART	_	33	conj:dicto	_	_
+31	||	|	PUNCT	PUNCT	_	30	punct	_	_
+32	you	you	PRON	PRON	_	35	nsubj	_	_
+33	no	not	PART	PART	_	35	advmod	_	_
+34	}	}	PUNCT	PUNCT	_	33	punct	_	_
+35	speed	speed	VERB	VERB	_	23	obj	_	_
+36	pass	pass	VERB	VERB	_	35	compound:svc	_	_
+37	di	the	DET	DET	_	38	det	_	_
+38	limit	limit	NOUN	NOUN	_	36	obj	_	_
+39	wey	wen	SCONJ	SCONJ	_	38	acl:relcl	_	_
+40	government	government	NOUN	NOUN	_	41	nsubj	_	_
+41	put	put	VERB	VERB	_	39	obj	_	_
+42	for	for	ADP	ADP	_	41	obl:comp	_	_
+43	your	your	PRON	PRON	_	44	nmod:poss	_	_
+44	motor	motor	NOUN	NOUN	_	42	obj	_	_
+45	]	]	NOUN	NOUN	_	35	punct	_	_
+46	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_24
+1	#	#	PUNCT	PUNCT	_	9	punct	_	_
+2	so	so	ADV	SCONJ	_	9	advmod	_	_
+3	wetin	what	PRON	PRON	_	9	nsubj	_	_
+4	we	we	PRON	PRON	_	5	nsubj	_	_
+5	want	want	VERB	VERB	_	3	acl:relcl	_	_
+6	tell	tell	VERB	VERB	_	5	xcomp	_	_
+7	una	you	PRON	PRON	_	6	obj	_	_
+8	now	now	ADV	ADV	_	6	advmod	_	_
+9	be	be	VERB	PART	_	0	root	_	_
+10	sey	that	SCONJ	SCONJ	_	9	ccomp	_	_
+11	[	[	PUNCT	PUNCT	_	12	punct	_	_
+12	make	let	AUX	AUX	_	10	obj	_	_
+13	una	you	PRON	PRON	_	12	subj	_	_
+14	try	try	VERB	VERB	_	12	obj	_	_
+15	put	put	VERB	VERB	_	14	compound:svc	_	_
+16	dis	this	DET	DET	_	19	det	_	_
+17	speed	speed	NOUN	VERB	_	18	nmod	_	_
+18	limiting	limiting	ADJ	ADJ	_	19	amod	_	_
+19	device	device	NOUN	NOUN	_	15	obj	_	_
+20	for	for	ADP	ADP	_	15	obl:comp	_	_
+21	una	you	PRON	PRON	_	22	det	_	_
+22	motor	motor	NOUN	NOUN	_	20	obj	_	_
+23	#	#	PUNCT	PUNCT	_	27	punct	_	_
+24	before	before	SCONJ	ADP	_	15	advcl	_	_
+25	di	the	DET	DET	_	26	det	_	_
+26	enforcement	enforcement	NOUN	NOUN	_	27	subj	_	_
+27	go	will	AUX	AUX	_	24	obj	_	_
+28	come	come	AUX	VERB	_	27	obj	_	_
+29	begin	begin	VERB	VERB	_	28	obj	_	_
+30	]	]	PUNCT	PUNCT	_	12	punct	_	_
+31	//	//	PUNCT	PUNCT	_	9	punct	_	_
+
+
+# id = IBA_13_M_25
+1	because	because	SCONJ	SCONJ	_	0	root	_	_
+2	{	{	PUNCT	PUNCT	_	13	punct	_	_
+3	if	if	SCONJ	SCONJ	_	6	orphan	_	_
+4	di	the	DET	DET	_	6	det	_	_
+5	{	{	PUNCT	PUNCT	_	-1	_	_	_
+6	enfor~	enfor~	X	X	_	13	conj:dicto	_	_
+7	||	||	PUNCT	PUNCT	_	8	punct	_	_
+8	enf~	enf~	X	X	_	6	conj:dicto	_	_
+9	}	}	PUNCT	PUNCT	_	-1	_	_	_
+10	||	||	PUNCT	PUNCT	_	6	punct	_	_
+11	if	if	SCONJ	SCONJ	_	22	advcl	_	_
+12	di	the	DET	DET	_	13	det	_	_
+13	enforcement	enforcement	NOUN	NOUN	_	16	nsubj	_	_
+14	}	}	PUNCT	PUNCT	_	13	punct	_	_
+15	}	}	PUNCT	PUNCT	_	13	punct	_	_
+16	start	start	VERB	VERB	_	11	obj	_	_
+17	now	now	ADV	ADV	_	16	advmod	_	_
+18	<	<	PUNCT	PUNCT	_	16	punct	_	_
+19	#	#	PUNCT	PUNCT	_	16	punct	_	_
+20	we	we	PRON	PRON	_	21	subj	_	_
+21	go	will	AUX	AUX	_	1	obj	_	_
+22	begin	begin	VERB	VERB	_	21	obj	_	_
+23	dey	be	AUX	AUX	_	22	xcomp	_	_
+24	arrest	arrest	VERB	VERB	_	23	obj	_	_
+25	una	you	PRON	PRON	_	26	nmod:poss	_	_
+26	moto	moto	NOUN	NOUN	_	24	obj	_	_
+27	//	//	PUNCT	PUNCT	_	21	punct	_	_
+
+
+# id = IBA_13_M_26
+1	and	and	CCONJ	CCONJ	_	0	root	_	_
+2	im	he	PRON	PRON	_	5	nsubj	_	_
+3	no	not	PART	PART	_	5	advmod	_	_
+4	go	will	AUX	AUX	_	5	aux	_	_
+5	good	good	ADJ	ADJ	_	1	obj	_	_
+6	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_27
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	abi	abi	CCONJ	CCONJ	_	0	root	_	_
+3	una	you	PRON	PRON	_	4	nsubj	_	_
+4	want	want	VERB	VERB	_	2	obj	_	_
+5	make	JUS	AUX	AUX	_	4	ccomp	_	_
+6	im	he	PRON	PRON	_	5	subj	_	_
+7	happen	happen	VERB	VERB	_	5	obj	_	_
+8	like	like	ADP	ADP	_	7	obl:ad	_	_
+9	dat	that	PRON	PRON	_	8	obj	_	_
+10	?//	?//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_28
+1	#	#	PUNCT	PUNCT	_	6	punct	_	_
+2	obviously	obviously	ADV	ADV	_	6	advmod	_	_
+3	<	<	PUNCT	PUNCT	_	2	punct	_	_
+4	una	you	PRON	PRON	_	6	nsubj	_	_
+5	no	not	PART	PART	_	6	advmod	_	_
+6	want	want	VERB	VERB	_	0	root	_	_
+7	make	JUS	AUX	AUX	_	6	ccomp	_	_
+8	im	he	PRON	PRON	_	7	subj	_	_
+9	happen	happen	VERB	VERB	_	7	obj	_	_
+10	like	like	ADP	ADP	_	9	obl:ad	_	_
+11	dat	that	PRON	PRON	_	10	obj	_	_
+12	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_29
+1	so	so	ADV	SCONJ	_	4	advmod	_	_
+2	make	let	AUX	AUX	_	0	root	_	_
+3	una	you	PRON	PRON	_	2	subj	_	_
+4	try	try	VERB	VERB	_	2	obj	_	_
+5	#	#	PUNCT	PUNCT	_	6	punct	_	_
+6	comply	comply	VERB	VERB	_	4	xcomp	_	_
+7	wit	with	ADP	ADP	_	6	obl:comp	_	_
+8	dese	dese	DET	DET	_	9	det	_	_
+9	policy	policy	NOUN	NOUN	_	7	obj	_	_
+10	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_30
+1	make	let	AUX	AUX	_	0	root	_	_
+2	una	you	PRON	PRON	_	1	subj	_	_
+3	see	see	VERB	VERB	_	1	obj	_	_
+4	sey	that	SCONJ	SCONJ	_	3	ccomp	_	_
+5	[	[	PUNCT	PUNCT	_	7	punct	_	_
+6	una	you	PRON	PRON	_	7	nsubj	_	_
+7	put	put	VERB	VERB	_	4	obj	_	_
+8	speed	speed	NOUN	VERB	_	9	compound	_	_
+9	limiter	limiter	NOUN	NOUN	_	7	obj	_	_
+10	for	for	ADP	ADP	_	7	obl:comp	_	_
+11	una	you	PRON	PRON	_	12	nmod:poss	_	_
+12	motor	motor	NOUN	NOUN	_	10	obj	_	_
+13	]	]	NOUN	NOUN	_	7	punct	_	_
+14	so	so	SCONJ	SCONJ	_	7	advcl	_	_
+15	dat	that	SCONJ	PRON	_	14	fixed	_	_
+16	speed	speed	NOUN	VERB	_	17	subj	_	_
+17	go	will	AUX	AUX	_	14	obj	_	_
+18	reduce	reduce	VERB	VERB	_	17	obj	_	_
+19	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_31
+1	#	#	PUNCT	PUNCT	_	13	punct	_	_
+2	anoder	another	DET	DET	_	3	det	_	_
+3	thing	thing	NOUN	NOUN	_	13	dislocated	_	_
+4	wey	where	SCONJ	SCONJ	_	3	acl:relcl	_	_
+5	I	I	PRON	PRON	_	6	nsubj	_	_
+6	want	want	VERB	VERB	_	4	obj	_	_
+7	follow	follow	VERB	VERB	_	6	xcomp	_	_
+8	una	you	PRON	PRON	_	7	obj	_	_
+9	relate	relate	VERB	VERB	_	7	compound:svc	_	_
+10	<	<	PUNCT	PUNCT	_	3	punct	_	_
+11	na	na	PART	PART	_	13	cop	_	_
+12	di	the	DET	DET	_	13	det	_	_
+13	attitude	attitude	NOUN	NOUN	_	0	root	_	_
+14	of	of	ADP	ADP	_	19	obj	_	_
+15	sey	that	SCONJ	SCONJ	_	13	nmod:npmod	_	_
+16	[	[	PUNCT	PUNCT	_	17	punct	_	_
+17	make	let	AUX	AUX	_	15	obj	_	_
+18	we	we	PRON	PRON	_	17	subj	_	_
+19	dey	be	AUX	AUX	_	17	obj	_	_
+20	use	use	VERB	VERB	_	14	obj	_	_
+21	phone	phone	NOUN	NOUN	_	20	obj	_	_
+22	as	as	SCONJ	ADP	_	20	advcl	_	_
+23	we	we	PRON	PRON	_	24	subj	_	_
+24	dey	be	AUX	AUX	_	22	obj	_	_
+25	drive	drive	VERB	VERB	_	24	obj	_	_
+26	]	]	NOUN	NOUN	_	17	punct	_	_
+27	//	//	PUNCT	PUNCT	_	13	punct	_	_
+
+
+# id = IBA_13_M_32
+1	na	na	PART	PART	_	4	cop	_	_
+2	very	very	ADV	ADV	_	3	advmod	_	_
+3	bad	bad	ADJ	ADJ	_	4	amod	_	_
+4	thing	thing	NOUN	NOUN	_	0	root	_	_
+5	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_33
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	em	em	INTJ	INTJ	_	4	discourse	_	_
+3	na	na	PART	PART	_	4	cop	_	_
+4	distraction	distraction	NOUN	NOUN	_	0	root	_	_
+5	>+	>+	PUNCT	PUNCT	_	9	punct	_	_
+6	naim	that	PART	PART	_	9	obj	_	_
+7	oyibo	man	NOUN	NOUN	_	8	advmod	_	_
+8	man	man	NOUN	NOUN	_	9	subj	_	_
+9	go	will	AUX	AUX	_	4	acl:cleft	_	_
+10	call	call	VERB	VERB	_	6	obj	_	_
+11	am	he	PRON	PRON	_	10	obj	_	_
+12	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_35
+1	oyibo	man	NOUN	NOUN	_	2	advmod	_	_
+2	man	man	NOUN	NOUN	_	3	subj	_	_
+3	go	will	AUX	AUX	_	0	root	_	_
+4	talk	talk	VERB	VERB	_	3	obj	_	_
+5	sey	that	SCONJ	SCONJ	_	4	ccomp	_	_
+6	na	na	PART	PART	_	8	cop	_	_
+7	distracted	distracted	ADJ	ADJ	_	8	amod	_	_
+8	drive	drive	NOUN	VERB	_	5	obj	_	_
+9	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_36
+1	so	so	ADV	SCONJ	_	16	discourse	_	_
+2	{	{	PUNCT	PUNCT	_	10	punct	_	_
+3	if	if	SCONJ	SCONJ	_	11	conj:dicto	_	_
+4	you	you	PRON	PRON	_	5	subj	_	_
+5	dey	be	AUX	AUX	_	3	obj	_	_
+6	use	use	VERB	VERB	_	5	obj	_	_
+7	||	||	PUNCT	PUNCT	_	5	punct	_	_
+8	if	if	SCONJ	SCONJ	_	16	advcl	_	_
+9	you	you	PRON	PRON	_	10	subj	_	_
+10	dey	be	AUX	AUX	_	8	obj	_	_
+11	drive	drive	VERB	VERB	_	10	obj	_	_
+12	}	}	PUNCT	PUNCT	_	10	punct	_	_
+13	<+	<+	PUNCT	PUNCT	_	11	punct	_	_
+14	you	you	PRON	PRON	_	16	nsubj	_	_
+15	no	not	PART	PART	_	16	advmod	_	_
+16	suppose	suppose	VERB	VERB	_	0	root	_	_
+17	dey	be	AUX	AUX	_	16	xcomp	_	_
+18	use	use	VERB	VERB	_	17	obj	_	_
+19	phone	phone	NOUN	NOUN	_	18	obj	_	_
+20	//	//	PUNCT	PUNCT	_	16	punct	_	_
+
+
+# id = IBA_13_M_37
+1	#	#	PUNCT	PUNCT	_	17	punct	_	_
+2	because	because	SCONJ	SCONJ	_	0	root	_	_
+3	as	as	SCONJ	ADP	_	18	advcl	_	_
+4	{	{	PUNCT	PUNCT	_	6	punct	_	_
+5	you	you	PRON	PRON	_	6	subj	_	_
+6	dey	be	AUX	AUX	_	3	obj	_	_
+7	use	use	VERB	VERB	_	6	obj	_	_
+8	phone	phone	NOUN	NOUN	_	7	obj	_	_
+9	|c	|c	PUNCT	PUNCT	_	-1	_	_	_
+10	and	and	CCONJ	CCONJ	_	7	conj:coord	_	_
+11	you	you	PRON	PRON	_	12	subj	_	_
+12	dey	be	AUX	AUX	_	10	obj	_	_
+13	drive	drive	VERB	VERB	_	12	obj	_	_
+14	}	}	PUNCT	PUNCT	_	6	punct	_	_
+15	<	<	PUNCT	PUNCT	_	7	punct	_	_
+16	you	you	PRON	PRON	_	17	subj	_	_
+17	dey	be	AUX	AUX	_	2	obj	_	_
+18	do	do	VERB	VERB	_	17	obj	_	_
+19	two	two	NUM	NUM	_	20	nummod	_	_
+20	thing	thing	NOUN	NOUN	_	18	obj	_	_
+21	at	at	ADP	ADP	_	18	obl:ad	_	_
+22	di	the	DET	DET	_	24	det	_	_
+23	same	same	ADJ	ADJ	_	24	amod	_	_
+24	time	time	NOUN	NOUN	_	21	obj	_	_
+25	//	//	PUNCT	PUNCT	_	17	punct	_	_
+
+
+# id = IBA_13_M_38
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	and	and	CCONJ	CCONJ	_	0	root	_	_
+3	im	he	PRON	PRON	_	5	nsubj	_	_
+4	no	not	PART	PART	_	5	advmod	_	_
+5	suppose	suppose	VERB	VERB	_	2	obj	_	_
+6	be	be	VERB	PART	_	5	xcomp	_	_
+7	like	like	ADP	ADP	_	6	obl:comp	_	_
+8	dat	that	PRON	PRON	_	7	obj	_	_
+9	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_39
+1	you	you	PRON	PRON	_	2	subj	_	_
+2	dey	PROG	AUX	AUX	_	0	root	_	_
+3	follow	follow	VERB	VERB	_	2	obj	_	_
+4	person	person	NOUN	NOUN	_	3	obj	_	_
+5	talk	talk	VERB	VERB	_	3	compound:svc	_	_
+6	//=	//=	PUNCT	PUNCT	_	9	punct	_	_
+7	#	#	PUNCT	PUNCT	_	9	punct	_	_
+8	you	you	PRON	PRON	_	9	subj	_	_
+9	dey	PROG	AUX	AUX	_	3	parataxis:conj	_	_
+10	drive	drive	VERB	VERB	_	9	obj	_	_
+11	//=	<	PUNCT	PUNCT	_	15	punct	_	_
+12	#	#	PUNCT	PUNCT	_	15	punct	_	_
+13	your	your	PRON	PRON	_	14	nmod:poss	_	_
+14	concentration	concentration	NOUN	NOUN	_	15	nsubj	_	_
+15	dey	be	VERB	AUX	_	3	parataxis:conj	_	_
+16	half	half	NOUN	NOUN	_	15	advmod	_	_
+17	#	#	PUNCT	PUNCT	_	20	punct	_	_
+18	for	for	ADP	ADP	_	15	obl:comp	_	_
+19	di	the	DET	DET	_	20	det	_	_
+20	drive	drive	NOUN	VERB	_	18	obj	_	_
+21	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_40
+1	#	#	PUNCT	PUNCT	_	5	punct	_	_
+2	di	the	DET	DET	_	4	det	_	_
+3	oder	other	ADJ	ADJ	_	4	amod	_	_
+4	half	half	NOUN	NOUN	_	5	nsubj	_	_
+5	dey	be	VERB	PART	_	0	root	_	_
+6	for	for	ADP	ADP	_	5	obl:comp	_	_
+7	di	the	DET	DET	_	9	det	_	_
+8	phone	phone	NOUN	NOUN	_	9	compound	_	_
+9	call	call	NOUN	VERB	_	6	obj	_	_
+10	wey	where	SCONJ	SCONJ	_	9	acl:relcl	_	_
+11	you	you	PRON	PRON	_	12	subj	_	_
+12	dey	PROG	AUX	AUX	_	10	obj	_	_
+13	make	let	VERB	VERB	_	12	obj	_	_
+14	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_41
+1	make	let	AUX	AUX	_	0	root	_	_
+2	I	I	PRON	PRON	_	1	subj	_	_
+3	give	give	VERB	VERB	_	1	obj	_	_
+4	you	you	PRON	PRON	_	3	iobj	_	_
+5	one	one	NUM	NUM	_	6	nummod	_	_
+6	instance	instance	NOUN	NOUN	_	3	obj	_	_
+7	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_42
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	im	he	PRON	PRON	_	3	subj	_	_
+3	dey	be	VERB	PART	_	0	root	_	_
+4	very	very	ADV	ADV	_	3	advmod	_	_
+5	unfortunate	unfortunate	ADJ	ADJ	_	3	obj	_	_
+6	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_43
+1	#	#	PUNCT	PUNCT	_	7	punct	_	_
+2	one	one	DET	DET	_	3	det	_	_
+3	man	man	NOUN	NOUN	_	8	dislocated	_	_
+4	<	<	PUNCT	PUNCT	_	3	punct	_	_
+5	#	#	PUNCT	PUNCT	_	3	punct	_	_
+6	im	he	PRON	PRON	_	7	subj	_	_
+7	dey	PROG	AUX	AUX	_	15	parataxis:dislocated	_	_
+8	drive	drive	VERB	VERB	_	7	obj	_	_
+9	<	<	PUNCT	PUNCT	_	7	punct	_	_
+10	#	#	PUNCT	PUNCT	_	15	punct	_	_
+11	naim	then	ADV	SCONJ	_	15	advmod	_	_
+12	im	he	PRON	PRON	_	13	nmod:poss	_	_
+13	phone	phone	NOUN	NOUN	_	15	nsubj	_	_
+14	just	just	ADV	ADV	_	15	advmod	_	_
+15	ring	ring	VERB	VERB	_	0	root	_	_
+16	//	//	PUNCT	PUNCT	_	15	punct	_	_
+
+
+# id = IBA_13_M_45
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	im	he	PRON	PRON	_	3	nsubj	_	_
+3	pick	pick	VERB	VERB	_	0	root	_	_
+4	di	the	DET	DET	_	5	det	_	_
+5	call	call	NOUN	NOUN	_	3	obj	_	_
+6	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_46
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	naim	naim	ADV	SCONJ	_	4	advmod	_	_
+3	dem	they	PRON	PRON	_	4	nsubj	_	_
+4	tell	tell	VERB	VERB	_	0	root	_	_
+5	am	he	PRON	PRON	_	4	iobj	_	_
+6	sey	that	SCONJ	SCONJ	_	4	ccomp	_	_
+7	#	#	PUNCT	PUNCT	_	6	punct	_	_
+8	[	[	PUNCT	PUNCT	_	9	punct	_	_
+9	make	let	AUX	AUX	_	6	obj	_	_
+10	im	he	PRON	PRON	_	9	subj	_	_
+11	come	come	VERB	VERB	_	9	obj	_	_
+12	one	one	DET	DET	_	22	det	_	_
+13	{	{	PUNCT	PUNCT	_	14	punct	_	_
+14	so	so	ADV	ADV	_	22	advmod	_	_
+15	|	|	PUNCT	PUNCT	_	-1	_	_	_
+16	so	so	ADV	ADV	_	14	compound:redup	_	_
+17	|	|	PUNCT	PUNCT	_	-1	_	_	_
+18	so	so	ADV	ADV	_	14	conj:coord	_	_
+19	|	|	PUNCT	PUNCT	_	-1	_	_	_
+20	so	so	ADV	ADV	_	18	compound:redup	_	_
+21	}	}	PUNCT	PUNCT	_	14	punct	_	_
+22	hospital	hospital	ADJ	NOUN	_	11	obj	_	_
+23	]	]	PUNCT	PUNCT	_	9	punct	_	_
+24	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_47
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	wetin	what	PRON	PRON	_	3	nsubj	_	_
+3	happen	happen	VERB	VERB	_	0	root	_	_
+4	?//	?//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_48
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	dem	they	PRON	PRON	_	4	nsubj	_	_
+3	just	just	ADV	ADV	_	4	advmod	_	_
+4	tell	tell	VERB	VERB	_	0	root	_	_
+5	am	he	PRON	PRON	_	4	iobj	_	_
+6	sey	that	SCONJ	SCONJ	_	4	ccomp	_	_
+7	#	#	PUNCT	PUNCT	_	6	punct	_	_
+8	[	[	PUNCT	PUNCT	_	11	punct	_	_
+9	im	he	PRON	PRON	_	10	nmod:poss	_	_
+10	daughter	daughter	NOUN	NOUN	_	11	nsubj	_	_
+11	fall	fall	VERB	VERB	_	6	obj	_	_
+12	#	#	PUNCT	PUNCT	_	16	punct	_	_
+13	from	from	ADP	ADP	_	11	obl:comp	_	_
+14	three	three	NUM	NUM	_	15	nummod	_	_
+15	storey	storey	NOUN	NOUN	_	16	nmod	_	_
+16	build	build	NOUN	VERB	_	13	obj	_	_
+17	for	for	ADP	ADP	_	11	obl:ad	_	_
+18	school	school	NOUN	NOUN	_	17	obj	_	_
+19	]	]	PUNCT	PUNCT	_	11	punct	_	_
+20	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_49
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	im	he	PRON	PRON	_	3	nsubj	_	_
+3	fall	fall	VERB	VERB	_	0	root	_	_
+4	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_50
+1	#	#	PUNCT	PUNCT	_	13	punct	_	_
+2	as	as	SCONJ	ADP	_	13	advcl	_	_
+3	di	the	DET	DET	_	4	det	_	_
+4	man	man	NOUN	NOUN	_	6	nsubj	_	_
+5	just	just	ADV	ADV	_	6	advmod	_	_
+6	hear	hear	VERB	VERB	_	2	obj	_	_
+7	dat	that	DET	PRON	_	8	det	_	_
+8	one	one	PRON	NUM	_	6	obj	_	_
+9	<	<	PUNCT	PUNCT	_	6	punct	_	_
+10	#	#	PUNCT	PUNCT	_	6	punct	_	_
+11	im	he	PRON	PRON	_	13	nsubj	_	_
+12	just	just	ADV	ADV	_	13	advmod	_	_
+13	shout	shout	VERB	VERB	_	0	root	_	_
+14	//	//	PUNCT	PUNCT	_	13	punct	_	_
+
+
+# id = IBA_13_M_51
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	na	na	PART	PART	_	3	cop	_	_
+3	so	so	ADV	ADV	_	0	root	_	_
+4	>+	>+	VERB	VERB	_	8	punct	_	_
+5	di	the	DET	DET	_	6	det	_	_
+6	man	man	NOUN	NOUN	_	8	nsubj	_	_
+7	just	just	ADV	ADV	_	8	advmod	_	_
+8	lose	loose	VERB	VERB	_	3	ccomp:cleft	_	_
+9	control	control	NOUN	NOUN	_	8	obj	_	_
+10	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_52
+1	#	#	PUNCT	PUNCT	_	5	punct	_	_
+2	im	he	PRON	PRON	_	3	nmod:poss	_	_
+3	motor	motor	NOUN	NOUN	_	5	nsubj	_	_
+4	#	#	PUNCT	PUNCT	_	3	punct	_	_
+5	enter	enter	VERB	VERB	_	0	root	_	_
+6	inside	inside	ADP	ADP	_	5	obl:comp	_	_
+7	bush	bush	NOUN	NOUN	_	6	obj	_	_
+8	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_53
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	na	na	PART	PART	_	4	cop	_	_
+3	ma	my	PRON	PRON	_	4	nmod:poss	_	_
+4	team	team	NOUN	NOUN	_	0	root	_	_
+5	(	(	PUNCT	PUNCT	_	7	punct	_	_
+6	I	I	PRON	PRON	_	7	subj	_	_
+7	dey	PROG	AUX	AUX	_	4	parataxis:parenth	_	_
+8	patrol	patrol	VERB	VERB	_	7	obj	_	_
+9	//)	//)	PUNCT	PUNCT	_	7	punct	_	_
+10	>+	>+	PUNCT	PUNCT	_	14	punct	_	_
+11	naim	naim	ADV	SCONJ	_	14	mark	_	_
+12	dem	they	PRON	PRON	_	14	nsubj	_	_
+13	just	just	ADV	ADV	_	14	advmod	_	_
+14	call	call	VERB	VERB	_	4	acl:cleft	_	_
+15	us	we	PRON	PRON	_	14	obj	_	_
+16	sey	that	SCONJ	SCONJ	_	14	ccomp	_	_
+17	[	[	PUNCT	PUNCT	_	19	punct	_	_
+18	im	he	PRON	PRON	_	19	subj	_	_
+19	don	have	AUX	AUX	_	16	obj	_	_
+20	happen	happen	VERB	VERB	_	19	obj	_	_
+21	]	]	PUNCT	PUNCT	_	19	punct	_	_
+22	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_54
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	we	we	PRON	PRON	_	4	nsubj	_	_
+3	just	just	ADV	ADV	_	4	advmod	_	_
+4	go	go	VERB	VERB	_	0	root	_	_
+5	dere	there	ADV	ADV	_	4	advmod	_	_
+6	//=	//=	PUNCT	PUNCT	_	7	punct	_	_
+7	reach	arrive	VERB	VERB	_	4	parataxis:conj	_	_
+8	dere	there	ADV	ADV	_	7	advmod	_	_
+9	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_55
+1	we	we	PRON	PRON	_	2	nsubj	_	_
+2	see	see	VERB	VERB	_	0	root	_	_
+3	di	the	DET	DET	_	4	det	_	_
+4	man	man	NOUN	NOUN	_	2	obj	_	_
+5	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_56
+1	#	#	PUNCT	PUNCT	_	6	punct	_	_
+2	unfortunately	unfortunately	ADV	ADV	_	6	advmod	_	_
+3	<	<	PUNCT	PUNCT	_	2	punct	_	_
+4	im	he	PRON	PRON	_	6	nsubj	_	_
+5	no	not	PART	PART	_	6	advmod	_	_
+6	wear	wear	VERB	VERB	_	0	root	_	_
+7	seat	seat	NOUN	NOUN	_	8	compound	_	_
+8	belt	belt	NOUN	NOUN	_	6	obj	_	_
+9	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_57
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	na	na	PART	PART	_	3	cop	_	_
+3	wetin	what	PRON	PRON	_	0	root	_	_
+4	complicate	complicate	VERB	VERB	_	3	acl:relcl	_	_
+5	di	the	DET	DET	_	7	det	_	_
+6	whole	whole	ADJ	ADJ	_	7	amod	_	_
+7	matter	matter	NOUN	NOUN	_	4	obj	_	_
+8	>+	>+	PUNCT	PUNCT	_	10	punct	_	_
+9	be	be	PART	PART	_	10	cop	_	_
+10	dat	that	PRON	PRON	_	3	acl:cleft	_	_
+11	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_58
+1	#	#	PUNCT	PUNCT	_	10	punct	_	_
+2	so	so	ADV	SCONJ	_	11	advmod	_	_
+3	as	as	SCONJ	ADP	_	11	advcl	_	_
+4	im	he	PRON	PRON	_	5	nsubj	_	_
+5	enter	enter	VERB	VERB	_	3	obj	_	_
+6	inside	inside	ADP	ADP	_	5	obl:ad	_	_
+7	bush	bush	NOUN	NOUN	_	6	obj	_	_
+8	<+	<+	PUNCT	PUNCT	_	5	punct	_	_
+9	im	he	PRON	PRON	_	10	subj	_	_
+10	go	go	AUX	VERB	_	0	root	_	_
+11	jam	jam	VERB	VERB	_	10	obj	_	_
+12	one	one	NUM	DET	_	13	nummod	_	_
+13	rock	rock	NOUN	NOUN	_	11	obj	_	_
+14	//	//	PUNCT	PUNCT	_	10	punct	_	_
+
+
+# id = IBA_13_M_59
+1	as	as	SCONJ	ADP	_	9	advcl	_	_
+2	im	he	PRON	PRON	_	3	nsubj	_	_
+3	jam	jam	VERB	VERB	_	1	obj	_	_
+4	di	the	DET	DET	_	5	det	_	_
+5	rock	rock	NOUN	NOUN	_	3	obj	_	_
+6	<+	<+	PUNCT	PUNCT	_	3	punct	_	_
+7	#	#	PUNCT	PUNCT	_	3	punct	_	_
+8	im	he	PRON	PRON	_	9	nsubj	_	_
+9	take	take	VERB	VERB	_	0	root	_	_
+10	#	#	PUNCT	PUNCT	_	11	punct	_	_
+11	chest	chest	NOUN	NOUN	_	9	obj	_	_
+12	hit	hit	VERB	VERB	_	9	compound:svc	_	_
+13	steer	steer	NOUN	VERB	_	12	obj	_	_
+14	//	//	PUNCT	PUNCT	_	9	punct	_	_
+
+
+# id = IBA_13_M_60
+1	when	when	ADV	ADV	_	4	mark	_	_
+2	we	we	PRON	PRON	_	4	nsubj	_	_
+3	#	#	PUNCT	PUNCT	_	2	punct	_	_
+4	reach	arrive	VERB	VERB	_	10	advcl	_	_
+5	di	the	DET	DET	_	6	det	_	_
+6	scene	scene	NOUN	NOUN	_	4	obj	_	_
+7	<+	<+	PUNCT	PUNCT	_	4	punct	_	_
+8	#	#	PUNCT	PUNCT	_	4	punct	_	_
+9	we	we	PRON	PRON	_	10	nsubj	_	_
+10	open	open	VERB	VERB	_	0	root	_	_
+11	di	the	DET	DET	_	12	det	_	_
+12	door	door	NOUN	NOUN	_	10	obj	_	_
+13	<	<	PUNCT	PUNCT	_	21	punct	_	_
+14	#	#	PUNCT	PUNCT	_	21	punct	_	_
+15	di	the	DET	DET	_	17	det	_	_
+16	first	first	ADJ	ADJ	_	17	amod	_	_
+17	thing	thing	NOUN	NOUN	_	21	nsubj	_	_
+18	wen	wen	SCONJ	SCONJ	_	17	acl:relcl	_	_
+19	I	I	PRON	PRON	_	20	nsubj	_	_
+20	see	see	VERB	VERB	_	18	obj	_	_
+21	be	be	PART	PART	_	10	parataxis:conj	_	_
+22	sey	that	SCONJ	SCONJ	_	21	ccomp	_	_
+23	blood	blood	NOUN	NOUN	_	24	subj	_	_
+24	dey	be	AUX	AUX	_	22	obj	_	_
+25	comot	leave	VERB	VERB	_	24	obj	_	_
+26	{	{	PUNCT	PUNCT	_	30	punct	_	_
+27	from	from	ADP	ADP	_	25	obl:comp	_	_
+28	di	the	DET	DET	_	30	det	_	_
+29	man	man	NOUN	NOUN	_	30	compound	_	_
+30	nose	nose	NOUN	NOUN	_	27	obj	_	_
+31	|c	|c	PUNCT	PUNCT	_	37	mark	_	_
+32	#	#	PUNCT	PUNCT	_	37	mark	_	_
+33	and	and	CCONJ	CCONJ	_	30	conj:coord	_	_
+34	from	from	ADP	ADP	_	33	obj	_	_
+35	di	the	DET	DET	_	37	det	_	_
+36	man	man	NOUN	NOUN	_	37	compound	_	_
+37	ear	ear	NOUN	NOUN	_	34	obj	_	_
+38	}	}	PUNCT	PUNCT	_	30	punct	_	_
+39	//	//	PUNCT	PUNCT	_	10	punct	_	_
+
+
+# id = IBA_13_M_61
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	na	na	PART	PART	_	3	cop	_	_
+3	wetin	what	PRON	PRON	_	0	root	_	_
+4	dem	they	PRON	PRON	_	5	subj	_	_
+5	dey	be	AUX	AUX	_	3	acl:relcl	_	_
+6	call	call	VERB	VERB	_	5	obj	_	_
+7	haemorrhage	haemorrhage	NOUN	NOUN	_	6	xcomp	_	_
+8	be	be	VERB	PART	_	3	acl:cleft	_	_
+9	dat	that	PRON	PRON	_	8	obj	_	_
+10	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_62
+1	im	he	PRON	PRON	_	2	subj	_	_
+2	don	have	AUX	AUX	_	0	root	_	_
+3	dey	be	AUX	AUX	_	2	obj	_	_
+4	bleed	bleed	VERB	VERB	_	3	obj	_	_
+5	from	from	ADP	ADP	_	4	obl:ad	_	_
+6	inside	inside	ADV	ADP	_	5	obj	_	_
+7	//	//	PUNCT	PUNCT	_	-1	_	_	_
+
+
+# id = IBA_13_M_63
+1	#	#	PUNCT	PUNCT	_	8	punct	_	_
+2	and	and	CCONJ	CCONJ	_	9	dislocated	_	_
+3	bleed	bleed	NOUN	NOUN	_	2	obj	_	_
+4	from	from	ADP	ADP	_	3	obl:comp	_	_
+5	inside	inside	ADV	ADP	_	4	obj	_	_
+6	<	<	PUNCT	PUNCT	_	2	punct	_	_
+7	nobody	nobody	NOUN	NOUN	_	8	subj	_	_
+8	fit	can	AUX	AUX	_	0	root	_	_
+9	stop	stop	VERB	VERB	_	8	obj	_	_
+10	am	he	PRON	PRON	_	9	obj	_	_
+11	//	//	PUNCT	PUNCT	_	8	punct	_	_
+
+
+# id = IBA_13_M_64
+1	na	na	PART	PART	_	2	cop	_	_
+2	so	so	ADV	ADV	_	0	root	_	_
+3	>+	>+	PUNCT	VERB	_	6	punct	_	_
+4	di	the	DET	DET	_	6	subj	_	_
+5	bleed	bleed	NOUN	VERB	_	4	amod	_	_
+6	go	will	AUX	AUX	_	2	ccomp:cleft	_	_
+7	continue	continue	VERB	VERB	_	6	obj	_	_
+8	till	till	SCONJ	ADP	_	7	advcl	_	_
+9	di	the	DET	DET	_	10	det	_	_
+10	person	person	NOUN	NOUN	_	11	subj	_	_
+11	go	will	AUX	AUX	_	8	obj	_	_
+12	die	die	VERB	VERB	_	11	obj	_	_
+13	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_65
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	we	we	PRON	PRON	_	4	punct	_	_
+3	sha	sha	PART	PART	_	2	advmod	_	_
+4	carry	carry	VERB	VERB	_	0	root	_	_
+5	di	the	DET	DET	_	6	det	_	_
+6	man	man	NOUN	NOUN	_	4	obj	_	_
+7	comot	leave	VERB	VERB	_	4	compound:svc	_	_
+8	//=	//=	PUNCT	PUNCT	_	10	punct	_	_
+9	#	#	PUNCT	PUNCT	_	10	punct	_	_
+10	carry	carry	VERB	VERB	_	4	parataxis:conj	_	_
+11	am	he	PRON	PRON	_	10	obj	_	_
+12	go	go	VERB	VERB	_	10	compound:svc	_	_
+13	hospital	hospital	NOUN	NOUN	_	12	obj	_	_
+14	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_66
+1	im	he	PRON	PRON	_	3	subj	_	_
+2	still	still	ADV	ADV	_	4	advcl	_	_
+3	dey	be	VERB	PART	_	0	root	_	_
+4	alive	alive	ADJ	ADJ	_	3	obj	_	_
+5	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_67
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	but	but	CCONJ	CCONJ	_	0	root	_	_
+3	we	we	PRON	PRON	_	4	subj	_	_
+4	neva	never	AUX	AUX	_	2	obj	_	_
+5	comot	leave	VERB	VERB	_	4	obj	_	_
+6	for	for	ADP	ADP	_	5	obl:comp	_	_
+7	di	the	DET	DET	_	8	det	_	_
+8	hospital	hospital	NOUN	NOUN	_	6	obj	_	_
+9	wey	where	SCONJ	SCONJ	_	5	advcl	_	_
+10	di	the	DET	DET	_	11	det	_	_
+11	doctor	doctor	NOUN	NOUN	_	12	nsubj	_	_
+12	come	come	VERB	VERB	_	9	obj	_	_
+13	tell	tell	VERB	VERB	_	12	xcomp	_	_
+14	us	we	PRON	PRON	_	13	obj	_	_
+15	sey	that	SCONJ	SCONJ	_	13	ccomp	_	_
+16	[	[	PUNCT	PUNCT	_	21	punct	_	_
+17	unfortunately	unfortunately	ADV	ADV	_	22	advmod	_	_
+18	<	<	PUNCT	PUNCT	_	17	punct	_	_
+19	di	the	DET	DET	_	20	det	_	_
+20	man	man	NOUN	NOUN	_	21	subj	_	_
+21	don	have	AUX	AUX	_	15	obj	_	_
+22	kpeme	kpeme	VERB	VERB	_	21	obj	_	_
+23	]	]	PUNCT	PUNCT	_	21	punct	_	_
+24	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_68
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	na	na	PART	PART	_	3	cop	_	_
+3	so	so	ADV	ADV	_	0	root	_	_
+4	>+	>+	VERB	VERB	_	7	punct	_	_
+5	di	the	DET	DET	_	6	det	_	_
+6	man	man	NOUN	NOUN	_	7	nsubj	_	_
+7	take	take	VERB	VERB	_	3	ccomp:cleft	_	_
+8	waka	waka	VERB	VERB	_	7	compound:svc	_	_
+9	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_69
+1	#	#	PUNCT	PUNCT	_	9	punct	_	_
+2	unfortunately	unfortunately	ADV	ADV	_	9	advmod	_	_
+3	<	<	PUNCT	PUNCT	_	2	punct	_	_
+4	di	the	DET	DET	_	5	det	_	_
+5	daughter	daughter	NOUN	NOUN	_	9	dislocated	_	_
+6	too	too	ADV	ADV	_	5	advmod	_	_
+7	<	<	PUNCT	PUNCT	_	5	punct	_	_
+8	im	he	PRON	PRON	_	9	nsubj	_	_
+9	die	die	VERB	VERB	_	0	root	_	_
+10	//	//	PUNCT	PUNCT	_	9	punct	_	_
+
+
+# id = IBA_13_M_70
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	see	see	INTJ	VERB	_	4	discourse	_	_
+3	two	two	NUM	NUM	_	4	nummod	_	_
+4	lose	lose	NOUN	NOUN	_	0	root	_	_
+5	now	now	ADV	ADV	_	4	advmod:emph	_	_
+6	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_71
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	come	come	AUX	VERB	_	0	root	_	_
+3	leave	leave	VERB	VERB	_	2	obj	_	_
+4	di	the	DET	DET	_	5	det	_	_
+5	wife	wife	NOUN	NOUN	_	3	obj	_	_
+6	alone	alone	ADJ	ADJ	_	3	xcomp	_	_
+7	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_72
+1	only	only	ADV	ADV	_	3	advmod	_	_
+2	di	the	DET	DET	_	3	det	_	_
+3	wife	wife	NOUN	NOUN	_	4	subj	_	_
+4	come	come	AUX	VERB	_	0	root	_	_
+5	dey	be	VERB	PART	_	4	obj	_	_
+6	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_73
+1	#	#	PUNCT	PUNCT	_	-1	_	_	_
+2	lose	lose	VERB	VERB	_	0	root	_	_
+3	husband	husband	NOUN	NOUN	_	2	obj	_	_
+4	//=	//=	PUNCT	PUNCT	_	5	punct	_	_
+5	lose	lose	VERB	VERB	_	2	parataxis:conj	_	_
+6	pikin	child	NOUN	NOUN	_	5	obj	_	_
+7	//	//	PUNCT	PUNCT	_	-1	_	_	_
+
+
+# id = IBA_13_M_74
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	but	but	CCONJ	CCONJ	_	0	root	_	_
+3	if	if	SCONJ	SCONJ	_	27	advcl	_	_
+4	to	to	PART	ADP	_	5	mark	_	_
+5	say	say	VERB	VERB	_	3	obj	_	_
+6	dat	that	DET	PRON	_	7	det	_	_
+7	man	man	NOUN	NOUN	_	11	dislocated	_	_
+8	now	now	ADV	ADV	_	7	advcl:periph	_	_
+9	#	#	PUNCT	PUNCT	_	7	advcl:periph	_	_
+10	im	he	PRON	PRON	_	11	nsubj	_	_
+11	pull	pull	VERB	VERB	_	5	ccomp	_	_
+12	over	over	ADP	ADP	_	11	compound:prt	_	_
+13	im	he	PRON	PRON	_	14	nsubj	_	_
+14	park	park	NOUN	NOUN	_	11	conj:coord	_	_
+15	#	#	PUNCT	PUNCT	_	-1	_	_	_
+16	answer	answer	VERB	VERB	_	14	xcomp	_	_
+17	di	the	DET	DET	_	18	det	_	_
+18	call	call	NOUN	NOUN	_	16	obj	_	_
+19	<	<	PUNCT	PUNCT	_	5	punct	_	_
+20	#	#	PUNCT	PUNCT	_	5	punct	_	_
+21	maybe	maybe	ADV	ADV	_	27	advmod	_	_
+22	<	<	PUNCT	PUNCT	_	21	punct	_	_
+23	di	the	DET	DET	_	24	det	_	_
+24	man	man	NOUN	NOUN	_	25	subj	_	_
+25	for	for	AUX	ADP	_	2	obj	_	_
+26	no	not	PART	PART	_	25	advmod	_	_
+27	die	die	VERB	VERB	_	25	obj	_	_
+28	//	//	PUNCT	PUNCT	_	25	punct	_	_
+
+
+# id = IBA_13_M_75
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	hope	hope	NOUN	VERB	_	4	nsubj	_	_
+3	still	still	ADV	ADV	_	4	advmod	_	_
+4	dey	be	VERB	PART	_	0	root	_	_
+5	sey	that	SCONJ	SCONJ	_	4	ccomp	_	_
+6	[	[	PUNCT	PUNCT	_	8	punct	_	_
+7	dem	they	PRON	PRON	_	8	subj	_	_
+8	go	will	AUX	AUX	_	5	obj	_	_
+9	born	born	VERB	VERB	_	8	obj	_	_
+10	anoder	another	DET	DET	_	11	det	_	_
+11	pikin	child	NOUN	NOUN	_	9	obj	_	_
+12	]	]	NOUN	NOUN	_	8	punct	_	_
+13	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_76
+1	so	so	ADV	SCONJ	_	3	advmod	_	_
+2	dese	dese	DET	DET	_	3	det	_	_
+3	kind	kind	NOUN	NOUN	_	6	nsubj	_	_
+4	thing	thing	NOUN	NOUN	_	3	nmod	_	_
+5	no	not	PART	PART	_	6	advmod	_	_
+6	good	good	ADJ	ADJ	_	0	root	_	_
+7	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_77
+1	#	#	PUNCT	PUNCT	_	7	punct	_	_
+2	if	if	SCONJ	SCONJ	_	10	advcl	_	_
+3	we	we	PRON	PRON	_	4	subj	_	_
+4	dey	be	AUX	AUX	_	2	obj	_	_
+5	drive	drive	VERB	VERB	_	4	obj	_	_
+6	<	<	PUNCT	PUNCT	_	7	punct	_	_
+7	make	let	AUX	AUX	_	0	root	_	_
+8	we	we	PRON	PRON	_	7	subj	_	_
+9	dey	be	AUX	AUX	_	7	obj	_	_
+10	concentrate	concentrate	VERB	VERB	_	9	obj	_	_
+11	>	>	PUNCT	PUNCT	_	13	punct	_	_
+12	hundred	hundred	NUM	NUM	_	13	nummod	_	_
+13	percent	percent	NOUN	NOUN	_	10	advmod	_	_
+14	//	//	PUNCT	PUNCT	_	10	punct	_	_
+
+
+# id = IBA_13_M_78
+1	no	not	PART	PART	_	2	advmod	_	_
+2	be	be	VERB	PART	_	8	obj	_	_
+3	like	like	ADP	ADP	_	2	obj	_	_
+4	sey	that	SCONJ	SCONJ	_	0	root	_	_
+5	[	[	PUNCT	PUNCT	_	7	punct	_	_
+6	dem	they	PRON	PRON	_	7	subj	_	_
+7	go	will	AUX	AUX	_	4	obj	_	_
+8	dey	be	AUX	AUX	_	7	obj	_	_
+9	answer	answer	VERB	VERB	_	3	obj	_	_
+10	call	call	NOUN	NOUN	_	9	obj	_	_
+11	]	]	NOUN	NOUN	_	7	punct	_	_
+12	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_79
+1	because	because	SCONJ	SCONJ	_	0	root	_	_
+2	you	you	PRON	PRON	_	4	nsubj	_	_
+3	no	not	PART	PART	_	4	advmod	_	_
+4	know	know	VERB	VERB	_	1	obj	_	_
+5	wetin	what	PRON	PRON	_	4	obj	_	_
+6	di	the	DET	DET	_	7	det	_	_
+7	person	person	NOUN	NOUN	_	8	subj	_	_
+8	go	will	AUX	AUX	_	5	acl:relcl	_	_
+9	tell	tell	VERB	VERB	_	8	obj	_	_
+10	you	you	PRON	PRON	_	9	iobj	_	_
+11	for	for	ADP	ADP	_	9	obl:comp	_	_
+12	phone	phone	NOUN	NOUN	_	11	obj	_	_
+13	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_80
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	im	he	PRON	PRON	_	3	subj	_	_
+3	fit	can	AUX	AUX	_	0	root	_	_
+4	make	let	VERB	VERB	_	3	obj	_	_
+5	you	you	PRON	PRON	_	4	obj	_	_
+6	loose	loose	VERB	VERB	_	4	xcomp	_	_
+7	control	control	NOUN	NOUN	_	6	obj	_	_
+8	//=	//=	PUNCT	PUNCT	_	10	punct	_	_
+9	im	he	PRON	PRON	_	10	subj	_	_
+10	fit	can	AUX	AUX	_	4	parataxis:conj	_	_
+11	scatter	scatter	VERB	VERB	_	10	obj	_	_
+12	your	your	PRON	PRON	_	13	nmod:poss	_	_
+13	mind	mind	NOUN	NOUN	_	11	obj	_	_
+14	//=	//=	PUNCT	PUNCT	_	16	punct	_	_
+15	im	he	PRON	PRON	_	16	subj	_	_
+16	fit	can	AUX	AUX	_	4	parataxis:conj	_	_
+17	scatter	scatter	VERB	VERB	_	16	obj	_	_
+18	your	your	PRON	PRON	_	19	nmod:poss	_	_
+19	head	head	NOUN	NOUN	_	17	obj	_	_
+20	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_81
+1	#	#	PUNCT	PUNCT	_	14	discourse	_	_
+2	so	so	ADV	SCONJ	_	14	discourse	_	_
+3	if	if	SCONJ	SCONJ	_	14	advcl	_	_
+4	you	you	PRON	PRON	_	5	nsubj	_	_
+5	know	know	VERB	VERB	_	3	obj	_	_
+6	sey	that	SCONJ	SCONJ	_	5	ccomp	_	_
+7	[	[	PUNCT	PUNCT	_	9	discourse	_	_
+8	you	you	PRON	PRON	_	9	nsubj	_	_
+9	want	want	VERB	VERB	_	6	obj	_	_
+10	answer	answer	VERB	VERB	_	9	xcomp	_	_
+11	call	call	NOUN	NOUN	_	10	obj	_	_
+12	]	]	NOUN	NOUN	_	9	discourse	_	_
+13	<	<	PUNCT	PUNCT	_	5	discourse	_	_
+14	park	park	VERB	NOUN	_	0	root	_	_
+15	//	//	PUNCT	PUNCT	_	14	discourse	_	_
+
+
+# id = IBA_13_M_82
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	make	let	AUX	AUX	_	0	root	_	_
+3	you	you	PRON	PRON	_	2	subj	_	_
+4	answer	answer	VERB	VERB	_	2	obj	_	_
+5	di	the	DET	DET	_	6	det	_	_
+6	call	call	NOUN	NOUN	_	4	obj	_	_
+7	//=	//=	PUNCT	PUNCT	_	8	punct	_	_
+8	make	let	AUX	AUX	_	4	parataxis:conj	_	_
+9	you	you	PRON	PRON	_	8	subj	_	_
+10	continue	continue	VERB	VERB	_	8	obj	_	_
+11	wit	with	ADP	ADP	_	10	obl:comp	_	_
+12	your	your	PRON	PRON	_	13	nmod:poss	_	_
+13	journey	journey	NOUN	NOUN	_	11	obj	_	_
+14	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_83
+1	#	#	PUNCT	PUNCT	_	16	punct	_	_
+2	anoder	another	DET	DET	_	3	det	_	_
+3	thing	thing	NOUN	NOUN	_	17	dislocated	_	_
+4	wey	where	SCONJ	SCONJ	_	3	acl:relcl	_	_
+5	people	people	NOUN	NOUN	_	6	subj	_	_
+6	dey	be	AUX	AUX	_	4	obj	_	_
+7	do	do	VERB	VERB	_	6	obj	_	_
+8	wey	where	SCONJ	SCONJ	_	7	conj:coord	_	_
+9	no	not	PART	PART	_	10	advmod	_	_
+10	good	good	ADJ	ADJ	_	8	obj	_	_
+11	<	<	PUNCT	PUNCT	_	3	punct	_	_
+12	na	na	VERB	PART	_	16	obj	_	_
+13	sey	that	SCONJ	SCONJ	_	0	root	_	_
+14	[	[	PUNCT	PUNCT	_	16	punct	_	_
+15	dem	they	PRON	PRON	_	16	subj	_	_
+16	dey	be	AUX	AUX	_	13	obj	_	_
+17	drink	drink	VERB	VERB	_	12	obj	_	_
+18	#	#	PUNCT	PUNCT	_	21	punct	_	_
+19	before	before	SCONJ	ADP	_	17	advcl	_	_
+20	dem	they	PRON	PRON	_	21	nsubj	_	_
+21	drive	drive	VERB	VERB	_	19	obj	_	_
+22	motor	motor	NOUN	NOUN	_	21	obj	_	_
+23	]	]	NOUN	NOUN	_	12	punct	_	_
+24	//	//	PUNCT	PUNCT	_	12	punct	_	_
+
+
+# id = IBA_13_M_84
+1	and	and	CCONJ	CCONJ	_	9	advcl	_	_
+2	when	when	ADV	ADV	_	4	mark	_	_
+3	we	we	PRON	PRON	_	4	nsubj	_	_
+4	say	say	VERB	VERB	_	1	obj	_	_
+5	drink	drink	VERB	VERB	_	4	obj	_	_
+6	<	<	PUNCT	PUNCT	_	1	punct	_	_
+7	no	not	PART	PART	_	8	advmod	_	_
+8	be	be	VERB	PART	_	0	root	_	_
+9	drink	drink	NOUN	VERB	_	8	obj	_	_
+10	of	of	ADP	ADP	_	9	nmod	_	_
+11	{	{	PUNCT	PUNCT	_	-1	_	_	_
+12	wata	wata	NOUN	NOUN	_	10	obj	_	_
+13	|	|	PUNCT	PUNCT	_	-1	_	_	_
+14	or	or	CCONJ	CCONJ	_	12	conj:coord	_	_
+15	sprite	sprite	NOUN	NOUN	_	14	obj	_	_
+16	|	|	PUNCT	PUNCT	_	-1	_	_	_
+17	or	or	CCONJ	CCONJ	_	12	conj:coord	_	_
+18	pepsi	pepsi	NOUN	NOUN	_	17	obj	_	_
+19	}	}	PUNCT	PUNCT	_	-1	_	_	_
+20	//	//	PUNCT	PUNCT	_	8	punct	_	_
+
+
+# id = IBA_13_M_85
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	dem	they	PRON	PRON	_	3	subj	_	_
+3	dey	be	AUX	AUX	_	0	root	_	_
+4	drink	drink	VERB	VERB	_	3	obj	_	_
+5	{	{	PUNCT	PUNCT	_	6	punct	_	_
+6	kainkain	kainkain	NOUN	NOUN	_	4	obj	_	_
+7	|	|	PUNCT	PUNCT	_	8	punct	_	_
+8	ogogoro	ogogoro	NOUN	NOUN	_	6	conj:coord	_	_
+9	|	|	PUNCT	PUNCT	_	11	punct	_	_
+10	#	#	PUNCT	PUNCT	_	11	punct	_	_
+11	alcohol	alcohol	NOUN	NOUN	_	6	conj:coord	_	_
+12	}	}	PUNCT	PUNCT	_	-1	_	_	_
+13	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_86
+1	#	#	PUNCT	PUNCT	_	9	punct	_	_
+2	after	after	ADP	ADP	_	4	obj	_	_
+3	dey	be	AUX	AUX	_	11	advcl	_	_
+4	don	have	AUX	AUX	_	3	obj	_	_
+5	drink	drink	VERB	VERB	_	2	obj	_	_
+6	finish	finish	VERB	VERB	_	5	compound:svc	_	_
+7	<	<	PUNCT	PUNCT	_	3	punct	_	_
+8	dem	they	PRON	PRON	_	9	subj	_	_
+9	go	will	AUX	AUX	_	0	root	_	_
+10	come	come	VERB	VERB	_	9	obj	_	_
+11	enter	enter	VERB	VERB	_	10	obj	_	_
+12	steer	steer	NOUN	VERB	_	11	obj	_	_
+13	say	say	VERB	VERB	_	11	conj:coord	_	_
+14	[	[	PUNCT	PUNCT	_	19	punct	_	_
+15	yes	yes	INTJ	INTJ	_	19	discourse	_	_
+16	<	<	PUNCT	PUNCT	_	15	punct	_	_
+17	I	I	PRON	PRON	_	19	nsubj	_	_
+18	don	have	AUX	AUX	_	19	aux	_	_
+19	gallant	gallant	ADJ	ADJ	_	13	parataxis:obj	_	_
+20	now	now	ADV	ADV	_	19	advmod	_	_
+21	//	//	PUNCT	PUNCT	_	22	punct	_	_
+22	]	]	PUNCT	PUNCT	_	19	punct	_	_
+23	//	//	PUNCT	PUNCT	_	9	punct	_	_
+
+
+# id = IBA_13_M_87
+1	I	I	PRON	PRON	_	2	nsubj	_	_
+2	want	want	VERB	VERB	_	0	root	_	_
+3	drive	drive	VERB	VERB	_	2	xcomp	_	_
+4	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_88
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	and	and	CCONJ	CCONJ	_	0	root	_	_
+3	people	people	NOUN	NOUN	_	4	subj	_	_
+4	dey	be	AUX	AUX	_	2	obj	_	_
+5	live	live	VERB	VERB	_	4	obj	_	_
+6	under	under	ADP	ADP	_	8	amod	_	_
+7	one	one	NUM	NUM	_	8	nummod	_	_
+8	illusion	illusion	NOUN	NOUN	_	5	obl:ad	_	_
+9	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_89
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	many	many	ADJ	ADJ	_	3	amod	_	_
+3	driver	driver	NOUN	NOUN	_	4	subj	_	_
+4	go	will	AUX	AUX	_	0	root	_	_
+5	tell	tell	VERB	VERB	_	4	obj	_	_
+6	you	you	PRON	PRON	_	5	obj	_	_
+7	sey	that	SCONJ	SCONJ	_	5	ccomp	_	_
+8	[	[	PUNCT	PUNCT	_	11	punct	_	_
+9	na	na	PART	PART	_	11	cop	_	_
+10	di	the	DET	DET	_	11	det	_	_
+11	time	time	NOUN	NOUN	_	7	obj	_	_
+12	wey	where	SCONJ	SCONJ	_	11	acl:relcl	_	_
+13	dem	they	PRON	PRON	_	14	nsubj	_	_
+14	drink	drink	VERB	VERB	_	12	obj	_	_
+15	>+	>+	PART	PART	_	19	punct	_	_
+16	naim	that	PRON	PRON	_	19	mark	_	_
+17	dem	they	PRON	PRON	_	19	nsubj	_	_
+18	dey	be	AUX	PART	_	19	aux	_	_
+19	sharp	sharp	ADJ	ADJ	_	11	acl:cleft	_	_
+20	pass	pass	VERB	VERB	_	19	compound:svc	_	_
+21	]	]	PUNCT	PUNCT	_	11	punct	_	_
+22	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_90
+1	na	na	PART	PART	_	3	cop	_	_
+2	big	big	ADJ	ADJ	_	3	amod	_	_
+3	lie	lie	NOUN	VERB	_	0	root	_	_
+4	!//	!//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_91
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	na	na	PART	PART	_	4	cop	_	_
+3	big	big	ADJ	ADJ	_	4	amod	_	_
+4	lie	lie	NOUN	VERB	_	0	root	_	_
+5	!//	!//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_92
+1	okay	okay	INTJ	INTJ	_	0	root	_	_
+2	!//	!//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_93
+1	make	JUS	AUX	AUX	_	0	root	_	_
+2	I	I	PRON	PRON	_	1	subj	_	_
+3	ask	ask	VERB	VERB	_	1	obj	_	_
+4	una	you	PRON	PRON	_	3	obj	_	_
+5	as	as	SCONJ	ADP	_	3	advcl	_	_
+6	una	you	PRON	PRON	_	7	nsubj	_	_
+7	dey	be	VERB	PART	_	5	obj	_	_
+8	here	here	ADV	ADV	_	7	advmod	_	_
+9	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_94
+1	#	#	PUNCT	PUNCT	_	6	punct	_	_
+2	how	how	ADV	ADV	_	3	advmod	_	_
+3	many	many	ADJ	ADJ	_	5	amod	_	_
+4	of	of	ADP	ADP	_	6	subj	_	_
+5	una	you	PRON	PRON	_	4	obj	_	_
+6	don	have	AUX	AUX	_	0	root	_	_
+7	go	go	VERB	VERB	_	6	obj	_	_
+8	flex	flex	VERB	VERB	_	7	compound:svc	_	_
+9	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_95
+1	wey	where	SCONJ	SCONJ	_	0	root	_	_
+2	be	be	VERB	PART	_	1	fixed	_	_
+3	sey	that	SCONJ	SCONJ	_	2	fixed	_	_
+4	una	you	PRON	PRON	_	6	nsubj	_	_
+5	{	{	PUNCT	PUNCT	_	6	punct	_	_
+6	comot	leave	VERB	VERB	_	1	obj	_	_
+7	|	|	PUNCT	PUNCT	_	6	punct	_	_
+8	go	will	VERB	AUX	_	6	conj:coord	_	_
+9	high	high	ADJ	ADJ	_	8	compound:prt	_	_
+10	(	(	PUNCT	PUNCT	_	-1	_	_	_
+11	Saturday	Saturday	PROPN	PROPN	_	14	compound	_	_
+12	|c	|c	PUNCT	PUNCT	_	-1	_	_	_
+13	Friday	Friday	PROPN	PROPN	_	11	conj:coord	_	_
+14	night	night	NOUN	NOUN	_	8	obl:ad	_	_
+15	)	)	PUNCT	PUNCT	_	-1	_	_	_
+16	|	|	PUNCT	PUNCT	_	-1	_	_	_
+17	go	go	VERB	VERB	_	6	conj:coord	_	_
+18	party	party	NOUN	NOUN	_	17	obj	_	_
+19	|	|	PUNCT	PUNCT	_	-1	_	_	_
+20	go	go	VERB	VERB	_	6	conj:coord	_	_
+21	club	club	NOUN	NOUN	_	20	obj	_	_
+22	}	}	PUNCT	PUNCT	_	6	punct	_	_
+23	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_96
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	you	you	PRON	PRON	_	3	subj	_	_
+3	come	come	AUX	AUX	_	0	root	_	_
+4	comot	leave	VERB	VERB	_	3	obj	_	_
+5	from	from	ADP	ADP	_	4	obl:comp	_	_
+6	club	club	NOUN	NOUN	_	5	obj	_	_
+7	after	after	SCONJ	ADP	_	4	advcl	_	_
+8	you	you	PRON	PRON	_	10	nsubj	_	_
+9	don	have	AUX	AUX	_	10	aux	_	_
+10	high	high	ADJ	ADJ	_	7	obj	_	_
+11	//=	//=	PUNCT	PUNCT	_	14	punct	_	_
+12	#	#	PUNCT	PUNCT	_	14	punct	_	_
+13	you	you	PRON	PRON	_	14	nsubj	_	_
+14	enter	enter	VERB	VERB	_	4	parataxis:conj	_	_
+15	your	your	PRON	PRON	_	16	nmod:poss	_	_
+16	car	car	NOUN	NOUN	_	14	obj	_	_
+17	//=	//=	PUNCT	PUNCT	_	19	punct	_	_
+18	you	you	PRON	PRON	_	19	nsubj	_	_
+19	start	start	VERB	VERB	_	4	parataxis:conj	_	_
+20	di	the	DET	DET	_	21	det	_	_
+21	ignition	ignition	NOUN	NOUN	_	19	obj	_	_
+22	//=	//=	PUNCT	PUNCT	_	25	punct	_	_
+23	#	#	PUNCT	PUNCT	_	25	punct	_	_
+24	you	you	PRON	PRON	_	25	nsubj	_	_
+25	reach	arrive	VERB	VERB	_	4	parataxis:conj	_	_
+26	house	house	NOUN	NOUN	_	25	obj	_	_
+27	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_97
+1	#	#	PUNCT	PUNCT	_	8	punct	_	_
+2	you	you	PRON	PRON	_	3	nsubj	_	_
+3	wake	wake	VERB	VERB	_	10	parataxis:dislocated	_	_
+4	up	up	ADP	ADP	_	3	compound:prt	_	_
+5	di	the	DET	DET	_	7	det	_	_
+6	next	next	ADJ	ADJ	_	7	amod	_	_
+7	morning	morning	NOUN	NOUN	_	3	obl:ad	_	_
+8	come	come	AUX	VERB	_	0	root	_	_
+9	dey	be	AUX	AUX	_	8	obj	_	_
+10	ask	ask	VERB	VERB	_	9	obj	_	_
+11	yourself	yourself	PRON	PRON	_	10	iobj	_	_
+12	sey	that	SCONJ	SCONJ	_	10	parataxis:obj	_	_
+13	[	[	PUNCT	PUNCT	_	16	punct	_	_
+14	how	how	ADV	ADV	_	16	advmod	_	_
+15	I	I	PRON	PRON	_	16	nsubj	_	_
+16	take	take	VERB	VERB	_	12	obj	_	_
+17	reach	arrive	VERB	VERB	_	16	compound:svc	_	_
+18	house	house	NOUN	NOUN	_	17	obj	_	_
+19	//	//	PUNCT	PUNCT	_	20	punct	_	_
+20	]	]	PUNCT	PUNCT	_	16	punct	_	_
+21	//	//	PUNCT	PUNCT	_	8	punct	_	_
+
+
+# id = IBA_13_M_98
+1	#	#	PUNCT	PUNCT	_	22	punct	_	_
+2	{	{	PUNCT	PUNCT	_	5	punct	_	_
+3	if	if	SCONJ	SCONJ	_	24	advcl	_	_
+4	im	he	PRON	PRON	_	5	subj	_	_
+5	don	have	AUX	AUX	_	3	obj	_	_
+6	happen	happen	VERB	VERB	_	5	obj	_	_
+7	to	to	ADP	ADP	_	6	obl:comp	_	_
+8	you	you	PRON	PRON	_	7	obj	_	_
+9	(	(	PUNCT	PUNCT	_	-1	_	_	_
+10	no	not	PART	PART	_	11	advmod	_	_
+11	lie	lie	VERB	VERB	_	6	parataxis:parenth	_	_
+12	//)	//)	PUNCT	PUNCT	_	-1	_	_	_
+13	|	|	PUNCT	PUNCT	_	15	punct	_	_
+14	if	if	SCONJ	SCONJ	_	6	conj:dicto	_	_
+15	don	have	AUX	AUX	_	14	obj	_	_
+16	happen	happen	VERB	VERB	_	15	obj	_	_
+17	to	to	ADP	ADP	_	16	obl:comp	_	_
+18	you	you	PRON	PRON	_	17	obj	_	_
+19	}	}	PUNCT	PUNCT	_	5	punct	_	_
+20	here	here	ADV	ADV	_	24	advmod	_	_
+21	<	<	PUNCT	PUNCT	_	20	punct	_	_
+22	make	let	AUX	AUX	_	0	root	_	_
+23	I	I	PRON	PRON	_	22	subj	_	_
+24	see	see	VERB	VERB	_	22	obj	_	_
+25	your	your	PRON	PRON	_	26	nmod:poss	_	_
+26	hand	hand	NOUN	NOUN	_	24	obj	_	_
+27	up	up	ADV	ADV	_	24	compound:prt	_	_
+28	//	//	PUNCT	PUNCT	_	22	punct	_	_
+
+
+# id = IBA_13_M_99
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	see	see	VERB	VERB	_	0	root	_	_
+3	how	how	ADV	ADV	_	4	advmod	_	_
+4	many	many	ADJ	ADJ	_	5	amod	_	_
+5	people	people	NOUN	NOUN	_	2	obj	_	_
+6	im	he	PRON	PRON	_	7	subj	_	_
+7	don	PERF	AUX	AUX	_	5	acl:relcl	_	_
+8	happen	happen	VERB	VERB	_	7	obj	_	_
+9	to	to	ADP	ADP	_	8	obl:comp	_	_
+10	?//	?//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_100
+1	wey	where	SCONJ	SCONJ	_	0	root	_	_
+2	be	be	VERB	PART	_	1	fixed	_	_
+3	sey	that	SCONJ	SCONJ	_	2	fixed	_	_
+4	you	you	PRON	PRON	_	5	subj	_	_
+5	go	will	AUX	AUX	_	1	obj	_	_
+6	comot	leave	VERB	VERB	_	5	obj	_	_
+7	for	for	ADP	ADP	_	6	obl:comp	_	_
+8	where	where	ADV	ADV	_	7	obj	_	_
+9	you	you	PRON	PRON	_	10	nsubj	_	_
+10	go	go	VERB	VERB	_	8	acl:relcl	_	_
+11	flex	flex	VERB	VERB	_	10	compound:svc	_	_
+12	//=	//=	PUNCT	PUNCT	_	5	punct	_	_
+13	you	you	PRON	PRON	_	15	nsubj	_	_
+14	just	just	ADV	ADV	_	15	advmod	_	_
+15	know	know	VERB	VERB	_	6	parataxis:conj	_	_
+16	sey	that	SCONJ	SCONJ	_	15	ccomp	_	_
+17	[	[	PUNCT	PUNCT	_	19	punct	_	_
+18	you	you	PRON	PRON	_	19	nsubj	_	_
+19	drive	drive	VERB	VERB	_	16	obj	_	_
+20	|	|	PUNCT	PUNCT	_	22	punct	_	_
+21	you	you	PRON	PRON	_	22	nsubj	_	_
+22	reach	arrive	VERB	VERB	_	19	conj:coord	_	_
+23	house	house	NOUN	NOUN	_	22	obj	_	_
+24	]	]	NOUN	NOUN	_	19	punct	_	_
+25	|	|	PUNCT	PUNCT	_	26	punct	_	_
+26	but	but	CCONJ	CCONJ	_	19	conj:coord	_	_
+27	you	you	PRON	PRON	_	29	nsubj	_	_
+28	no	not	PART	PART	_	29	advmod	_	_
+29	remember	remember	VERB	VERB	_	26	obj	_	_
+30	#	#	PUNCT	PUNCT	_	33	punct	_	_
+31	how	how	ADV	ADV	_	33	advmod	_	_
+32	you	you	PRON	PRON	_	33	nsubj	_	_
+33	take	take	VERB	VERB	_	29	ccomp	_	_
+34	reach	arrive	VERB	VERB	_	33	compound:svc	_	_
+35	house	house	NOUN	NOUN	_	34	obj	_	_
+36	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_102
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	na	na	PART	PART	_	4	cop	_	_
+3	di	the	DET	DET	_	4	det	_	_
+4	danger	danger	NOUN	NOUN	_	0	root	_	_
+5	wen	wen	SCONJ	SCONJ	_	4	acl:relcl	_	_
+6	dey	be	VERB	PART	_	5	obj	_	_
+7	alcohol	alcohol	NOUN	NOUN	_	6	obj	_	_
+8	be	be	VERB	PART	_	4	acl:cleft	_	_
+9	dat	that	PRON	PRON	_	8	obj	_	_
+10	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_103
+1	because	because	SCONJ	SCONJ	_	0	root	_	_
+2	#	#	PUNCT	PUNCT	_	1	punct	_	_
+3	you	you	PRON	PRON	_	4	subj	_	_
+4	don	have	AUX	AUX	_	1	obj	_	_
+5	lose	lose	VERB	VERB	_	4	obj	_	_
+6	#	#	PUNCT	PUNCT	_	14	punct	_	_
+7	{	{	PUNCT	PUNCT	_	12	punct	_	_
+8	your	your	PRON	PRON	_	9	nmod:poss	_	_
+9	think	think	NOUN	VERB	_	12	conj:dicto	_	_
+10	|	|	PUNCT	PUNCT	_	9	punct	_	_
+11	your	your	PRON	PRON	_	14	nmod:poss	_	_
+12	think	think	NOUN	VERB	_	14	compound	_	_
+13	}	think	NOUN	VERB	_	12	punct	_	_
+14	faculty	faculty	NOUN	NOUN	_	5	obj	_	_
+15	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_104
+1	{	{	PUNCT	PUNCT	_	2	punct	_	_
+2	wetin	what	PRON	PRON	_	19	dislocated	_	_
+3	dey	be	AUX	AUX	_	2	acl:relcl	_	_
+4	make	let	VERB	VERB	_	3	obj	_	_
+5	you	you	PRON	PRON	_	4	obj	_	_
+6	dey	be	AUX	AUX	_	4	xcomp	_	_
+7	reason	reason	VERB	VERB	_	6	obj	_	_
+8	|	|	PUNCT	PUNCT	_	10	punct	_	_
+9	#	#	PUNCT	PUNCT	_	10	punct	_	_
+10	wetin	what	PRON	PRON	_	2	conj:dicto	_	_
+11	dey	be	AUX	AUX	_	10	acl:relcl	_	_
+12	make	let	VERB	VERB	_	11	obj	_	_
+13	you	you	PRON	PRON	_	12	obj	_	_
+14	concentrate	concentrate	VERB	VERB	_	12	xcomp	_	_
+15	}	}	PUNCT	PUNCT	_	2	punct	_	_
+16	<	<	PUNCT	PUNCT	_	2	punct	_	_
+17	im	he	PRON	PRON	_	18	subj	_	_
+18	don	have	AUX	AUX	_	0	root	_	_
+19	go	go	VERB	VERB	_	18	obj	_	_
+20	//	//	PUNCT	PUNCT	_	18	punct	_	_
+
+
+# id = IBA_13_M_105
+1	so	so	ADV	SCONJ	_	2	advmod	_	_
+2	imagine	imagine	VERB	VERB	_	0	root	_	_
+3	person	person	NOUN	NOUN	_	14	nsubj	_	_
+4	{	{	PUNCT	PUNCT	_	6	punct	_	_
+5	wey	where	SCONJ	SCONJ	_	3	acl:relcl	_	_
+6	reach	arrive	VERB	VERB	_	5	obj	_	_
+7	house	house	NOUN	NOUN	_	6	obj	_	_
+8	|	|	PUNCT	PUNCT	_	10	punct	_	_
+9	wey	where	SCONJ	SCONJ	_	6	conj:coord	_	_
+10	come	come	AUX	VERB	_	9	obj	_	_
+11	dey	be	AUX	AUX	_	10	obj	_	_
+12	check	check	VERB	VERB	_	11	obj	_	_
+13	}	}	PUNCT	PUNCT	_	6	punct	_	_
+14	say	say	VERB	VERB	_	2	ccomp	_	_
+15	[	[	PUNCT	PUNCT	_	23	punct	_	_
+16	ah	ah	INTJ	INTJ	_	23	discourse	_	_
+17	ah	ah	INTJ	INTJ	_	16	goeswith	_	_
+18	ma	my	PRON	PRON	_	19	nmod:poss	_	_
+19	car	car	NOUN	NOUN	_	23	dislocated	_	_
+20	<	<	PUNCT	PUNCT	_	23	punct	_	_
+21	#	#	PUNCT	PUNCT	_	23	punct	_	_
+22	na	na	PART	PART	_	23	cop	_	_
+23	me	I	PRON	PRON	_	14	parataxis:obj	_	_
+24	>+	>+	VERB	VERB	_	-1	_	_	_
+25	park	park	NOUN	NOUN	_	23	acl:cleft	_	_
+26	dis	this	DET	DET	_	27	det	_	_
+27	car	car	NOUN	NOUN	_	25	obj	_	_
+28	//	//	PUNCT	PUNCT	_	29	punct	_	_
+29	]	]	PUNCT	PUNCT	_	23	punct	_	_
+30	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_106
+1	na	na	PART	PART	_	2	cop	_	_
+2	why	why	ADV	ADV	_	0	root	_	_
+3	drink	drink	VERB	VERB	_	6	csubj	_	_
+4	drive	drive	VERB	VERB	_	3	compound:svc	_	_
+5	no	not	PART	PART	_	6	advmod	_	_
+6	good	good	ADJ	ADJ	_	2	ccomp:cleft	_	_
+7	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_107
+1	we	we	PRON	PRON	_	3	subj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	fit	can	AUX	AUX	_	0	root	_	_
+4	stop	stop	VERB	VERB	_	3	obj	_	_
+5	anybody	anybody	NOUN	NOUN	_	4	obj	_	_
+6	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_108
+1	#	#	PUNCT	PUNCT	_	10	punct	_	_
+2	even	even	ADV	ADV	_	3	advmod	_	_
+3	me	I	PRON	PRON	_	11	dislocated	_	_
+4	as	as	ADP	ADP	_	11	advcl:periph	_	_
+5	I	I	PRON	PRON	_	6	nsubj	_	_
+6	dey	be	VERB	PART	_	4	obj	_	_
+7	now	now	ADV	ADV	_	6	advmod	_	_
+8	<	<	PUNCT	PUNCT	_	6	punct	_	_
+9	I	I	PRON	PRON	_	10	subj	_	_
+10	dey	be	AUX	AUX	_	0	root	_	_
+11	drink	drink	VERB	VERB	_	10	obj	_	_
+12	sometime	sometime	ADV	NOUN	_	11	advmod	_	_
+13	//	//	PUNCT	PUNCT	_	10	punct	_	_
+
+
+# id = IBA_13_M_109
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	but	but	CCONJ	CCONJ	_	0	root	_	_
+3	no	not	PART	PART	_	4	advmod	_	_
+4	be	be	VERB	PART	_	9	obj	_	_
+5	like	like	ADP	ADP	_	4	obj	_	_
+6	sey	that	SCONJ	SCONJ	_	5	fixed	_	_
+7	[	[	PUNCT	PUNCT	_	9	punct	_	_
+8	I	I	PRON	PRON	_	9	subj	_	_
+9	go	will	AUX	AUX	_	2	obj	_	_
+10	drink	drink	VERB	VERB	_	5	obj	_	_
+11	come	come	AUX	VERB	_	10	xcomp	_	_
+12	drive	drive	VERB	VERB	_	11	obj	_	_
+13	]	]	NOUN	NOUN	_	4	punct	_	_
+14	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_110
+1	no	not	INTJ	PART	_	0	root	_	_
+2	!//	!//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_111
+1	if	if	SCONJ	SCONJ	_	12	advcl	_	_
+2	I	I	PRON	PRON	_	3	nsubj	_	_
+3	know	know	VERB	VERB	_	1	obj	_	_
+4	sey	that	SCONJ	SCONJ	_	3	ccomp	_	_
+5	I	I	PRON	PRON	_	6	nsubj	_	_
+6	want	want	VERB	VERB	_	4	obj	_	_
+7	go	go	VERB	VERB	_	6	xcomp	_	_
+8	drink	drink	VERB	VERB	_	7	compound:svc	_	_
+9	<	<	PUNCT	PUNCT	_	3	punct	_	_
+10	I	I	PRON	PRON	_	11	subj	_	_
+11	go	will	AUX	AUX	_	0	root	_	_
+12	look	look	VERB	VERB	_	11	obj	_	_
+13	for	for	ADP	ADP	_	12	obl:comp	_	_
+14	one	one	NUM	NUM	_	13	obj	_	_
+15	of	of	ADP	ADP	_	14	nmod	_	_
+16	ma	my	PRON	PRON	_	17	nmod:poss	_	_
+17	boy	boy	NOUN	NOUN	_	15	obj	_	_
+18	//	//	PUNCT	PUNCT	_	11	punct	_	_
+
+
+# id = IBA_13_M_112
+1	where	where	ADV	ADV	_	2	advmod	_	_
+2	you	you	PRON	PRON	_	0	nsubj	_	_
+3	?//	?//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_113
+1	follow	follow	VERB	VERB	_	0	root	_	_
+2	me	I	PRON	PRON	_	1	obj	_	_
+3	!//	!//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_114
+1	I	I	PRON	PRON	_	2	nsubj	_	_
+2	know	know	VERB	VERB	_	0	root	_	_
+3	sey	that	SCONJ	SCONJ	_	2	ccomp	_	_
+4	[	[	PUNCT	PUNCT	_	8	punct	_	_
+5	dat	that	DET	PRON	_	6	det	_	_
+6	one	one	PRON	NUM	_	8	subj	_	_
+7	no	not	PART	PART	_	8	advmod	_	_
+8	dey	be	AUX	AUX	_	3	obj	_	_
+9	drink	drink	VERB	VERB	_	8	obj	_	_
+10	]	]	NOUN	NOUN	_	8	punct	_	_
+11	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_115
+1	na	na	PART	PART	_	2	cop	_	_
+2	you	you	PRON	PRON	_	0	root	_	_
+3	>+	>+	VERB	VERB	_	4	punct	_	_
+4	go	will	AUX	AUX	_	2	acl:cleft	_	_
+5	drive	drive	VERB	VERB	_	4	obj	_	_
+6	di	the	DET	DET	_	7	det	_	_
+7	car	car	NOUN	NOUN	_	5	obj	_	_
+8	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_116
+1	me	I	PRON	PRON	_	5	dislocated	_	_
+2	<	<	PUNCT	PUNCT	_	1	punct	_	_
+3	I	I	PRON	PRON	_	4	subj	_	_
+4	go	will	AUX	AUX	_	0	root	_	_
+5	siddon	siddon	VERB	VERB	_	4	obj	_	_
+6	dey	be	AUX	AUX	_	5	xcomp	_	_
+7	watch	watch	VERB	VERB	_	6	obj	_	_
+8	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_117
+1	so	so	ADV	SCONJ	_	4	advmod	_	_
+2	na	na	PART	PART	_	4	cop	_	_
+3	bad	bad	ADJ	ADJ	_	4	amod	_	_
+4	thing	thing	NOUN	NOUN	_	0	root	_	_
+5	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_118
+1	di	the	DET	DET	_	2	det	_	_
+2	two	two	NOUN	NUM	_	4	subj	_	_
+3	no	not	PART	PART	_	4	advmod	_	_
+4	dey	be	AUX	AUX	_	0	root	_	_
+5	mix	mix	VERB	VERB	_	4	obj	_	_
+6	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_119
+1	im	he	PRON	PRON	_	3	subj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	dey	be	AUX	AUX	_	0	root	_	_
+4	mix	mix	VERB	VERB	_	3	obj	_	_
+5	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_120
+1	im	he	PRON	PRON	_	6	nsubj	_	_
+2	just	just	ADV	ADV	_	6	advmod	_	_
+3	be	be	PART	PART	_	6	cop	_	_
+4	like	like	ADP	ADP	_	0	root	_	_
+5	{	{	PUNCT	PUNCT	_	-1	_	_	_
+6	ororo	ororo	NOUN	NOUN	_	4	obj	_	_
+7	|	|	PUNCT	PUNCT	_	-1	_	_	_
+8	and	and	CCONJ	CCONJ	_	6	conj:coord	_	_
+9	wata	wata	NOUN	NOUN	_	8	obj	_	_
+10	}	}	PUNCT	PUNCT	_	-1	_	_	_
+11	{	{	PUNCT	PUNCT	_	-1	_	_	_
+12	oil	oil	NOUN	NOUN	_	6	conj:coord	_	_
+13	|	|	PUNCT	PUNCT	_	-1	_	_	_
+14	and	and	CCONJ	CCONJ	_	12	conj:coord	_	_
+15	wata	wata	NOUN	NOUN	_	14	obj	_	_
+16	}	}	PUNCT	PUNCT	_	-1	_	_	_
+17	//	//	PUNCT	PUNCT	_	-1	_	_	_
+
+
+# id = IBA_13_M_121
+1	im	he	PRON	PRON	_	3	subj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	fit	can	AUX	AUX	_	0	root	_	_
+4	mix	mix	VERB	VERB	_	3	obj	_	_
+5	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_122
+1	na	na	PART	PART	_	2	cop	_	_
+2	problem	problem	NOUN	NOUN	_	0	root	_	_
+3	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_123
+1	#	#	PUNCT	PUNCT	_	13	punct	_	_
+2	so	so	ADV	SCONJ	_	16	advmod	_	_
+3	if	if	SCONJ	SCONJ	_	16	advcl	_	_
+4	you	you	PRON	PRON	_	5	nsubj	_	_
+5	know	know	VERB	VERB	_	3	obj	_	_
+6	sey	that	SCONJ	SCONJ	_	5	ccomp	_	_
+7	[	[	PUNCT	PUNCT	_	9	punct	_	_
+8	you	you	PRON	PRON	_	9	nsubj	_	_
+9	want	want	VERB	VERB	_	6	obj	_	_
+10	drink	drink	VERB	VERB	_	9	xcomp	_	_
+11	]	]	NOUN	NOUN	_	9	punct	_	_
+12	<+	<+	PUNCT	PUNCT	_	5	punct	_	_
+13	make	JUS	AUX	AUX	_	0	root	_	_
+14	you	you	PRON	PRON	_	13	subj	_	_
+15	no	not	PART	PART	_	13	advmod	_	_
+16	drive	drive	VERB	VERB	_	13	obj	_	_
+17	|c	|c	PUNCT	PUNCT	_	18	punct	_	_
+18	and	and	CCONJ	CCONJ	_	16	conj:coord	_	_
+19	if	if	SCONJ	SCONJ	_	32	advcl	_	_
+20	you	you	PRON	PRON	_	21	nsubj	_	_
+21	know	know	VERB	VERB	_	19	obj	_	_
+22	sey	that	SCONJ	SCONJ	_	21	ccomp	_	_
+23	[	[	PUNCT	PUNCT	_	25	punct	_	_
+24	you	you	PRON	PRON	_	25	nsubj	_	_
+25	want	want	VERB	VERB	_	22	obj	_	_
+26	drive	drive	VERB	VERB	_	25	xcomp	_	_
+27	]	]	NOUN	NOUN	_	25	punct	_	_
+28	<+	<+	PUNCT	PUNCT	_	21	punct	_	_
+29	make	let	AUX	AUX	_	18	obj	_	_
+30	you	you	PRON	PRON	_	29	subj	_	_
+31	no	not	PART	PART	_	29	advmod	_	_
+32	drink	drink	VERB	VERB	_	29	obj	_	_
+33	//	//	PUNCT	PUNCT	_	13	punct	_	_
+
+
+# id = IBA_13_M_124
+1	if	if	SCONJ	SCONJ	_	10	advcl	_	_
+2	you	you	PRON	PRON	_	3	nsubj	_	_
+3	want	want	VERB	VERB	_	1	obj	_	_
+4	{	{	PUNCT	PUNCT	_	-1	_	_	_
+5	drink	drink	VERB	VERB	_	3	xcomp	_	_
+6	|	|	PUNCT	PUNCT	_	7	punct	_	_
+7	and	and	CCONJ	CCONJ	_	5	conj:coord	_	_
+8	drive	drive	VERB	VERB	_	7	obj	_	_
+9	}	}	PUNCT	PUNCT	_	-1	_	_	_
+10	drink	drink	VERB	VERB	_	0	root	_	_
+11	wata	wata	NOUN	NOUN	_	10	obj	_	_
+12	|c	|c	PUNCT	PUNCT	_	13	punct	_	_
+13	or	or	CCONJ	CCONJ	_	10	conj:coord	_	_
+14	drink	drink	VERB	VERB	_	13	obj	_	_
+15	coke	coke	NOUN	NOUN	_	14	obj	_	_
+16	//	//	PUNCT	PUNCT	_	10	punct	_	_
+
+
+# id = IBA_13_M_125
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	na	na	PART	PART	_	4	cop	_	_
+3	di	the	DET	DET	_	4	det	_	_
+4	advice	advice	NOUN	NOUN	_	0	root	_	_
+5	wen	wen	SCONJ	SCONJ	_	4	acl:relcl	_	_
+6	I	I	PRON	PRON	_	7	subj	_	_
+7	go	will	AUX	AUX	_	5	obj	_	_
+8	give	give	VERB	VERB	_	7	obj	_	_
+9	una	you	PRON	PRON	_	8	obj	_	_
+10	be	be	VERB	PART	_	4	acl:cleft	_	_
+11	dat	that	PRON	PRON	_	10	obj	_	_
+12	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_126
+1	anoder	another	DET	DET	_	2	det	_	_
+2	thing	thing	NOUN	NOUN	_	14	dislocated	_	_
+3	wen	wen	SCONJ	SCONJ	_	2	acl:relcl	_	_
+4	una	you	PRON	PRON	_	5	subj	_	_
+5	dey	be	AUX	AUX	_	3	obj	_	_
+6	do	do	VERB	VERB	_	5	obj	_	_
+7	wey	where	SCONJ	SCONJ	_	6	conj:coord	_	_
+8	no	not	PART	PART	_	9	advmod	_	_
+9	good	good	ADJ	ADJ	_	7	obj	_	_
+10	<+	<+	PUNCT	PUNCT	_	2	punct	_	_
+11	na	na	PART	PART	_	14	cop	_	_
+12	sey	that	SCONJ	SCONJ	_	0	root	_	_
+13	dangerous	dangerous	ADJ	ADJ	_	14	amod	_	_
+14	overtaking	overtaking	NOUN	NOUN	_	12	obj	_	_
+15	//	//	PUNCT	PUNCT	_	14	punct	_	_
+
+
+# id = IBA_13_M_127
+1	you	you	PRON	PRON	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	see	see	VERB	VERB	_	2	obj	_	_
+4	person	person	NOUN	NOUN	_	3	obj	_	_
+5	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_128
+1	im	he	PRON	PRON	_	5	nsubj	_	_
+2	know	know	VERB	VERB	_	5	conj:dicto	_	_
+3	sey	that	SCONJ	SCONJ	_	2	orphan	_	_
+4	||	||	PUNCT	PUNCT	_	-1	_	_	_
+5	see	see	VERB	VERB	_	0	root	_	_
+6	dat	that	DET	PRON	_	7	det	_	_
+7	car	car	NOUN	NOUN	_	5	obj	_	_
+8	wey	where	SCONJ	SCONJ	_	7	acl:relcl	_	_
+9	dey	be	AUX	AUX	_	8	obj	_	_
+10	come	come	VERB	VERB	_	9	obj	_	_
+11	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_129
+1	mtschew	mtschew	INTJ	INTJ	_	5	discourse	_	_
+2	I	I	PRON	PRON	_	3	subj	_	_
+3	go	will	AUX	AUX	_	0	root	_	_
+4	fit	can	AUX	AUX	_	3	obj	_	_
+5	go	go	VERB	VERB	_	4	obj	_	_
+6	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_130
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	just	just	ADV	ADV	_	3	advmod	_	_
+3	five	five	NUM	NUM	_	4	nummod	_	_
+4	second	second	NOUN	NOUN	_	0	root	_	_
+5	!//	!//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_131
+1	make	let	AUX	AUX	_	0	root	_	_
+2	im	he	PRON	PRON	_	1	subj	_	_
+3	just	just	ADV	ADV	_	4	advmod	_	_
+4	get	get	VERB	VERB	_	1	obj	_	_
+5	patience	patience	NOUN	NOUN	_	4	obj	_	_
+6	of	of	ADP	ADP	_	5	obl:npmod	_	_
+7	like	like	ADP	ADP	_	9	case	_	_
+8	five	five	NUM	NUM	_	9	nummod	_	_
+9	second	second	NOUN	NOUN	_	6	obj	_	_
+10	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_132
+1	im	he	PRON	PRON	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	say	say	VERB	VERB	_	2	obj	_	_
+4	[	[	PUNCT	PUNCT	_	5	punct	_	_
+5	no	not	PART	PART	_	3	parataxis:obj	_	_
+6	//	//	PUNCT	PUNCT	_	9	punct	_	_
+7	make	let	VERB	VERB	_	9	aux	_	_
+8	I	I	PRON	PRON	_	9	nsubj	_	_
+9	sharply	sharply	ADV	ADV	_	5	parataxis:conj	_	_
+10	//	//	PUNCT	PUNCT	_	11	punct	_	_
+11	]	]	PUNCT	PUNCT	_	5	punct	_	_
+12	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_133
+1	#	#	PUNCT	PUNCT	_	9	root	_	_
+2	dat	that	ADV	PRON	_	3	advmod	_	_
+3	sharply	sharply	ADV	ADV	_	9	dislocated	_	_
+4	<	<	PUNCT	PUNCT	_	3	punct	_	_
+5	#	#	PUNCT	PUNCT	_	3	punct	_	_
+6	im	he	PRON	PRON	_	7	subj	_	_
+7	fit	can	AUX	AUX	_	0	root	_	_
+8	sharply	sharply	ADV	ADV	_	9	advmod	_	_
+9	carry	carry	VERB	VERB	_	7	obj	_	_
+10	you	you	PRON	PRON	_	9	obj	_	_
+11	#	#	PUNCT	PUNCT	_	12	punct	_	_
+12	go	will	VERB	AUX	_	9	compound:svc	_	_
+13	grave	grave	NOUN	NOUN	_	12	obj	_	_
+14	//	//	PUNCT	PUNCT	_	7	punct	_	_
+
+
+# id = IBA_13_M_134
+1	#	#	PUNCT	PUNCT	_	7	punct	_	_
+2	sharply	sharply	ADV	ADV	_	7	advmod	_	_
+3	<	<	PUNCT	PUNCT	_	2	punct	_	_
+4	make	let	AUX	AUX	_	7	aux	_	_
+5	I	I	PRON	PRON	_	7	nsubj	_	_
+6	just	just	ADV	ADV	_	7	advmod	_	_
+7	sharply	sharply	ADV	ADV	_	0	root	_	_
+8	//	//	PUNCT	PUNCT	_	7	punct	_	_
+
+
+# id = IBA_13_M_135
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	and	and	CCONJ	CCONJ	_	0	root	_	_
+3	now	now	ADV	ADV	_	6	advmod	_	_
+4	<	<	PUNCT	PUNCT	_	3	punct	_	_
+5	you	you	PRON	PRON	_	6	nsubj	_	_
+6	want	want	VERB	VERB	_	2	obj	_	_
+7	sharply	sharply	ADV	ADV	_	8	advmod	_	_
+8	overtake	overtake	VERB	VERB	_	6	xcomp	_	_
+9	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_136
+1	you	you	PRON	PRON	_	3	nsubj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	know	know	VERB	VERB	_	0	root	_	_
+4	sey	that	SCONJ	SCONJ	_	3	ccomp	_	_
+5	[	[	PUNCT	PUNCT	_	22	punct	_	_
+6	di	the	DET	DET	_	7	det	_	_
+7	driver	driver	NOUN	NOUN	_	22	dislocated	_	_
+8	wey	where	SCONJ	SCONJ	_	7	acl:relcl	_	_
+9	dey	be	AUX	AUX	_	8	obj	_	_
+10	drive	drive	VERB	VERB	_	9	obj	_	_
+11	di	the	DET	DET	_	12	det	_	_
+12	car	car	NOUN	NOUN	_	10	obj	_	_
+13	wey	where	SCONJ	SCONJ	_	12	acl:relcl	_	_
+14	you	you	PRON	PRON	_	15	nsubj	_	_
+15	want	want	VERB	VERB	_	13	obj	_	_
+16	overtake	overtake	VERB	VERB	_	15	xcomp	_	_
+17	<	<	PUNCT	PUNCT	_	7	punct	_	_
+18	dat	that	DET	PRON	_	19	det	_	_
+19	one	one	NOUN	NUM	_	22	nsubj	_	_
+20	no	not	PART	PART	_	22	advmod	_	_
+21	even	even	ADV	ADV	_	22	advmod	_	_
+22	look	look	VERB	VERB	_	4	obj	_	_
+23	mirror	mirror	NOUN	NOUN	_	22	obj	_	_
+24	]	]	NOUN	NOUN	_	22	punct	_	_
+25	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_137
+1	im	he	PRON	PRON	_	3	nsubj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	see	see	VERB	VERB	_	0	root	_	_
+4	you	you	PRON	PRON	_	3	obj	_	_
+5	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_138
+1	im	he	PRON	PRON	_	2	subj	_	_
+2	fit	can	AUX	AUX	_	0	root	_	_
+3	just	just	ADV	ADV	_	4	advmod	_	_
+4	cut	cut	VERB	VERB	_	2	obj	_	_
+5	hand	hand	NOUN	NOUN	_	4	obj	_	_
+6	//=	//=	PUNCT	PUNCT	_	2	punct	_	_
+7	#	#	PUNCT	PUNCT	_	8	punct	_	_
+8	come	come	AUX	VERB	_	4	parataxis:conj	_	_
+9	push	push	VERB	VERB	_	8	obj	_	_
+10	you	you	PRON	PRON	_	9	obj	_	_
+11	enter	enter	VERB	VERB	_	9	compound:svc	_	_
+12	inside	inside	ADP	ADP	_	11	obl:comp	_	_
+13	bush	bush	NOUN	NOUN	_	12	obj	_	_
+14	//	//	PUNCT	PUNCT	_	8	punct	_	_
+
+
+# id = IBA_13_M_140
+1	#	#	PUNCT	PUNCT	_	7	punct	_	_
+2	dangerous	dangerous	ADJ	ADJ	_	3	amod	_	_
+3	overtaking	overtaking	NOUN	NOUN	_	7	dislocated	_	_
+4	na	na	PART	PART	_	7	cop	_	_
+5	very	very	ADV	ADV	_	6	advmod	_	_
+6	bad	bad	ADJ	ADJ	_	7	amod	_	_
+7	thing	thing	NOUN	NOUN	_	0	root	_	_
+8	//	//	PUNCT	PUNCT	_	7	punct	_	_
+
+
+# id = IBA_13_M_141
+1	na	na	PART	PART	_	5	cop	_	_
+2	very	very	ADV	ADV	_	4	advmod	_	_
+3	very	very	ADV	ADV	_	2	compound:redup	_	_
+4	bad	bad	ADJ	ADJ	_	5	amod	_	_
+5	thing	thing	NOUN	NOUN	_	0	root	_	_
+6	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_142
+1	anoder	another	DET	DET	_	2	det	_	_
+2	thing	thing	NOUN	NOUN	_	12	dislocated	_	_
+3	wey	where	SCONJ	SCONJ	_	2	acl:relcl	_	_
+4	una	you	PRON	PRON	_	5	subj	_	_
+5	dey	be	AUX	AUX	_	3	obj	_	_
+6	do	do	VERB	VERB	_	5	obj	_	_
+7	wey	where	SCONJ	SCONJ	_	2	acl:relcl	_	_
+8	no	not	PART	PART	_	9	advmod	_	_
+9	good	good	ADJ	ADJ	_	7	obj	_	_
+10	<	<	PUNCT	PUNCT	_	9	punct	_	_
+11	na	na	PART	PART	_	12	cop	_	_
+12	overloading	overloading	NOUN	NOUN	_	0	root	_	_
+13	//	//	PUNCT	PUNCT	_	12	punct	_	_
+
+
+# id = IBA_13_M_143
+1	una	you	PRON	PRON	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	just	just	ADV	ADV	_	5	advmod	_	_
+4	{	{	PUNCT	PUNCT	_	2	punct	_	_
+5	pack	pack	VERB	NOUN	_	2	obj	_	_
+6	people	people	NOUN	NOUN	_	5	obj	_	_
+7	|	|	PUNCT	PUNCT	_	8	punct	_	_
+8	pack	pack	VERB	NOUN	_	5	conj:coord	_	_
+9	kaya	kaya	NOUN	NOUN	_	8	obj	_	_
+10	|	|	PUNCT	PUNCT	_	11	punct	_	_
+11	pack	pack	VERB	NOUN	_	5	conj:coord	_	_
+12	everything	everything	NOUN	NOUN	_	11	obj	_	_
+13	|	|	PUNCT	PUNCT	_	14	punct	_	_
+14	pack	pack	VERB	NOUN	_	5	conj:coord	_	_
+15	load	load	NOUN	NOUN	_	14	obj	_	_
+16	|	|	PUNCT	PUNCT	_	17	punct	_	_
+17	put	put	VERB	VERB	_	5	conj:coord	_	_
+18	for	for	ADP	ADP	_	17	obl:comp	_	_
+19	inside	inside	ADP	ADP	_	21	case	_	_
+20	di	the	DET	DET	_	21	det	_	_
+21	motor	motor	NOUN	NOUN	_	18	obj	_	_
+22	}	}	PUNCT	PUNCT	_	2	punct	_	_
+23	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_144
+1	just	just	ADV	ADV	_	2	advmod	_	_
+2	load	load	VERB	VERB	_	0	root	_	_
+3	di	the	DET	DET	_	4	det	_	_
+4	vehicle	vehicle	NOUN	NOUN	_	2	obj	_	_
+5	anyhow	anyhow	ADV	ADV	_	2	advmod	_	_
+6	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_145
+1	im	he	PRON	PRON	_	3	nsubj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	good	good	ADJ	ADJ	_	0	root	_	_
+4	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_146
+1	apart	apart	ADV	ADV	_	7	advmod	_	_
+2	from	from	ADP	ADP	_	6	obj	_	_
+3	sey	that	SCONJ	SCONJ	_	15	advcl:periph	_	_
+4	[	[	PUNCT	PUNCT	_	6	punct	_	_
+5	im	he	PRON	PRON	_	6	subj	_	_
+6	dey	be	AUX	AUX	_	3	obj	_	_
+7	cause	cause	VERB	VERB	_	2	obj	_	_
+8	damage	damage	NOUN	NOUN	_	7	obj	_	_
+9	to	to	ADP	ADP	_	7	obl:comp	_	_
+10	your	your	PRON	PRON	_	11	nmod:poss	_	_
+11	motor	motor	NOUN	NOUN	_	9	obj	_	_
+12	]	]	NOUN	NOUN	_	6	punct	_	_
+13	<	<	PUNCT	PUNCT	_	7	punct	_	_
+14	na	na	PART	PART	_	15	cop	_	_
+15	problem	problem	NOUN	NOUN	_	0	root	_	_
+16	//	//	PUNCT	PUNCT	_	15	punct	_	_
+
+
+# id = IBA_13_M_147
+1	because	because	SCONJ	SCONJ	_	0	root	_	_
+2	if	if	SCONJ	SCONJ	_	39	advcl	_	_
+3	di	the	DET	DET	_	4	det	_	_
+4	load	load	NOUN	NOUN	_	2	obj	_	_
+5	too	too	ADV	ADV	_	6	advmod	_	_
+6	much	much	ADV	ADV	_	4	advmod	_	_
+7	<	<	PUNCT	PUNCT	_	12	punct	_	_
+8	if	if	SCONJ	SCONJ	_	4	parataxis:conj	_	_
+9	[	[	PUNCT	PUNCT	_	-1	_	_	_
+10	di	the	DET	DET	_	11	det	_	_
+11	driver	driver	NOUN	NOUN	_	12	nsubj	_	_
+12	lose	lose	VERB	VERB	_	8	obj	_	_
+13	control	control	NOUN	NOUN	_	12	obj	_	_
+14	of	of	ADP	ADP	_	13	nmod	_	_
+15	di	the	DET	DET	_	16	det	_	_
+16	vehicle	vehicle	NOUN	NOUN	_	14	obj	_	_
+17	because	because	SCONJ	SCONJ	_	12	advcl	_	_
+18	sey	that	SCONJ	SCONJ	_	28	mark	_	_
+19	[	[	PUNCT	PUNCT	_	28	punct	_	_
+20	{	{	PUNCT	PUNCT	_	22	punct	_	_
+21	di	the	DET	DET	_	22	det	_	_
+22	load	load	NOUN	NOUN	_	28	nsubj	_	_
+23	|	|	PUNCT	PUNCT	_	25	punct	_	_
+24	di	the	DET	DET	_	25	det	_	_
+25	kaya	kaya	NOUN	NOUN	_	22	conj:coord	_	_
+26	}	}	PUNCT	PUNCT	_	22	punct	_	_
+27	too	too	ADV	ADV	_	28	advmod	_	_
+28	much	much	ADV	ADV	_	17	obj	_	_
+29	for	for	ADP	ADP	_	28	obl:comp	_	_
+30	di	the	DET	DET	_	31	det	_	_
+31	vehicle	vehicle	NOUN	NOUN	_	29	obj	_	_
+32	]	]	PUNCT	NOUN	_	28	punct	_	_
+33	]	]	PUNCT	NOUN	_	-1	_	_	_
+34	<	<	PUNCT	PUNCT	_	4	punct	_	_
+35	im	he	PRON	PRON	_	37	subj	_	_
+36	no	not	PART	PART	_	37	advmod	_	_
+37	go	will	AUX	AUX	_	1	obj	_	_
+38	fit	can	AUX	AUX	_	37	obj	_	_
+39	balance	balance	VERB	VERB	_	38	obj	_	_
+40	di	the	DET	DET	_	41	det	_	_
+41	vehicle	vehicle	NOUN	NOUN	_	39	obj	_	_
+42	well	well	ADV	ADV	_	39	advmod	_	_
+43	//	//	PUNCT	PUNCT	_	37	punct	_	_
+
+
+# id = IBA_13_M_148
+1	imagine	imagine	VERB	VERB	_	0	root	_	_
+2	sey	that	SCONJ	SCONJ	_	1	ccomp	_	_
+3	driver	driver	NOUN	NOUN	_	4	nsubj	_	_
+4	dey	be	VERB	PART	_	2	obj	_	_
+5	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_149
+1	im	he	PRON	PRON	_	2	nsubj	_	_
+2	carry	carry	VERB	VERB	_	0	root	_	_
+3	two	two	NUM	NUM	_	4	nummod	_	_
+4	passenger	passenger	NOUN	NOUN	_	2	obj	_	_
+5	for	for	ADP	ADP	_	4	nmod	_	_
+6	front	front	NOUN	NOUN	_	7	compound	_	_
+7	seat	seat	NOUN	NOUN	_	5	obj	_	_
+8	instead	instead	ADV	ADP	_	2	obl:ad	_	_
+9	of	of	SCONJ	ADP	_	8	fixed	_	_
+10	di	the	DET	DET	_	11	det	_	_
+11	one	one	NOUN	NOUN	_	8	obj	_	_
+12	wey	where	SCONJ	SCONJ	_	11	acl:relcl	_	_
+13	government	government	NOUN	NOUN	_	14	nsubj	_	_
+14	say	say	VERB	VERB	_	12	obj	_	_
+15	[	[	PUNCT	PUNCT	_	16	punct	_	_
+16	make	let	AUX	AUX	_	14	parataxis:obj	_	_
+17	im	he	PRON	PRON	_	16	subj	_	_
+18	dey	be	AUX	AUX	_	16	obj	_	_
+19	carry	carry	VERB	VERB	_	18	obj	_	_
+20	//	//	PUNCT	PUNCT	_	21	punct	_	_
+21	]	]	PUNCT	PUNCT	_	16	punct	_	_
+22	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_150
+1	if	if	SCONJ	SCONJ	_	4	advcl	_	_
+2	something	something	PRON	NOUN	_	3	nsubj	_	_
+3	happen	happen	VERB	VERB	_	1	obj	_	_
+4	&	&	PUNCT	PUNCT	_	0	root	_	_
+5	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_151
+1	tire	tire	NOUN	VERB	_	2	subj	_	_
+2	come	come	AUX	VERB	_	0	root	_	_
+3	burst	burst	VERB	VERB	_	2	obj	_	_
+4	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_152
+1	as	as	SCONJ	ADP	_	6	advcl	_	_
+2	tire	tire	NOUN	VERB	_	3	nsubj	_	_
+3	burst	burst	VERB	VERB	_	1	obj	_	_
+4	<+	<+	PUNCT	PUNCT	_	3	punct	_	_
+5	you	you	PRON	PRON	_	6	nsubj	_	_
+6	know	know	VERB	VERB	_	0	root	_	_
+7	wetin	what	PRON	PRON	_	8	subj	_	_
+8	go	will	AUX	AUX	_	6	ccomp	_	_
+9	dey	be	AUX	AUX	_	8	obj	_	_
+10	happen	happen	VERB	VERB	_	9	obj	_	_
+11	?//	?//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_153
+1	car	car	NOUN	NOUN	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	dey	be	AUX	AUX	_	2	obj	_	_
+4	swing	swing	VERB	VERB	_	3	obj	_	_
+5	you	you	PRON	PRON	_	4	obj	_	_
+6	{	{	PUNCT	PUNCT	_	7	punct	_	_
+7	go	go	VERB	VERB	_	4	compound:svc	_	_
+8	left	left	NOUN	NOUN	_	7	obj	_	_
+9	|	|	PUNCT	PUNCT	_	10	punct	_	_
+10	go	go	VERB	VERB	_	7	conj:coord	_	_
+11	right	right	NOUN	NOUN	_	10	obj	_	_
+12	}	}	PUNCT	PUNCT	_	7	punct	_	_
+13	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_154
+1	so	so	ADV	SCONJ	_	13	advmod	_	_
+2	when	when	ADV	ADV	_	5	advmod	_	_
+3	di	the	DET	DET	_	4	det	_	_
+4	car	car	NOUN	NOUN	_	5	nsubj	_	_
+5	swing	swing	VERB	VERB	_	13	advcl	_	_
+6	di	the	DET	DET	_	7	det	_	_
+7	guy	guy	NOUN	NOUN	_	5	obj	_	_
+8	go	go	VERB	VERB	_	5	compound:svc	_	_
+9	left	left	NOUN	NOUN	_	8	obj	_	_
+10	<+	<+	PUNCT	PUNCT	_	5	punct	_	_
+11	#	#	PUNCT	PUNCT	_	5	punct	_	_
+12	im	he	PRON	PRON	_	13	nsubj	_	_
+13	balance	balance	VERB	VERB	_	0	root	_	_
+14	//	//	PUNCT	PUNCT	_	13	punct	_	_
+
+
+# id = IBA_13_M_155
+1	as	as	SCONJ	ADP	_	15	advcl	_	_
+2	im	he	PRON	PRON	_	3	nsubj	_	_
+3	go	will	VERB	AUX	_	1	obj	_	_
+4	back	back	ADV	NOUN	_	3	advmod	_	_
+5	right	right	NOUN	NOUN	_	3	obj	_	_
+6	<+	<+	PUNCT	PUNCT	_	3	punct	_	_
+7	#	#	PUNCT	PUNCT	_	3	punct	_	_
+8	di	the	DET	DET	_	9	det	_	_
+9	people	people	NOUN	NOUN	_	15	dislocated	_	_
+10	wey	where	SCONJ	SCONJ	_	9	acl:relcl	_	_
+11	im	he	PRON	PRON	_	12	nsubj	_	_
+12	carry	carry	VERB	VERB	_	10	obj	_	_
+13	dem	they	PRON	PRON	_	15	nsubj	_	_
+14	just	just	ADV	ADV	_	15	advmod	_	_
+15	push	push	VERB	VERB	_	0	root	_	_
+16	im	he	PRON	PRON	_	17	nmod:poss	_	_
+17	hand	hand	NOUN	NOUN	_	15	obj	_	_
+18	comot	leave	VERB	VERB	_	15	compound:svc	_	_
+19	for	for	ADP	ADP	_	18	obl:comp	_	_
+20	steer	steer	VERB	VERB	_	19	obj	_	_
+21	//	//	PUNCT	PUNCT	_	15	punct	_	_
+
+
+# id = IBA_13_M_156
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	na	na	PART	PART	_	3	cop	_	_
+3	so	so	ADV	ADV	_	0	root	_	_
+4	>+	>+	PUNCT	VERB	_	7	punct	_	_
+5	di	the	DET	DET	_	6	det	_	_
+6	car	car	NOUN	NOUN	_	7	nsubj	_	_
+7	begin	begin	VERB	VERB	_	3	ccomp:cleft	_	_
+8	dey	be	AUX	AUX	_	7	xcomp	_	_
+9	somersault	somersault	VERB	VERB	_	8	obj	_	_
+10	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_157
+1	#	#	PUNCT	PUNCT	_	11	punct	_	_
+2	{	{	PUNCT	PUNCT	_	5	punct	_	_
+3	di	the	DET	DET	_	5	conj:dicto	_	_
+4	|	|	PUNCT	PUNCT	_	3	punct	_	_
+5	di	the	DET	DET	_	7	punct	_	_
+6	}	}	PUNCT	PUNCT	_	5	punct	_	_
+7	accident	accident	NOUN	NOUN	_	11	dislocated	_	_
+8	<	<	PUNCT	PUNCT	_	7	punct	_	_
+9	na	na	PART	PART	_	11	cop	_	_
+10	seven	seven	NUM	NUM	_	11	nummod	_	_
+11	people	people	NOUN	NOUN	_	0	root	_	_
+12	dey	be	VERB	PART	_	11	acl:cleft	_	_
+13	inside	inside	ADP	ADP	_	12	obl:comp	_	_
+14	di	the	DET	DET	_	15	det	_	_
+15	car	car	NOUN	NOUN	_	13	obj	_	_
+16	//=	//=	PUNCT	PUNCT	_	19	punct	_	_
+17	na	na	PART	PART	_	19	cop	_	_
+18	four	four	NUM	NUM	_	19	nummod	_	_
+19	people	people	NOUN	NOUN	_	11	nsubj	_	_
+20	die	die	VERB	VERB	_	19	acl:cleft	_	_
+21	gbam	gbam	ADV	ADV	_	20	advmod	_	_
+22	//+	//+	PUNCT	PUNCT	_	26	punct	_	_
+23	#	#	PUNCT	PUNCT	_	26	punct	_	_
+24	for	for	ADP	ADP	_	20	obl:ad	_	_
+25	dat	that	DET	PRON	_	26	det	_	_
+26	spot	spot	NOUN	NOUN	_	24	obj	_	_
+27	//	//	PUNCT	PUNCT	_	-1	_	_	_
+
+
+# id = IBA_13_M_158
+1	#	#	PUNCT	PUNCT	_	5	punct	_	_
+2	na	na	PART	PART	_	5	cop	_	_
+3	all	all	ADJ	ADV	_	5	amod	_	_
+4	di	the	DET	DET	_	5	det	_	_
+5	kind	kind	NOUN	NOUN	_	0	root	_	_
+6	thing	thing	NOUN	NOUN	_	5	nmod	_	_
+7	wey	where	SCONJ	SCONJ	_	6	acl:relcl	_	_
+8	we	we	PRON	PRON	_	9	subj	_	_
+9	dey	be	AUX	AUX	_	7	obj	_	_
+10	talk	talk	VERB	VERB	_	9	obj	_	_
+11	be	be	VERB	PART	_	5	acl:cleft	_	_
+12	dis	this	DET	DET	_	11	obj	_	_
+13	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_159
+1	anoder	another	DET	DET	_	3	det	_	_
+2	important	important	ADJ	ADJ	_	3	amod	_	_
+3	part	part	NOUN	NOUN	_	11	nsubj	_	_
+4	wey	where	SCONJ	SCONJ	_	3	acl:relcl	_	_
+5	I	I	PRON	PRON	_	6	subj	_	_
+6	go	will	AUX	AUX	_	4	obj	_	_
+7	like	like	VERB	VERB	_	6	obj	_	_
+8	make	let	AUX	AUX	_	7	xcomp	_	_
+9	una	you	PRON	PRON	_	8	obj	_	_
+10	know	know	VERB	VERB	_	8	xcomp	_	_
+11	be	be	VERB	PART	_	0	root	_	_
+12	sey	that	SCONJ	SCONJ	_	22	dislocated	_	_
+13	di	the	DET	DET	_	14	det	_	_
+14	maintenance	maintenance	NOUN	NOUN	_	12	obj	_	_
+15	of	of	ADP	ADP	_	14	nmod	_	_
+16	una	you	PRON	PRON	_	17	nmod:poss	_	_
+17	vehicle	vehicle	NOUN	NOUN	_	15	obj	_	_
+18	<	<	PUNCT	PUNCT	_	14	punct	_	_
+19	im	he	PRON	PRON	_	22	nsubj	_	_
+20	dey	be	PART	PART	_	22	cop	_	_
+21	very	very	ADV	ADV	_	22	advmod	_	_
+22	important	important	ADJ	ADJ	_	11	ccomp	_	_
+23	//	//	PUNCT	PUNCT	_	11	punct	_	_
+
+
+# id = IBA_13_M_160
+1	because	because	SCONJ	SCONJ	_	0	root	_	_
+2	na	na	PART	PART	_	4	cop	_	_
+3	di	the	DET	DET	_	4	det	_	_
+4	vehicle	vehicle	NOUN	NOUN	_	1	obj	_	_
+5	wey	where	SCONJ	SCONJ	_	4	acl:relcl	_	_
+6	una	you	PRON	PRON	_	7	subj	_	_
+7	dey	be	AUX	AUX	_	5	obj	_	_
+8	take	take	VERB	VERB	_	7	obj	_	_
+9	move	move	VERB	VERB	_	8	compound:svc	_	_
+10	>+	>+	PUNCT	PUNCT	_	11	punct	_	_
+11	be	be	VERB	PART	_	4	acl:cleft	_	_
+12	dis	this	PRON	DET	_	11	obj	_	_
+13	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_161
+1	#	#	PUNCT	PUNCT	_	10	punct	_	_
+2	if	if	SCONJ	SCONJ	_	10	advcl	_	_
+3	una	you	PRON	PRON	_	5	nsubj	_	_
+4	no	not	PART	PART	_	5	advmod	_	_
+5	maintain	maintain	VERB	VERB	_	2	obj	_	_
+6	di	the	DET	DET	_	7	det	_	_
+7	vehicle	vehicle	NOUN	NOUN	_	5	obj	_	_
+8	<+	<+	PUNCT	PUNCT	_	5	punct	_	_
+9	problem	problem	NOUN	NOUN	_	10	nsubj	_	_
+10	dey	be	VERB	PART	_	0	root	_	_
+11	>+	>+	PUNCT	PUNCT	_	12	punct	_	_
+12	be	be	VERB	PART	_	10	acl:cleft	_	_
+13	dat	that	PRON	PRON	_	12	obj	_	_
+14	//	//	PUNCT	PUNCT	_	10	punct	_	_
+
+
+# id = IBA_13_M_162
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	some	some	DET	DET	_	3	det	_	_
+3	people	people	NOUN	NOUN	_	4	subj	_	_
+4	go	will	AUX	AUX	_	0	root	_	_
+5	say	say	VERB	VERB	_	4	obj	_	_
+6	[	[	PUNCT	PUNCT	_	13	punct	_	_
+7	dis	this	DET	DET	_	8	det	_	_
+8	brake	brake	NOUN	NOUN	_	15	dislocated	_	_
+9	ah	ah	INTJ	INTJ	_	8	discourse	_	_
+10	<	<	PUNCT	PUNCT	_	8	punct	_	_
+11	dis	this	DET	DET	_	12	det	_	_
+12	brake	brake	NOUN	NOUN	_	13	subj	_	_
+13	dey	be	AUX	AUX	_	5	parataxis:obj	_	_
+14	too	too	ADV	ADV	_	15	advmod	_	_
+15	go	go	VERB	VERB	_	13	obj	_	_
+16	down	down	ADV	ADP	_	15	compound:prt	_	_
+17	//	//	PUNCT	PUNCT	_	18	punct	_	_
+18	]	]	PUNCT	PUNCT	_	13	punct	_	_
+19	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_163
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	im	he	PRON	PRON	_	3	nsubj	_	_
+3	suppose	suppose	VERB	VERB	_	0	root	_	_
+4	carry	carry	VERB	VERB	_	3	xcomp	_	_
+5	di	the	DET	DET	_	6	det	_	_
+6	brake	brake	NOUN	NOUN	_	4	obj	_	_
+7	go	go	VERB	VERB	_	4	compound:svc	_	_
+8	meet	meet	VERB	VERB	_	7	xcomp	_	_
+9	mechanic	mechanic	NOUN	NOUN	_	8	obj	_	_
+10	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_164
+1	make	let	AUX	AUX	_	0	root	_	_
+2	mechanic	mechanic	NOUN	NOUN	_	1	subj	_	_
+3	check	check	VERB	VERB	_	1	obj	_	_
+4	am	he	PRON	PRON	_	3	obj	_	_
+5	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_165
+1	make	let	AUX	AUX	_	0	root	_	_
+2	im	he	PRON	PRON	_	1	subj	_	_
+3	bleed	bleed	VERB	VERB	_	1	obj	_	_
+4	am	he	PRON	PRON	_	3	obj	_	_
+5	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_166
+1	make	let	AUX	AUX	_	0	root	_	_
+2	im	he	PRON	PRON	_	1	subj	_	_
+3	make	let	VERB	VERB	_	1	obj	_	_
+4	sure	sure	ADJ	ADJ	_	3	xcomp	_	_
+5	sey	that	SCONJ	SCONJ	_	4	ccomp	_	_
+6	di	the	DET	DET	_	7	det	_	_
+7	brake	brake	NOUN	NOUN	_	8	subj	_	_
+8	dey	be	VERB	AUX	_	5	obj	_	_
+9	okay	okay	ADJ	INTJ	_	8	obj	_	_
+10	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_167
+1	but	but	CCONJ	CCONJ	_	0	root	_	_
+2	im	he	PRON	PRON	_	3	subj	_	_
+3	go	will	AUX	AUX	_	1	obj	_	_
+4	say	say	VERB	VERB	_	3	obj	_	_
+5	[	[	PUNCT	PUNCT	_	6	punct	_	_
+6	make	let	AUX	AUX	_	4	parataxis:obj	_	_
+7	I	I	PRON	PRON	_	6	subj	_	_
+8	{	{	PUNCT	PUNCT	_	6	punct	_	_
+9	sharply	sharply	ADV	ADV	_	10	advmod	_	_
+10	manage	manage	VERB	VERB	_	6	obj	_	_
+11	am	he	PRON	PRON	_	10	obj	_	_
+12	|	|	PUNCT	PUNCT	_	-1	_	_	_
+13	go	go	VERB	VERB	_	10	conj:coord	_	_
+14	Lagos	Lagos	PROPN	PROPN	_	13	obj	_	_
+15	|	|	PUNCT	PUNCT	_	-1	_	_	_
+16	come	come	VERB	VERB	_	10	conj:coord	_	_
+17	back	back	ADV	ADV	_	16	compound:prt	_	_
+18	sharply	sharply	ADV	ADV	_	16	advmod	_	_
+19	}	}	PUNCT	PUNCT	_	10	punct	_	_
+20	//	//	PUNCT	PUNCT	_	21	punct	_	_
+21	]	]	PUNCT	PUNCT	_	10	punct	_	_
+22	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_168
+1	im	he	PRON	PRON	_	2	subj	_	_
+2	go	will	AUX	AUX	_	11	parataxis:dislocated	_	_
+3	come	come	AUX	VERB	_	2	obj	_	_
+4	reach	arrive	VERB	VERB	_	3	obj	_	_
+5	Ogere	Ogere	PROPN	PROPN	_	4	obj	_	_
+6	now	now	ADV	ADV	_	4	advmod	_	_
+7	<	<	PUNCT	PUNCT	_	2	punct	_	_
+8	#	#	PUNCT	PUNCT	_	2	punct	_	_
+9	im	he	PRON	PRON	_	10	subj	_	_
+10	go	will	AUX	AUX	_	0	root	_	_
+11	press	press	VERB	VERB	_	10	obj	_	_
+12	brake	brake	NOUN	NOUN	_	11	obj	_	_
+13	//	//	PUNCT	PUNCT	_	10	punct	_	_
+
+
+# id = IBA_13_M_172
+1	maintenance	maintenance	NOUN	NOUN	_	7	dislocated	_	_
+2	<	<	PUNCT	PUNCT	_	-1	_	_	_
+3	some	some	DET	DET	_	4	det	_	_
+4	people	people	NOUN	NOUN	_	6	subj	_	_
+5	no	not	PART	PART	_	6	advmod	_	_
+6	dey	be	AUX	AUX	_	0	root	_	_
+7	care	care	VERB	VERB	_	6	obj	_	_
+8	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_174
+1	dem	they	PRON	PRON	_	3	subj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	dey	be	AUX	AUX	_	0	root	_	_
+4	send	send	VERB	VERB	_	3	obj	_	_
+5	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_175
+1	#	#	PUNCT	PUNCT	_	13	punct	_	_
+2	di	the	DET	DET	_	4	det	_	_
+3	only	only	ADJ	ADJ	_	4	amod	_	_
+4	thing	thing	NOUN	NOUN	_	13	dislocated	_	_
+5	wey	where	SCONJ	SCONJ	_	4	acl:relcl	_	_
+6	dem	they	PRON	PRON	_	7	nsubj	_	_
+7	want	want	VERB	VERB	_	5	obj	_	_
+8	do	do	VERB	VERB	_	7	xcomp	_	_
+9	<	<	PUNCT	PUNCT	_	4	punct	_	_
+10	na	na	PART	PART	_	13	cop	_	_
+11	to	to	PART	ADP	_	0	root	_	_
+12	just	just	ADV	ADV	_	13	advmod	_	_
+13	collect	collect	VERB	VERB	_	11	obj	_	_
+14	money	money	NOUN	NOUN	_	13	obj	_	_
+15	for	for	ADP	ADP	_	13	obl:comp	_	_
+16	passenger	passenger	NOUN	NOUN	_	15	obj	_	_
+17	|	|	PUNCT	PUNCT	_	18	punct	_	_
+18	carry	carry	VERB	VERB	_	13	conj:coord	_	_
+19	di	the	DET	DET	_	20	det	_	_
+20	motor	motor	NOUN	NOUN	_	18	obj	_	_
+21	enter	enter	VERB	VERB	_	18	compound:svc	_	_
+22	road	road	NOUN	NOUN	_	21	obj	_	_
+23	dey	be	AUX	AUX	_	21	compound:svc	_	_
+24	go	go	VERB	VERB	_	23	obj	_	_
+25	//	//	PUNCT	PUNCT	_	13	punct	_	_
+
+
+# id = IBA_13_M_176
+1	and	and	CCONJ	CCONJ	_	0	root	_	_
+2	na	na	PART	PART	_	3	cop	_	_
+3	why	why	ADV	ADV	_	1	obj	_	_
+4	we	we	PRON	PRON	_	5	subj	_	_
+5	dey	be	AUX	AUX	_	3	ccomp:cleft	_	_
+6	catch	catch	VERB	VERB	_	5	obj	_	_
+7	dem	they	PRON	PRON	_	6	obj	_	_
+8	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_177
+1	so	so	ADV	SCONJ	_	10	advmod	_	_
+2	if	if	SCONJ	SCONJ	_	10	advcl	_	_
+3	we	we	PRON	PRON	_	4	nsubj	_	_
+4	catch	catch	VERB	VERB	_	2	obj	_	_
+5	you	you	PRON	PRON	_	4	obj	_	_
+6	<	<	PUNCT	PUNCT	_	-1	_	_	_
+7	make	let	AUX	AUX	_	0	root	_	_
+8	you	you	PRON	PRON	_	7	subj	_	_
+9	no	not	PART	PART	_	7	advmod	_	_
+10	vex	vex	VERB	VERB	_	7	obj	_	_
+11	//	//	PUNCT	PUNCT	_	7	punct	_	_
+
+
+# id = IBA_13_M_178
+1	na	na	PART	PART	_	3	cop	_	_
+2	our	our	PRON	PRON	_	3	nmod:poss	_	_
+3	work	work	NOUN	NOUN	_	0	root	_	_
+4	>+	>+	PUNCT	VERB	_	-1	_	_	_
+5	we	we	PRON	PRON	_	6	subj	_	_
+6	dey	be	AUX	AUX	_	3	acl:cleft	_	_
+7	do	do	VERB	VERB	_	6	obj	_	_
+8	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_179
+1	we	we	PRON	PRON	_	3	nsubj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	want	want	VERB	VERB	_	0	root	_	_
+4	make	let	AUX	AUX	_	3	ccomp	_	_
+5	you	you	PRON	PRON	_	4	subj	_	_
+6	die	die	VERB	VERB	_	4	obj	_	_
+7	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_180
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	na	na	PART	PART	_	3	cop	_	_
+3	wetin	what	PRON	PRON	_	0	root	_	_
+4	government	government	NOUN	NOUN	_	5	subj	_	_
+5	dey	be	AUX	AUX	_	3	acl:relcl	_	_
+6	pay	pay	VERB	VERB	_	5	obj	_	_
+7	us	we	PRON	PRON	_	6	obj	_	_
+8	for	for	ADP	ADP	_	6	orphan	_	_
+9	>+	>+	PUNCT	PUNCT	_	10	punct	_	_
+10	be	be	VERB	PART	_	3	acl:cleft	_	_
+11	dat	that	PRON	PRON	_	10	obj	_	_
+12	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_181
+1	and	and	CCONJ	CCONJ	_	0	root	_	_
+2	we	we	PRON	PRON	_	3	nsubj	_	_
+3	get	get	VERB	VERB	_	1	obj	_	_
+4	to	to	PART	ADP	_	3	xcomp	_	_
+5	do	do	VERB	VERB	_	4	obj	_	_
+6	di	the	DET	DET	_	7	det	_	_
+7	work	work	NOUN	NOUN	_	5	obj	_	_
+8	di	the	DET	DET	_	9	det	_	_
+9	way	way	NOUN	NOUN	_	5	obl:ad	_	_
+10	wey	where	SCONJ	SCONJ	_	9	acl:relcl	_	_
+11	government	government	NOUN	NOUN	_	12	nsubj	_	_
+12	say	say	VERB	VERB	_	10	obj	_	_
+13	make	JUS	AUX	AUX	_	12	ccomp	_	_
+14	we	we	PRON	PRON	_	13	subj	_	_
+15	do	do	VERB	VERB	_	13	obj	_	_
+16	am	he	PRON	PRON	_	15	obj	_	_
+17	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_182
+1	#	#	PUNCT	PUNCT	_	7	punct	_	_
+2	so	so	ADV	SCONJ	_	7	advmod	_	_
+3	you	you	PRON	PRON	_	5	conj:dicto	_	_
+4	||	||	PUNCT	PUNCT	_	3	punct	_	_
+5	una	you	PRON	PRON	_	7	nsubj	_	_
+6	to	to	PART	ADP	_	7	aux	_	_
+7	get	get	VERB	VERB	_	0	root	_	_
+8	dey	be	AUX	AUX	_	7	xcomp	_	_
+9	maintain	maintain	VERB	VERB	_	8	obj	_	_
+10	una	you	PRON	PRON	_	11	nmod:poss	_	_
+11	motor	motor	NOUN	NOUN	_	9	obj	_	_
+12	well	well	ADV	ADV	_	9	advmod	_	_
+13	well	well	ADV	ADV	_	12	compound:redup	_	_
+14	//	//	PUNCT	PUNCT	_	7	punct	_	_
+
+
+# id = IBA_13_M_183
+1	{	{	PUNCT	PUNCT	_	3	punct	_	_
+2	routine	routine	ADJ	ADJ	_	3	amod	_	_
+3	check	check	NOUN	NOUN	_	13	dislocated	_	_
+4	|c	|c	PUNCT	PUNCT	_	6	punct	_	_
+5	routine	routine	ADJ	ADJ	_	6	amod	_	_
+6	maintenance	maintenance	NOUN	NOUN	_	3	conj:dicto	_	_
+7	|c	|c	PUNCT	PUNCT	_	9	punct	_	_
+8	routine	routine	ADJ	ADJ	_	9	amod	_	_
+9	service	service	NOUN	VERB	_	3	conj:dicto	_	_
+10	}	}	PUNCT	PUNCT	_	3	punct	_	_
+11	<	<	PUNCT	PUNCT	_	3	punct	_	_
+12	una	you	PRON	PRON	_	13	nsubj	_	_
+13	suppose	suppose	VERB	VERB	_	0	root	_	_
+14	dey	be	AUX	AUX	_	13	xcomp	_	_
+15	do	do	VERB	VERB	_	14	obj	_	_
+16	am	he	PRON	PRON	_	15	obj	_	_
+17	well	well	ADV	ADV	_	15	advmod	_	_
+18	//	//	PUNCT	PUNCT	_	13	punct	_	_
+
+
+# id = IBA_13_M_185
+1	as	as	SCONJ	ADP	_	8	advcl	_	_
+2	you	you	PRON	PRON	_	3	subj	_	_
+3	dey	be	AUX	AUX	_	1	obj	_	_
+4	collect	collect	VERB	VERB	_	3	obj	_	_
+5	money	money	NOUN	NOUN	_	4	obj	_	_
+6	<+	<+	PUNCT	PUNCT	_	3	punct	_	_
+7	dey	be	AUX	AUX	_	0	root	_	_
+8	put	put	VERB	VERB	_	7	obj	_	_
+9	some	some	DET	DET	_	10	det	_	_
+10	money	money	NOUN	NOUN	_	8	obj	_	_
+11	|	|	PUNCT	PUNCT	_	12	punct	_	_
+12	put	put	VERB	VERB	_	8	conj:appos	_	_
+13	am	he	PRON	PRON	_	12	obj	_	_
+14	back	back	ADV	ADV	_	12	compound:prt	_	_
+15	for	for	ADP	ADP	_	12	obl:comp	_	_
+16	di	the	DET	DET	_	17	det	_	_
+17	motor	motor	NOUN	NOUN	_	15	obj	_	_
+18	so	so	SCONJ	SCONJ	_	12	advcl	_	_
+19	dat	that	SCONJ	PRON	_	18	fixed	_	_
+20	di	the	DET	DET	_	21	det	_	_
+21	motor	motor	NOUN	NOUN	_	22	subj	_	_
+22	go	will	AUX	AUX	_	18	obj	_	_
+23	fit	can	AUX	AUX	_	22	obj	_	_
+24	dey	be	VERB	PART	_	23	obj	_	_
+25	good	good	ADJ	ADJ	_	26	amod	_	_
+26	condition	condition	NOUN	NOUN	_	24	obl:comp	_	_
+27	//	//	PUNCT	PUNCT	_	7	punct	_	_
+
+
+# id = IBA_13_M_186
+1	your	your	PRON	PRON	_	2	nmod:poss	_	_
+2	tyre	tyre	NOUN	NOUN	_	3	subj	_	_
+3	dey	be	VERB	PART	_	0	root	_	_
+4	very	very	ADV	ADV	_	3	advmod	_	_
+5	important	important	ADJ	ADJ	_	3	obj	_	_
+6	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_187
+1	you	you	PRON	PRON	_	2	nsubj	_	_
+2	suppose	suppose	VERB	VERB	_	0	root	_	_
+3	dey	be	AUX	AUX	_	2	xcomp	_	_
+4	check	check	VERB	VERB	_	3	obj	_	_
+5	your	your	PRON	PRON	_	6	nmod:poss	_	_
+6	tyre	tyre	NOUN	NOUN	_	4	obj	_	_
+7	from	from	ADP	ADP	_	4	obl:ad	_	_
+8	time	time	NOUN	NOUN	_	7	obj	_	_
+9	to	to	ADP	ADP	_	8	obl:npmod	_	_
+10	time	time	NOUN	NOUN	_	9	obj	_	_
+11	//+	//+	PUNCT	PUNCT	_	15	punct	_	_
+12	so	so	SCONJ	ADV	_	4	advcl	_	_
+13	dat	that	SCONJ	PRON	_	12	fixed	_	_
+14	you	you	PRON	PRON	_	15	subj	_	_
+15	go	will	AUX	AUX	_	12	obj	_	_
+16	fit	can	AUX	AUX	_	15	obj	_	_
+17	know	know	VERB	VERB	_	16	obj	_	_
+18	weda	weda	SCONJ	SCONJ	_	17	ccomp	_	_
+19	di	the	DET	DET	_	20	det	_	_
+20	tire	tire	NOUN	VERB	_	21	subj	_	_
+21	dey	be	VERB	PART	_	18	obj	_	_
+22	okay	okay	ADJ	INTJ	_	21	obj	_	_
+23	for	for	ADP	ADP	_	22	obl:ad	_	_
+24	motoring	motoring	VERB	ADJ	_	23	obj	_	_
+25	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_188
+1	"	"	PUNCT	PUNCT	_	3	punct	_	_
+2	una	you	PRON	PRON	_	3	nsubj	_	_
+3	know	know	VERB	VERB	_	9	discourse	_	_
+4	"	"	PUNCT	PUNCT	_	3	punct	_	_
+5	some	some	DET	DET	_	9	nsubj	_	_
+6	of	of	ADP	ADP	_	5	nmod	_	_
+7	una	you	PRON	PRON	_	6	obj	_	_
+8	no	not	PART	PART	_	9	advmod	_	_
+9	know	know	VERB	VERB	_	0	root	_	_
+10	sey	that	SCONJ	SCONJ	_	9	ccomp	_	_
+11	tyre	tyre	NOUN	NOUN	_	12	nsubj	_	_
+12	get	get	VERB	VERB	_	10	obj	_	_
+13	production	production	NOUN	NOUN	_	14	compound	_	_
+14	date	date	NOUN	NOUN	_	12	obj	_	_
+15	//	//	PUNCT	PUNCT	_	9	punct	_	_
+
+
+# id = IBA_13_M_189
+1	and	and	CCONJ	CCONJ	_	0	root	_	_
+2	una	you	PRON	PRON	_	4	nsubj	_	_
+3	no	not	PART	PART	_	4	advmod	_	_
+4	know	know	VERB	VERB	_	1	obj	_	_
+5	sey	that	SCONJ	SCONJ	_	4	ccomp	_	_
+6	tyre	tyre	NOUN	NOUN	_	7	subj	_	_
+7	dey	be	AUX	AUX	_	5	obj	_	_
+8	expire	expire	VERB	VERB	_	7	obj	_	_
+9	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_190
+1	some	some	DET	DET	_	5	nsubj	_	_
+2	of	of	ADP	ADP	_	1	nmod	_	_
+3	una	you	PRON	PRON	_	2	obj	_	_
+4	no	not	PART	PART	_	5	advmod	_	_
+5	know	know	VERB	VERB	_	0	root	_	_
+6	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_191
+1	but	but	CCONJ	CCONJ	_	0	root	_	_
+2	im	he	PRON	PRON	_	3	subj	_	_
+3	dey	be	VERB	PART	_	1	obj	_	_
+4	important	important	ADJ	ADJ	_	3	obj	_	_
+5	sey	that	SCONJ	SCONJ	_	4	acl:relcl	_	_
+6	make	let	AUX	AUX	_	5	obj	_	_
+7	una	you	PRON	PRON	_	6	subj	_	_
+8	know	know	VERB	VERB	_	6	obj	_	_
+9	sey	that	SCONJ	SCONJ	_	8	ccomp	_	_
+10	tyre	tyre	NOUN	NOUN	_	11	nsubj	_	_
+11	get	get	VERB	VERB	_	9	obj	_	_
+12	#	#	PUNCT	PUNCT	_	14	punct	_	_
+13	expiry	expiry	ADJ	ADJ	_	14	amod	_	_
+14	date	date	NOUN	NOUN	_	11	obj	_	_
+15	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_192
+1	if	if	SCONJ	SCONJ	_	9	advcl	_	_
+2	your	your	PRON	PRON	_	3	nmod:poss	_	_
+3	tyre	tyre	NOUN	NOUN	_	4	subj	_	_
+4	don	have	AUX	AUX	_	1	obj	_	_
+5	expire	expire	VERB	VERB	_	4	obj	_	_
+6	<+	<+	PUNCT	PUNCT	_	4	punct	_	_
+7	#	#	PUNCT	PUNCT	_	4	punct	_	_
+8	im	he	PRON	PRON	_	9	nsubj:expl	_	_
+9	better	better	ADJ	ADJ	_	0	root	_	_
+10	make	let	AUX	AUX	_	9	csubj:quasi	_	_
+11	you	you	PRON	PRON	_	10	subj	_	_
+12	no	not	PART	PART	_	10	advmod	_	_
+13	use	use	VERB	VERB	_	10	obj	_	_
+14	am	he	PRON	PRON	_	13	obj	_	_
+15	again	again	ADV	ADV	_	13	advmod	_	_
+16	//	//	PUNCT	PUNCT	_	9	punct	_	_
+
+
+# id = IBA_13_M_193
+1	some	some	DET	DET	_	2	det	_	_
+2	people	people	NOUN	NOUN	_	3	subj	_	_
+3	go	will	AUX	AUX	_	0	root	_	_
+4	talk	talk	VERB	VERB	_	3	obj	_	_
+5	sey	that	SCONJ	SCONJ	_	4	ccomp	_	_
+6	tyre	tyre	NOUN	NOUN	_	8	subj	_	_
+7	too	too	ADV	ADV	_	8	advmod	_	_
+8	dey	be	VERB	PART	_	5	obj	_	_
+9	expensive	expensive	ADJ	ADJ	_	8	obj	_	_
+10	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_194
+1	im	he	PRON	PRON	_	3	nsubj	_	_
+2	too	too	ADV	ADV	_	3	advmod	_	_
+3	cost	cost	ADJ	ADJ	_	0	root	_	_
+4	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_195
+1	#	#	PUNCT	PUNCT	_	5	punct	_	_
+2	ehn	eh	INTJ	INTJ	_	5	discourse	_	_
+3	{	{	PUNCT	PUNCT	_	-1	_	_	_
+4	one	one	DET	DET	_	5	det	_	_
+5	thing	thing	NOUN	NOUN	_	0	root	_	_
+6	|r	|r	PUNCT	PUNCT	_	8	punct	_	_
+7	one	one	DET	DET	_	8	det	_	_
+8	thing	thing	NOUN	NOUN	_	5	conj:dicto	_	_
+9	}	}	PUNCT	PUNCT	_	-1	_	_	_
+10	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_196
+1	we	we	PRON	PRON	_	2	subj	_	_
+2	neva	never	AUX	AUX	_	0	root	_	_
+3	eat	eat	VERB	VERB	_	2	obj	_	_
+4	//=	//=	PUNCT	PUNCT	_	6	punct	_	_
+5	we	we	PRON	PRON	_	6	subj	_	_
+6	neva	never	AUX	AUX	_	3	parataxis:conj	_	_
+7	send	send	VERB	VERB	_	6	obj	_	_
+8	our	our	PRON	PRON	_	9	nmod:poss	_	_
+9	pikin	child	NOUN	NOUN	_	7	obj	_	_
+10	go	go	VERB	VERB	_	7	compound:svc	_	_
+11	school	school	NOUN	NOUN	_	10	advmod	_	_
+12	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_197
+1	how	how	ADV	ADV	_	4	advmod	_	_
+2	we	we	PRON	PRON	_	3	subj	_	_
+3	go	will	AUX	AUX	_	0	root	_	_
+4	go	go	VERB	VERB	_	3	obj	_	_
+5	buy	buy	VERB	VERB	_	4	compound:svc	_	_
+6	new	new	ADJ	ADJ	_	7	amod	_	_
+7	tyre	tyre	NOUN	NOUN	_	5	obj	_	_
+8	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_198
+1	na	na	PART	PART	_	2	cop	_	_
+2	tokunbo	tokunbo	NOUN	NOUN	_	0	root	_	_
+3	>+	>+	PUNCT	VERB	_	5	punct	_	_
+4	I	I	PRON	PRON	_	5	subj	_	_
+5	go	will	AUX	AUX	_	2	acl:cleft	_	_
+6	buy	buy	VERB	VERB	_	5	obj	_	_
+7	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_199
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	you	you	PRON	PRON	_	3	nsubj	_	_
+3	get	get	VERB	VERB	_	0	root	_	_
+4	choice	choice	NOUN	NOUN	_	3	obj	_	_
+5	to	to	PART	ADP	_	4	acl	_	_
+6	buy	buy	VERB	VERB	_	5	obj	_	_
+7	tokunbo	tokunbo	NOUN	NOUN	_	6	obj	_	_
+8	|c	|c	PUNCT	PUNCT	_	9	punct	_	_
+9	but	but	CCONJ	CCONJ	_	3	conj:coord	_	_
+10	make	let	AUX	AUX	_	9	obj	_	_
+11	you	you	PRON	PRON	_	10	subj	_	_
+12	know	know	VERB	VERB	_	10	obj	_	_
+13	sey	that	SCONJ	SCONJ	_	12	ccomp	_	_
+14	[	[	PUNCT	PUNCT	_	25	punct	_	_
+15	dat	that	DET	PRON	_	17	det	_	_
+16	tokunbo	tokunbo	NOUN	NOUN	_	17	nmod	_	_
+17	tyre	tyre	NOUN	NOUN	_	27	dislocated	_	_
+18	wey	where	SCONJ	SCONJ	_	17	acl:relcl	_	_
+19	you	you	PRON	PRON	_	20	subj	_	_
+20	dey	be	AUX	AUX	_	18	obj	_	_
+21	buy	buy	VERB	VERB	_	20	obj	_	_
+22	<	<	PUNCT	PUNCT	_	17	punct	_	_
+23	#	#	PUNCT	PUNCT	_	17	punct	_	_
+24	dem	they	PRON	PRON	_	25	subj	_	_
+25	don	have	AUX	AUX	_	13	obj	_	_
+26	{	{	PUNCT	PUNCT	_	25	punct	_	_
+27	use	use	VERB	VERB	_	25	obj	_	_
+28	am	he	PRON	PRON	_	27	obj	_	_
+29	for	for	ADP	ADP	_	27	obl:ad	_	_
+30	one	one	DET	DET	_	31	det	_	_
+31	country	country	NOUN	NOUN	_	29	obj	_	_
+32	|	|	PUNCT	PUNCT	_	33	punct	_	_
+33	use	use	VERB	VERB	_	27	conj:dicto	_	_
+34	am	he	PRON	PRON	_	33	obj	_	_
+35	|	|	PUNCT	PUNCT	_	36	punct	_	_
+36	go	go	AUX	VERB	_	33	conj:coord	_	_
+37	dump	dump	VERB	VERB	_	36	compound:svc	_	_
+38	am	he	PRON	PRON	_	37	obj	_	_
+39	}	}	PUNCT	PUNCT	_	27	punct	_	_
+40	]	]	NOUN	NOUN	_	27	punct	_	_
+41	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_200
+1	#	#	PUNCT	PUNCT	_	7	punct	_	_
+2	some	some	DET	DET	_	3	det	_	_
+3	people	people	NOUN	NOUN	_	7	subj	_	_
+4	for	for	ADP	ADP	_	3	nmod	_	_
+5	Nigeria	Nigeria	PROPN	PROPN	_	4	obj	_	_
+6	{	{	PUNCT	PUNCT	_	7	punct	_	_
+7	go	will	AUX	AUX	_	0	root	_	_
+8	go	go	VERB	VERB	_	7	obj	_	_
+9	dere	there	ADV	ADV	_	8	advmod	_	_
+10	|c	|c	PUNCT	PUNCT	_	-1	_	_	_
+11	go	go	VERB	VERB	_	8	conj:dicto	_	_
+12	buy	buy	VERB	VERB	_	11	obj	_	_
+13	dose	those	DET	DET	_	14	det	_	_
+14	tyre	tyre	NOUN	NOUN	_	12	obj	_	_
+15	wey	where	SCONJ	SCONJ	_	14	acl:relcl	_	_
+16	dem	they	PRON	PRON	_	17	subj	_	_
+17	don	have	AUX	AUX	_	15	obj	_	_
+18	use	use	VERB	VERB	_	17	obj	_	_
+19	}	}	PUNCT	PUNCT	_	8	punct	_	_
+20	//	//	PUNCT	PUNCT	_	8	punct	_	_
+
+
+# id = IBA_13_M_201
+1	dem	they	PRON	PRON	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	go	will	VERB	AUX	_	2	obj	_	_
+4	{	{	PUNCT	PUNCT	_	5	punct	_	_
+5	fold	fold	VERB	VERB	_	3	compound:svc	_	_
+6	di	the	DET	DET	_	7	det	_	_
+7	tyre	tyre	NOUN	NOUN	_	5	obj	_	_
+8	|	|	PUNCT	PUNCT	_	9	punct	_	_
+9	fold	fold	VERB	VERB	_	5	conj:dicto	_	_
+10	am	he	PRON	PRON	_	9	obj	_	_
+11	into	into	ADP	ADP	_	9	obl:comp	_	_
+12	each	each	PRON	PRON	_	11	obj	_	_
+13	anoder	another	DET	DET	_	12	det	_	_
+14	so	so	SCONJ	SCONJ	_	9	advmod	_	_
+15	}	}	PUNCT	PUNCT	_	5	punct	_	_
+16	so	so	SCONJ	SCONJ	_	5	advcl	_	_
+17	dat	that	SCONJ	PRON	_	16	fixed	_	_
+18	dem	they	PRON	PRON	_	19	subj	_	_
+19	go	will	AUX	AUX	_	16	obj	_	_
+20	fit	can	AUX	AUX	_	19	obj	_	_
+21	bring	bring	VERB	VERB	_	20	obj	_	_
+22	plenty	plenty	NOUN	NOUN	_	21	obj	_	_
+23	plenty	plenty	NOUN	NOUN	_	22	compound:redup	_	_
+24	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_202
+1	dem	they	PRON	PRON	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	ship	ship	VERB	VERB	_	2	obj	_	_
+4	am	he	PRON	PRON	_	3	obj	_	_
+5	#	#	PUNCT	PUNCT	_	6	punct	_	_
+6	come	come	VERB	VERB	_	3	compound:svc	_	_
+7	Nigeria	Nigeria	PROPN	PROPN	_	6	obj	_	_
+8	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_203
+1	now	now	ADV	ADV	_	2	advmod	_	_
+2	see	see	VERB	VERB	_	0	root	_	_
+3	di	the	DET	DET	_	4	det	_	_
+4	process	process	NOUN	NOUN	_	2	obj	_	_
+5	!//	!//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_204
+1	folding	folding	NOUN	NOUN	_	3	dislocated	_	_
+2	<	<	PUNCT	PUNCT	_	3	dislocated	_	_
+3	number	number	NOUN	NOUN	_	0	root	_	_
+4	one	one	NUM	DET	_	3	nummod	_	_
+5	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_205
+1	#	#	PUNCT	PUNCT	_	12	punct	_	_
+2	tyre	tyre	NOUN	NOUN	_	14	dislocated	_	_
+3	wey	where	SCONJ	SCONJ	_	2	acl:relcl	_	_
+4	don	have	AUX	AUX	_	3	obj	_	_
+5	expire	expire	VERB	VERB	_	4	obj	_	_
+6	in	in	ADP	ADP	_	5	obl	_	_
+7	di	the	DET	DET	_	9	det	_	_
+8	first	first	ADJ	ADJ	_	9	amod	_	_
+9	place	place	NOUN	NOUN	_	6	obj	_	_
+10	<	<	PUNCT	PUNCT	_	2	punct	_	_
+11	dem	they	PRON	PRON	_	12	subj	_	_
+12	go	will	AUX	AUX	_	0	root	_	_
+13	{	will	AUX	AUX	_	12	punct	_	_
+14	fold	fold	VERB	VERB	_	12	obj	_	_
+15	am	he	PRON	PRON	_	14	obj	_	_
+16	|c	//	PUNCT	PUNCT	_	18	punct	_	_
+17	#	#	PUNCT	PUNCT	_	18	punct	_	_
+18	twist	twist	VERB	VERB	_	14	conj:coord	_	_
+19	am	he	PRON	PRON	_	18	obj	_	_
+20	into	into	ADP	ADP	_	18	obl:comp	_	_
+21	each	each	PRON	PRON	_	22	det	_	_
+22	oder	other	ADJ	ADJ	_	20	obj	_	_
+23	}	so	SCONJ	SCONJ	_	14	punct	_	_
+24	so	so	SCONJ	SCONJ	_	14	advcl	_	_
+25	dat	that	SCONJ	SCONJ	_	24	fixed	_	_
+26	de	they	PRON	PRON	_	27	subj	_	_
+27	go	will	AUX	AUX	_	24	obj	_	_
+28	fit	can	AUX	AUX	_	27	obj	_	_
+29	{	{	PUNCT	PUNCT	_	27	punct	_	_
+30	{	{	PUNCT	PUNCT	_	27	punct	_	_
+31	br~	br~	X	X	_	33	conj:dicto	_	_
+32	||	||	PUNCT	PUNCT	_	31	punct	_	_
+33	bring	bring	VERB	VERB	_	28	obj	_	_
+34	}	}	PUNCT	PUNCT	_	33	punct	_	_
+35	plenty	plenty	NOUN	NOUN	_	33	obj	_	_
+36	|c	|c	NOUN	NOUN	_	37	punct	_	_
+37	put	put	VERB	VERB	_	33	conj:coord	_	_
+38	am	he	PRON	PRON	_	37	obj	_	_
+39	for	for	ADP	ADP	_	37	obl:comp	_	_
+40	wata	wata	NOUN	NOUN	_	39	obj	_	_
+41	}	}	PUNCT	PUNCT	_	33	punct	_	_
+42	//	//	PUNCT	PUNCT	_	14	punct	_	_
+
+
+# id = IBA_13_M_206
+1	#	#	PUNCT	PUNCT	_	17	punct	_	_
+2	before	before	SCONJ	ADP	_	18	advcl	_	_
+3	im	he	PRON	PRON	_	4	nsubj	_	_
+4	reach	arrive	VERB	VERB	_	2	obj	_	_
+5	Nigeria	Nigeria	PROPN	PROPN	_	4	obj	_	_
+6	<+	<+	PUNCT	PUNCT	_	4	punct	_	_
+7	di	the	DET	DET	_	11	det	_	_
+8	whole	whole	ADJ	ADJ	_	11	amod	_	_
+9	{	{	PUNCT	PUNCT	_	11	punct	_	_
+10	sea	sea	NOUN	NOUN	_	11	compound	_	_
+11	wata	wata	NOUN	NOUN	_	17	subj	_	_
+12	|c	|c	PUNCT	PUNCT	_	13	punct	_	_
+13	corrosion	corrosion	NOUN	NOUN	_	11	conj:coord	_	_
+14	|c	|c	PUNCT	PUNCT	_	15	punct	_	_
+15	everything	everything	NOUN	NOUN	_	13	conj:dicto	_	_
+16	}	}	PUNCT	PUNCT	_	11	punct	_	_
+17	don	have	AUX	AUX	_	0	root	_	_
+18	affect	affect	VERB	VERB	_	17	obj	_	_
+19	di	the	DET	DET	_	20	det	_	_
+20	tire	tire	NOUN	VERB	_	18	obj	_	_
+21	because	because	SCONJ	SCONJ	_	18	advcl	_	_
+22	dem	they	PRON	PRON	_	23	subj	_	_
+23	go	will	AUX	AUX	_	21	obj	_	_
+24	dey	be	AUX	AUX	_	23	obj	_	_
+25	go	go	VERB	VERB	_	24	obj	_	_
+26	#	#	PUNCT	PUNCT	_	27	punct	_	_
+27	pack	pack	VERB	VERB	_	25	compound:svc	_	_
+28	am	he	PRON	PRON	_	27	obj	_	_
+29	for	for	ADP	ADP	_	27	obl:comp	_	_
+30	#	#	PUNCT	PUNCT	_	29	punct	_	_
+31	inside	inside	ADP	ADP	_	32	case	_	_
+32	container	container	NOUN	NOUN	_	29	obj	_	_
+33	//	//	PUNCT	PUNCT	_	23	punct	_	_
+
+
+# id = IBA_13_M_208
+1	if	if	SCONJ	SCONJ	_	10	advcl	_	_
+2	im	he	PRON	PRON	_	3	nsubj	_	_
+3	reach	arrive	VERB	VERB	_	1	obj	_	_
+4	Nigeria	Nigeria	PROPN	PROPN	_	3	obj	_	_
+5	<+	<+	PUNCT	PUNCT	_	-1	_	_	_
+6	dem	they	PRON	PRON	_	7	subj	_	_
+7	go	will	AUX	AUX	_	0	root	_	_
+8	come	come	AUX	VERB	_	7	obj	_	_
+9	{	{	PUNCT	PUNCT	_	7	punct	_	_
+10	comot	leave	VERB	VERB	_	8	obj	_	_
+11	am	he	PRON	PRON	_	10	obj	_	_
+12	|c	|c	PUNCT	PUNCT	_	13	punct	_	_
+13	pour	pour	VERB	VERB	_	10	conj:coord	_	_
+14	am	he	PRON	PRON	_	13	obj	_	_
+15	for	for	ADP	ADP	_	13	obl:comp	_	_
+16	one	one	DET	DET	_	17	det	_	_
+17	thing	thing	NOUN	NOUN	_	15	obj	_	_
+18	|c	|c	PUNCT	PUNCT	_	19	punct	_	_
+19	pour	pour	VERB	VERB	_	10	conj:coord	_	_
+20	some	some	DET	DET	_	21	det	_	_
+21	chemical	chemical	NOUN	NOUN	_	19	obj	_	_
+22	on	on	ADP	ADP	_	19	obl:comp	_	_
+23	top	top	NOUN	NOUN	_	22	obj	_	_
+24	am	he	PRON	PRON	_	23	nmod	_	_
+25	}	}	PUNCT	PUNCT	_	7	punct	_	_
+26	so	so	SCONJ	SCONJ	_	19	advcl	_	_
+27	dat	that	SCONJ	PRON	_	26	fixed	_	_
+28	di	the	DET	DET	_	29	det	_	_
+29	tyre	tyre	NOUN	NOUN	_	30	subj	_	_
+30	go	will	AUX	AUX	_	26	obj	_	_
+31	fit	can	AUX	AUX	_	30	obj	_	_
+32	#	#	PUNCT	PUNCT	_	31	punct	_	_
+33	expand	expand	VERB	VERB	_	31	obj	_	_
+34	//	//	PUNCT	PUNCT	_	10	punct	_	_
+
+
+# id = IBA_13_M_209
+1	im	he	PRON	PRON	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	fit	can	AUX	AUX	_	2	obj	_	_
+4	assume	assume	VERB	VERB	_	3	obj	_	_
+5	di	the	DET	DET	_	6	det	_	_
+6	shape	shape	NOUN	NOUN	_	4	obj	_	_
+7	of	of	ADP	ADP	_	6	nmod	_	_
+8	tyre	tyre	NOUN	NOUN	_	7	obj	_	_
+9	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_210
+1	#	#	PUNCT	PUNCT	_	8	punct	_	_
+2	when	when	ADV	ADV	_	4	mark	_	_
+3	dem	they	PRON	PRON	_	4	nsubj	_	_
+4	produce	produce	VERB	VERB	_	11	advcl	_	_
+5	am	he	PRON	PRON	_	4	obj	_	_
+6	<+	<+	PUNCT	PUNCT	_	4	punct	_	_
+7	dem	they	PRON	PRON	_	8	subj	_	_
+8	go	will	AUX	AUX	_	0	root	_	_
+9	come	come	AUX	VERB	_	8	obj	_	_
+10	{	{	PUNCT	PUNCT	_	8	punct	_	_
+11	wash	wash	VERB	VERB	_	9	obj	_	_
+12	am	he	PRON	PRON	_	11	obj	_	_
+13	|	|	PUNCT	PUNCT	_	14	punct	_	_
+14	galvanise	galvanise	VERB	VERB	_	11	conj:coord	_	_
+15	am	he	PRON	PRON	_	14	obj	_	_
+16	}	}	PUNCT	PUNCT	_	11	punct	_	_
+17	//=	//=	PUNCT	PUNCT	_	19	punct	_	_
+18	#	#	PUNCT	PUNCT	_	19	punct	_	_
+19	go	will	AUX	AUX	_	11	conj:coord	_	_
+20	put	put	VERB	VERB	_	19	obj	_	_
+21	am	he	PRON	PRON	_	20	obj	_	_
+22	for	for	ADP	ADP	_	20	advcl	_	_
+23	stand	stand	VERB	VERB	_	22	obj	_	_
+24	//	//	PUNCT	PUNCT	_	11	punct	_	_
+
+
+# id = IBA_13_M_211
+1	na	now	ADV	ADV	_	2	discourse	_	_
+2	wetin	what	PRON	PRON	_	0	root	_	_
+3	we	we	PRON	PRON	_	4	subj	_	_
+4	dey	be	AUX	AUX	_	2	acl:relcl	_	_
+5	buy	buy	VERB	VERB	_	4	obj	_	_
+6	>+	>+	PUNCT	VERB	_	7	punct	_	_
+7	be	be	VERB	PART	_	2	acl:cleft	_	_
+8	dat	that	PRON	PRON	_	7	obj	_	_
+9	?//	?//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_212
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	you	you	PRON	PRON	_	3	subj	_	_
+3	go	will	AUX	AUX	_	0	root	_	_
+4	come	come	AUX	VERB	_	3	obj	_	_
+5	put	put	VERB	VERB	_	4	obj	_	_
+6	am	he	PRON	PRON	_	5	obj	_	_
+7	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_213
+1	you	you	PRON	PRON	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	enter	enter	VERB	VERB	_	2	obj	_	_
+4	Lagos	Lagos	PROPN	PROPN	_	6	compound	_	_
+5	Ibadan	Ibadan	PROPN	PROPN	_	4	compound	_	_
+6	expressway	expressway	NOUN	NOUN	_	3	obj	_	_
+7	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_214
+1	tyre	tyre	NOUN	NOUN	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	come	come	AUX	VERB	_	2	obj	_	_
+4	burst	burst	VERB	VERB	_	3	obj	_	_
+5	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_215
+1	people	people	NOUN	NOUN	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	die	die	VERB	VERB	_	2	obj	_	_
+4	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_216
+1	#	#	PUNCT	PUNCT	_	5	punct	_	_
+2	why	why	ADV	ADV	_	6	advmod	_	_
+3	people	people	NOUN	NOUN	_	5	subj	_	_
+4	no	not	PART	PART	_	5	advmod	_	_
+5	go	will	AUX	AUX	_	0	root	_	_
+6	die	die	VERB	VERB	_	5	obj	_	_
+7	?//	?//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_217
+1	na	na	PART	PART	_	2	cop	_	_
+2	we	we	PRON	PRON	_	0	root	_	_
+3	>+	>+	PUNCT	PUNCT	_	8	punct	_	_
+4	#	#	PUNCT	PUNCT	_	8	punct	_	_
+5	we	we	PRON	PRON	_	8	nsubj	_	_
+6	#	#	PUNCT	PUNCT	_	8	punct	_	_
+7	dey	be	PART	PART	_	8	cop	_	_
+8	part	part	NOUN	NOUN	_	2	acl:cleft	_	_
+9	of	of	ADP	ADP	_	8	nmod	_	_
+10	di	the	DET	DET	_	11	det	_	_
+11	problem	problem	NOUN	NOUN	_	9	obj	_	_
+12	wey	where	SCONJ	SCONJ	_	11	acl:relcl	_	_
+13	we	we	PRON	PRON	_	14	nsubj	_	_
+14	get	get	VERB	VERB	_	12	obj	_	_
+15	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_218
+1	and	and	CCONJ	CCONJ	_	0	root	_	_
+2	anoder	another	DET	DET	_	3	det	_	_
+3	thing	thing	NOUN	NOUN	_	4	nsubj	_	_
+4	be	be	VERB	PART	_	1	obj	_	_
+5	sey	that	SCONJ	SCONJ	_	4	ccomp	_	_
+6	if	if	SCONJ	SCONJ	_	46	advcl	_	_
+7	perhaps	perhaps	ADV	ADV	_	13	advmod	_	_
+8	sey	that	SCONJ	SCONJ	_	13	mark	_	_
+9	{	{	PUNCT	PUNCT	_	13	punct	_	_
+10	your	your	PRON	PRON	_	11	nmod:poss	_	_
+11	tyre	tyre	NOUN	NOUN	_	13	nsubj	_	_
+12	go	will	VERB	AUX	_	13	aux	_	_
+13	low	low	ADJ	ADJ	_	6	obj	_	_
+14	|c	|c	PUNCT	PUNCT	_	17	punct	_	_
+15	#	#	PUNCT	PUNCT	_	17	punct	_	_
+16	you	you	PRON	PRON	_	17	nsubj	_	_
+17	get	get	VERB	VERB	_	13	conj:coord	_	_
+18	blow	blow	VERB	VERB	_	20	amod	_	_
+19	out	out	ADV	ADV	_	18	compound:prt	_	_
+20	tire	tire	NOUN	VERB	_	17	obj	_	_
+21	for	for	ADP	ADP	_	17	obl:ad	_	_
+22	#	#	PUNCT	PUNCT	_	-1	_	_	_
+23	road	road	NOUN	NOUN	_	21	obj	_	_
+24	as	as	SCONJ	ADP	_	17	advcl	_	_
+25	you	you	PRON	PRON	_	26	subj	_	_
+26	dey	be	AUX	AUX	_	24	obj	_	_
+27	travel	travel	VERB	VERB	_	26	obj	_	_
+28	}	}	PUNCT	PUNCT	_	13	punct	_	_
+29	<+	<+	PUNCT	PUNCT	_	13	punct	_	_
+30	#	#	PUNCT	PUNCT	_	13	punct	_	_
+31	im	he	PRON	PRON	_	32	nsubj:expl	_	_
+32	get	get	VERB	VERB	_	46	parataxis:dislocated	_	_
+33	one	one	NUM	DET	_	34	nummod	_	_
+34	thing	thing	NOUN	NOUN	_	32	obj	_	_
+35	wey	where	SCONJ	SCONJ	_	34	acl:relcl	_	_
+36	you	you	PRON	PRON	_	38	nsubj	_	_
+37	no	not	PART	PART	_	38	advmod	_	_
+38	suppose	suppose	VERB	VERB	_	35	obj	_	_
+39	do	do	VERB	VERB	_	38	xcomp	_	_
+40	<	<	PUNCT	PUNCT	_	32	punct	_	_
+41	#	#	PUNCT	PUNCT	_	32	punct	_	_
+42	na	na	PART	PART	_	46	cop	_	_
+43	make	let	AUX	VERB	_	5	obj	_	_
+44	you	you	PRON	PRON	_	43	subj	_	_
+45	no	not	PART	PART	_	43	advmod	_	_
+46	press	press	VERB	VERB	_	43	obj	_	_
+47	brake	brake	NOUN	NOUN	_	46	obj	_	_
+48	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_219
+1	#	#	PUNCT	PUNCT	_	13	punct	_	_
+2	because	because	SCONJ	SCONJ	_	0	root	_	_
+3	if	if	SCONJ	SCONJ	_	14	advcl	_	_
+4	you	you	PRON	PRON	_	5	subj	_	_
+5	don	have	AUX	AUX	_	3	obj	_	_
+6	press	press	VERB	VERB	_	5	obj	_	_
+7	brake	brake	NOUN	NOUN	_	6	obj	_	_
+8	<+	<+	PUNCT	PUNCT	_	5	punct	_	_
+9	#	#	PUNCT	PUNCT	_	5	punct	_	_
+10	di	the	DET	DET	_	12	det	_	_
+11	#	#	PUNCT	PUNCT	_	10	punct	_	_
+12	motor	motor	NOUN	NOUN	_	13	subj	_	_
+13	go	will	AUX	AUX	_	2	obj	_	_
+14	begin	begin	VERB	VERB	_	13	obj	_	_
+15	dey	be	AUX	AUX	_	14	xcomp	_	_
+16	somersault	somersault	VERB	VERB	_	15	obj	_	_
+17	//	//	PUNCT	PUNCT	_	13	punct	_	_
+
+
+# id = IBA_13_M_220
+1	na	na	PART	PART	_	4	cop	_	_
+2	di	the	DET	DET	_	4	det	_	_
+3	direct	direct	ADJ	ADJ	_	4	amod	_	_
+4	consequence	consequence	NOUN	NOUN	_	0	root	_	_
+5	>+	>+	PUNCT	VERB	_	6	punct	_	_
+6	be	be	VERB	PART	_	4	acl:cleft	_	_
+7	dat	that	PRON	PRON	_	6	obj	_	_
+8	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_221
+1	so	so	ADV	ADV	_	14	advmod	_	_
+2	#	#	PUNCT	PUNCT	_	-1	_	_	_
+3	if	if	SCONJ	SCONJ	_	14	advcl	_	_
+4	{	{	PUNCT	PUNCT	_	7	punct	_	_
+5	yo~	yo~	X	X	_	7	conj:dicto	_	_
+6	|	|	PUNCT	PUNCT	_	5	punct	_	_
+7	your	your	PRON	PRON	_	9	nmod:poss	_	_
+8	}	}	PUNCT	PUNCT	_	7	punct	_	_
+9	tyre	tyre	NOUN	NOUN	_	10	nsubj	_	_
+10	burst	burst	VERB	VERB	_	3	obj	_	_
+11	<+	<+	PUNCT	PUNCT	_	10	punct	_	_
+12	#	#	PUNCT	PUNCT	_	10	punct	_	_
+13	just	just	ADV	ADV	_	14	advmod	_	_
+14	comot	leave	VERB	VERB	_	0	root	_	_
+15	your	your	PRON	PRON	_	16	nmod:poss	_	_
+16	leg	leg	NOUN	NOUN	_	14	obj	_	_
+17	from	from	ADP	ADP	_	14	obl:comp	_	_
+18	ped~	ped~	X	X	_	17	obj	_	_
+19	no	not	PART	PART	_	20	advmod	_	_
+20	dey	be	VERB	PART	_	14	conj:dicto	_	_
+21	tempted	tempted	ADJ	ADJ	_	20	obj	_	_
+22	to	to	PART	ADP	_	21	xcomp	_	_
+23	press	press	VERB	VERB	_	22	obj	_	_
+24	anything	anything	NOUN	NOUN	_	23	obj	_	_
+25	//	//	PUNCT	PUNCT	_	14	punct	_	_
+
+
+# id = IBA_13_M_222
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	just	just	ADV	ADV	_	4	advmod	_	_
+3	dey	be	AUX	AUX	_	0	root	_	_
+4	hold	hold	VERB	VERB	_	3	obj	_	_
+5	di	the	DET	DET	_	6	det	_	_
+6	steer	steer	NOUN	VERB	_	4	obj	_	_
+7	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_223
+1	#	#	PUNCT	PUNCT	_	6	punct	_	_
+2	obviously	obviously	ADV	ADV	_	8	advmod	_	_
+3	<	<	PUNCT	PUNCT	_	2	punct	_	_
+4	di	the	DET	DET	_	5	det	_	_
+5	car	car	NOUN	NOUN	_	6	subj	_	_
+6	go	will	AUX	AUX	_	0	root	_	_
+7	dey	be	AUX	AUX	_	6	obj	_	_
+8	carry	carry	VERB	VERB	_	7	obj	_	_
+9	you	you	PRON	PRON	_	8	obj	_	_
+10	go	go	VERB	VERB	_	8	compound:svc	_	_
+11	left	left	ADV	NOUN	_	10	advmod	_	_
+12	carry	carry	VERB	VERB	_	10	compound:svc	_	_
+13	you	you	PRON	PRON	_	12	obj	_	_
+14	but	but	CCONJ	CCONJ	_	8	conj:coord	_	_
+15	just	just	ADV	ADV	_	16	advmod	_	_
+16	hold	hold	VERB	VERB	_	14	obj	_	_
+17	am	he	PRON	PRON	_	16	obj	_	_
+18	well	well	ADV	ADV	_	16	advmod	_	_
+19	well	well	ADV	ADV	_	18	compound:redup	_	_
+20	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_224
+1	make	let	VERB	VERB	_	2	aux	_	_
+2	sure	sure	ADJ	ADJ	_	0	root	_	_
+3	sey	that	SCONJ	SCONJ	_	2	ccomp	_	_
+4	you	you	PRON	PRON	_	6	nsubj	_	_
+5	no	not	PART	PART	_	6	advmod	_	_
+6	leave	leave	VERB	VERB	_	3	obj	_	_
+7	am	he	PRON	PRON	_	6	obj	_	_
+8	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_225
+1	#	#	PUNCT	PUNCT	_	8	punct	_	_
+2	den	then	ADV	ADV	_	9	advmod	_	_
+3	{	{	PUNCT	PUNCT	_	8	punct	_	_
+4	dey	be	AUX	AUX	_	9	conj:dicto	_	_
+5	look	look	VERB	VERB	_	4	obj	_	_
+6	||	||	PUNCT	PUNCT	_	4	punct	_	_
+7	#	#	PUNCT	PUNCT	_	4	punct	_	_
+8	dey	be	AUX	AUX	_	0	root	_	_
+9	look	look	VERB	VERB	_	8	obj	_	_
+10	}	}	PUNCT	PUNCT	_	9	punct	_	_
+11	your	your	PRON	PRON	_	12	nmod:poss	_	_
+12	mirror	mirror	NOUN	NOUN	_	9	obj	_	_
+13	}	}	PUNCT	PUNCT	_	9	punct	_	_
+14	so	so	SCONJ	SCONJ	_	9	advcl	_	_
+15	dat	that	PRON	PRON	_	14	fixed	_	_
+16	you	you	PRON	PRON	_	18	subj	_	_
+17	no	not	PART	PART	_	18	advmod	_	_
+18	go	will	AUX	AUX	_	14	obj	_	_
+19	go	go	VERB	VERB	_	18	obj	_	_
+20	#	#	PUNCT	PUNCT	_	21	punct	_	_
+21	enter	enter	VERB	VERB	_	19	compound:svc	_	_
+22	#	#	PUNCT	PUNCT	_	21	punct	_	_
+23	em	em	INTJ	INTJ	_	21	discourse	_	_
+24	mouth	mouth	NOUN	NOUN	_	21	obj	_	_
+25	of	of	ADP	ADP	_	24	nmod	_	_
+26	anoder	another	DET	DET	_	27	det	_	_
+27	car	car	NOUN	NOUN	_	25	obj	_	_
+28	//	//	PUNCT	PUNCT	_	9	punct	_	_
+
+
+# id = IBA_13_M_226
+1	dey	be	AUX	AUX	_	0	root	_	_
+2	look	look	VERB	VERB	_	1	obj	_	_
+3	front	front	NOUN	NOUN	_	2	compound:prt	_	_
+4	too	too	ADV	ADV	_	2	advmod	_	_
+5	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_227
+1	#	#	PUNCT	PUNCT	_	9	punct	_	_
+2	if	if	SCONJ	SCONJ	_	9	advcl	_	_
+3	na	na	PART	PART	_	6	cop	_	_
+4	single	single	ADJ	ADJ	_	6	amod	_	_
+5	carriage	carriage	NOUN	NOUN	_	6	compound	_	_
+6	way	way	NOUN	NOUN	_	2	obj	_	_
+7	<	<	PUNCT	PUNCT	_	6	punct	_	_
+8	#	#	PUNCT	PUNCT	_	6	punct	_	_
+9	try	try	VERB	VERB	_	0	root	_	_
+10	make	let	AUX	AUX	_	9	xcomp	_	_
+11	you	you	PRON	PRON	_	10	subj	_	_
+12	{	{	PUNCT	PUNCT	_	10	punct	_	_
+13	dey	be	AUX	AUX	_	16	conj:dicto	_	_
+14	|	|	PUNCT	PUNCT	_	13	punct	_	_
+15	#	#	PUNCT	PUNCT	_	13	punct	_	_
+16	dey	be	VERB	AUX	_	10	obj	_	_
+17	}	}	PUNCT	PUNCT	_	10	punct	_	_
+18	close	close	ADJ	VERB	_	21	case	_	_
+19	to	to	ADP	ADP	_	18	fixed	_	_
+20	di	the	DET	DET	_	21	det	_	_
+21	shoulder	shoulder	NOUN	NOUN	_	16	obl:comp	_	_
+22	of	of	ADP	ADP	_	21	nmod	_	_
+23	di	the	DET	DET	_	24	det	_	_
+24	road	road	NOUN	NOUN	_	22	obj	_	_
+25	so	so	SCONJ	SCONJ	_	16	advcl	_	_
+26	dat	that	SCONJ	PRON	_	25	fixed	_	_
+27	you	you	PRON	PRON	_	29	subj	_	_
+28	no	not	PART	PART	_	29	advmod	_	_
+29	go	will	AUX	AUX	_	25	obj	_	_
+30	go	go	VERB	VERB	_	29	compound:redup	_	_
+31	get	get	VERB	VERB	_	29	obj	_	_
+32	headon	headon	ADJ	ADJ	_	33	amod	_	_
+33	collision	collision	NOUN	NOUN	_	31	obj	_	_
+34	wit	with	ADP	ADP	_	31	obl:comp	_	_
+35	anoder	another	DET	DET	_	36	det	_	_
+36	car	car	NOUN	NOUN	_	34	obj	_	_
+37	//	//	PUNCT	PUNCT	_	9	punct	_	_
+
+
+# id = IBA_13_M_228
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	den	then	ADV	ADV	_	6	advmod	_	_
+3	go	will	AUX	AUX	_	0	root	_	_
+4	just	just	ADV	ADV	_	6	advmod	_	_
+5	dey	be	AUX	AUX	_	3	obj	_	_
+6	go	go	VERB	VERB	_	5	obj	_	_
+7	untill	untill	SCONJ	ADV	_	6	advcl	_	_
+8	#	#	PUNCT	PUNCT	_	7	punct	_	_
+9	di	the	DET	DET	_	10	det	_	_
+10	motor	motor	NOUN	NOUN	_	11	subj	_	_
+11	go	will	AUX	AUX	_	7	obj	_	_
+12	come	come	AUX	VERB	_	11	obj	_	_
+13	stop	stop	VERB	VERB	_	12	obj	_	_
+14	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_229
+1	you	you	PRON	PRON	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	come	come	VERB	VERB	_	2	obj	_	_
+4	park	park	VERB	NOUN	_	3	compound:svc	_	_
+5	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_230
+1	you	you	PRON	PRON	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	change	change	VERB	NOUN	_	2	obj	_	_
+4	di	the	DET	DET	_	5	det	_	_
+5	tyre	tyre	NOUN	NOUN	_	3	obj	_	_
+6	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_231
+1	so	so	ADV	SCONJ	_	3	advmod	_	_
+2	im	he	PRON	PRON	_	3	subj	_	_
+3	dey	be	VERB	PART	_	0	root	_	_
+4	very	very	ADV	ADV	_	5	advmod	_	_
+5	important	important	ADJ	ADJ	_	3	obj	_	_
+6	sey	that	SCONJ	SCONJ	_	5	csubj	_	_
+7	[	[	PUNCT	PUNCT	_	8	punct	_	_
+8	make	let	AUX	AUX	_	6	obj	_	_
+9	we	we	PRON	PRON	_	8	subj	_	_
+10	dey	be	AUX	AUX	_	8	obj	_	_
+11	put	put	VERB	VERB	_	10	obj	_	_
+12	conscious	conscious	ADJ	ADJ	_	13	amod	_	_
+13	thought	thought	NOUN	NOUN	_	11	obj	_	_
+14	to	to	ADP	ADP	_	11	obl:comp	_	_
+15	our	our	PRON	PRON	_	16	nmod:poss	_	_
+16	tyre	tyre	NOUN	NOUN	_	14	obj	_	_
+17	]	]	PUNCT	NOUN	_	8	punct	_	_
+18	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_232
+1	because	because	SCONJ	SCONJ	_	0	root	_	_
+2	na	na	PART	PART	_	4	cop	_	_
+3	di	the	DET	DET	_	4	det	_	_
+4	tyre	tyre	NOUN	NOUN	_	1	obj	_	_
+5	>+	>+	PUNCT	VERB	_	6	punct	_	_
+6	dey	be	AUX	AUX	_	4	acl:cleft	_	_
+7	carry	carry	VERB	VERB	_	6	obj	_	_
+8	{	{	PUNCT	PUNCT	_	10	punct	_	_
+9	di	the	DET	DET	_	10	det	_	_
+10	load	load	NOUN	NOUN	_	7	obj	_	_
+11	|	|	PUNCT	PUNCT	_	13	punct	_	_
+12	di	the	DET	DET	_	13	det	_	_
+13	weight	weight	NOUN	NOUN	_	10	conj:dicto	_	_
+14	of	of	ADP	ADP	_	13	nmod	_	_
+15	di	the	DET	DET	_	16	det	_	_
+16	vehicle	vehicle	NOUN	NOUN	_	14	obj	_	_
+17	}	}	PUNCT	PUNCT	_	10	punct	_	_
+18	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_233
+1	{	{	PUNCT	PUNCT	_	18	punct	_	_
+2	it	it	PRON	PRON	_	3	subj	_	_
+3	is	is	VERB	VERB	_	18	conj:dicto	_	_
+4	on	on	ADP	ADP	_	3	obj	_	_
+5	di	the	DET	DET	_	6	det	_	_
+6	tire	tire	NOUN	VERB	_	4	obj	_	_
+7	||	|-	PUNCT	PUNCT	_	18	punct	_	_
+8	{	{	PUNCT	PUNCT	_	11	punct	_	_
+9	di	the	DET	DET	_	11	det	_	_
+10	whole	whole	ADJ	ADJ	_	11	amod	_	_
+11	vehicle	vehicle	NOUN	NOUN	_	18	dislocated	_	_
+12	||	<	PUNCT	PUNCT	_	13	punct	_	||
+13	everything	everything	PRON	NOUN	_	11	conj:dicto	_	_
+14	}	}	PUNCT	PUNCT	_	11	punct	_	_
+15	<	<	PUNCT	PUNCT	_	18	punct	_	_
+16	na	na	PART	PART	_	18	cop	_	_
+17	on	on	ADP	ADP	_	0	root	_	_
+18	top	top	ADJ	NOUN	_	17	obj	_	_
+19	tire	tire	NOUN	VERB	_	18	nmod	_	_
+20	}	}	PUNCT	VERB	_	18	punct	_	_
+21	>+	>+	PUNCT	VERB	_	23	punct	_	_
+22	im	he	PRON	PRON	_	23	subj	_	_
+23	dey	be	AUX	AUX	_	18	acl:cleft	_	_
+24	rest	rest	VERB	VERB	_	23	obj	_	_
+25	//	//	PUNCT	PUNCT	_	18	punct	_	_
+
+
+# id = IBA_13_M_234
+1	so	so	ADV	SCONJ	_	29	advmod	_	_
+2	if	if	SCONJ	SCONJ	_	29	advcl	_	_
+3	you	you	PRON	PRON	_	4	nsubj	_	_
+4	buy	buy	VERB	VERB	_	2	obj	_	_
+5	car	car	NOUN	NOUN	_	4	obj	_	_
+6	wey	where	SCONJ	SCONJ	_	5	acl:relcl	_	_
+7	be	be	VERB	PART	_	6	fixed	_	_
+8	sey	that	SCONJ	SCONJ	_	7	fixed	_	_
+9	{	{	PUNCT	PUNCT	_	11	punct	_	_
+10	dem	they	PRON	PRON	_	11	nsubj	_	_
+11	carry	carry	VERB	VERB	_	6	obj	_	_
+12	am	he	PRON	PRON	_	11	obj	_	_
+13	comot	leave	VERB	VERB	_	11	compound:svc	_	_
+14	from	from	ADP	ADP	_	13	obl:comp	_	_
+15	factory	factory	NOUN	NOUN	_	14	obj	_	_
+16	today	today	ADV	NOUN	_	13	advmod	_	_
+17	|	|	PUNCT	PUNCT	_	19	punct	_	_
+18	#	#	PUNCT	PUNCT	_	21	punct	_	_
+19	but	but	CCONJ	CCONJ	_	11	conj:coord	_	_
+20	im	he	PRON	PRON	_	21	nsubj	_	_
+21	get	get	VERB	VERB	_	19	obj	_	_
+22	bad	bad	ADJ	ADJ	_	23	amod	_	_
+23	tyre	tyre	NOUN	NOUN	_	21	obj	_	_
+24	}	}	PUNCT	PUNCT	_	11	punct	_	_
+25	<+	<+	PUNCT	PUNCT	_	4	punct	_	_
+26	dat	that	DET	PRON	_	27	det	_	_
+27	car	car	NOUN	NOUN	_	29	nsubj	_	_
+28	no	not	PART	PART	_	29	advmod	_	_
+29	complete	complete	ADJ	ADJ	_	0	root	_	_
+30	//	//	PUNCT	PUNCT	_	29	punct	_	_
+
+
+# id = IBA_13_M_235
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	so	so	ADV	SCONJ	_	4	advmod	_	_
+3	you	you	PRON	PRON	_	4	nsubj	_	_
+4	get	get	VERB	VERB	_	0	root	_	_
+5	to	to	PART	ADP	_	6	obj	_	_
+6	dey	be	VERB	PART	_	4	xcomp	_	_
+7	{	{	PUNCT	PUNCT	_	6	punct	_	_
+8	main	main	ADJ	NOUN	_	10	conj:dicto	_	_
+9	||	||	PUNCT	PUNCT	_	8	punct	_	_
+10	make	let	VERB	VERB	_	5	obj	_	_
+11	}	}	PUNCT	PUNCT	_	6	punct	_	_
+12	sure	sure	ADJ	ADJ	_	10	xcomp	_	_
+13	sey	that	SCONJ	SCONJ	_	12	ccomp	_	_
+14	[	[	PUNCT	PUNCT	_	17	punct	_	_
+15	your	your	PRON	PRON	_	16	nmod:poss	_	_
+16	tyre	tyre	NOUN	NOUN	_	17	subj	_	_
+17	dey	be	VERB	PART	_	13	obj	_	_
+18	very	very	ADV	ADV	_	19	advmod	_	_
+19	good	good	ADJ	ADJ	_	20	amod	_	_
+20	condition	condition	NOUN	NOUN	_	17	obj	_	_
+21	]	]	PUNCT	NOUN	_	17	punct	_	_
+22	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_236
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	so	so	SCONJ	SCONJ	_	0	root	_	_
+3	I	I	PRON	PRON	_	4	nsubj	_	_
+4	believe	believe	VERB	VERB	_	2	obj	_	_
+5	sey	that	SCONJ	SCONJ	_	4	ccomp	_	_
+6	dese	dese	DET	DET	_	7	det	_	_
+7	thing	thing	NOUN	NOUN	_	24	dislocated	_	_
+8	wey	where	SCONJ	SCONJ	_	7	acl:relcl	_	_
+9	I	I	PRON	PRON	_	10	subj	_	_
+10	don	have	AUX	AUX	_	8	obj	_	_
+11	tell	tell	VERB	VERB	_	10	obj	_	_
+12	you	you	PRON	PRON	_	11	obj	_	_
+13	<	<	PUNCT	PUNCT	_	7	punct	_	_
+14	{	{	PUNCT	PUNCT	_	23	punct	_	_
+15	im	he	PRON	PRON	_	16	subj	_	_
+16	go	will	AUX	AUX	_	24	conj:dicto	_	_
+17	fit	can	AUX	AUX	_	16	obj	_	_
+18	help	helep	VERB	VERB	_	17	obj	_	_
+19	us	we	PRON	PRON	_	18	obj	_	_
+20	||	||	PUNCT	PUNCT	_	16	punct	_	_
+21	#	#	PUNCT	PUNCT	_	16	punct	_	_
+22	it	it	PRON	PRON	_	23	subj	_	_
+23	will	will	AUX	AUX	_	5	obj	_	_
+24	go	go	VERB	VERB	_	23	obj	_	_
+25	a	I	PRON	PRON	_	24	iobj	_	_
+26	long	long	ADJ	ADJ	_	27	amod	_	_
+27	way	way	NOUN	NOUN	_	24	obl:npmod	_	_
+28	}	}	PUNCT	PUNCT	_	23	punct	_	_
+29	make	let	AUX	AUX	_	27	acl:relcl	_	_
+30	im	he	PRON	PRON	_	29	subj	_	_
+31	just	just	ADV	ADV	_	32	advmod	_	_
+32	guide	guide	VERB	VERB	_	29	obj	_	_
+33	us	we	PRON	PRON	_	32	obj	_	_
+34	on	on	ADP	ADP	_	32	obl:comp	_	_
+35	how	how	ADV	ADV	_	37	advmod	_	_
+36	we	we	PRON	PRON	_	37	nsubj	_	_
+37	suppose	suppose	VERB	VERB	_	34	obj	_	_
+38	dey	be	AUX	AUX	_	37	xcomp	_	_
+39	use	use	VERB	VERB	_	38	obj	_	_
+40	di	the	DET	DET	_	41	det	_	_
+41	road	road	NOUN	NOUN	_	39	obj	_	_
+42	so	so	SCONJ	SCONJ	_	39	advcl	_	_
+43	dat	that	SCONJ	SCONJ	_	42	fixed	_	_
+44	accident	accident	NOUN	NOUN	_	46	subj	_	_
+45	no	not	PART	PART	_	46	advmod	_	_
+46	go	will	AUX	AUX	_	42	obj	_	_
+47	dey	be	PART	PART	_	48	advmod	_	_
+48	happen	happen	VERB	VERB	_	46	obj	_	_
+49	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_238
+1	#	#	PUNCT	PUNCT	_	11	punct	_	_
+2	and	and	CCONJ	CCONJ	_	11	nsubj	_	_
+3	wetin	what	PRON	PRON	_	2	obj	_	_
+4	I	I	PRON	PRON	_	5	subj	_	_
+5	go	will	AUX	AUX	_	3	acl:relcl	_	_
+6	talk	talk	VERB	VERB	_	5	obj	_	_
+7	in	in	ADP	ADP	_	6	obl:ad	_	_
+8	ma	my	PRON	PRON	_	10	nmod:poss	_	_
+9	concluding	concluding	ADJ	ADJ	_	10	amod	_	_
+10	statement	statement	NOUN	NOUN	_	7	obj	_	_
+11	be	be	VERB	PART	_	0	root	_	_
+12	sey	that	SCONJ	SCONJ	_	11	ccomp	_	_
+13	#	#	PUNCT	PUNCT	_	12	punct	_	_
+14	[	[	PUNCT	PUNCT	_	17	punct	_	_
+15	life	life	NOUN	NOUN	_	17	nsubj	_	_
+16	no	not	PART	PART	_	17	advmod	_	_
+17	get	get	VERB	VERB	_	12	obj	_	_
+18	duplicate	duplicate	NOUN	NOUN	_	17	obj	_	_
+19	]	]	NOUN	NOUN	_	17	punct	_	_
+20	//	//	PUNCT	PUNCT	_	11	punct	_	_
+
+
+# id = IBA_13_M_239
+1	#	#	PUNCT	PUNCT	_	5	punct	_	_
+2	na	na	PART	PART	_	5	cop	_	_
+3	only	only	ADV	ADV	_	5	advmod	_	_
+4	di	the	DET	DET	_	5	det	_	_
+5	living	living	NOUN	NOUN	_	0	root	_	_
+6	>+	>+	PUNCT	PUNCT	_	8	punct	_	_
+7	naim	naim	ADV	SCONJ	_	9	mark	_	_
+8	dey	be	AUX	AUX	_	5	acl:cleft	_	_
+9	celebrate	celebrate	VERB	VERB	_	8	obj	_	_
+10	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_240
+1	so	so	ADV	SCONJ	_	2	advmod	_	_
+2	try	try	VERB	VERB	_	0	root	_	_
+3	make	let	AUX	AUX	_	2	ccomp	_	_
+4	you	you	PRON	PRON	_	3	subj	_	_
+5	keep	keep	VERB	VERB	_	3	obj	_	_
+6	dat	that	DET	PRON	_	7	det	_	_
+7	life	life	NOUN	NOUN	_	5	obj	_	_
+8	as	as	ADV	ADP	_	9	advmod	_	_
+9	much	much	ADV	ADV	_	5	advmod	_	_
+10	as	as	SCONJ	ADP	_	9	advcl	_	_
+11	possible	possible	ADJ	ADJ	_	10	obj	_	_
+12	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_241
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	I	I	PRON	PRON	_	3	subj	_	_
+3	dey	be	AUX	AUX	_	0	root	_	_
+4	always	always	ADV	ADV	_	5	advmod	_	_
+5	tell	tell	VERB	VERB	_	3	obj	_	_
+6	people	people	NOUN	NOUN	_	5	obj	_	_
+7	sey	that	SCONJ	SCONJ	_	5	parataxis:obj	_	_
+8	[	[	PUNCT	PUNCT	_	33	punct	_	_
+9	if	if	SCONJ	SCONJ	_	34	advcl	_	_
+10	to	to	PART	ADP	_	9	fixed	_	_
+11	say	say	VERB	VERB	_	10	fixed	_	_
+12	im	he	PRON	PRON	_	13	nsubj:expl	_	_
+13	get	get	VERB	VERB	_	9	obj	_	_
+14	one	one	DET	DET	_	15	det	_	_
+15	bank	bank	NOUN	NOUN	_	13	nsubj:quasi	_	_
+16	#	#	PUNCT	PUNCT	_	19	punct	_	_
+17	wey	where	SCONJ	SCONJ	_	15	acl:relcl	_	_
+18	we	we	PRON	PRON	_	19	subj	_	_
+19	fit	can	AUX	AUX	_	17	obj	_	_
+20	buy	buy	VERB	VERB	_	19	obj	_	_
+21	heart	heart	NOUN	NOUN	_	20	obj	_	_
+22	<+	<+	PUNCT	PUNCT	_	26	punct	_	_
+23	shey	shey	ADV	ADV	_	26	advmod	_	_
+24	if	if	SCONJ	SCONJ	_	13	conj:coord	_	_
+25	one	one	NOUN	NOUN	_	26	nsubj	_	_
+26	stops	stops	VERB	VERB	_	24	obj	_	_
+27	to	to	PART	ADP	_	28	obj	_	_
+28	dey	be	AUX	AUX	_	26	xcomp	_	_
+29	work	work	VERB	VERB	_	27	obj	_	_
+30	<+	<+	PUNCT	PUNCT	_	33	punct	_	_
+31	{	{	PUNCT	PUNCT	_	34	punct	_	_
+32	we	we	PRON	PRON	_	33	subj	_	_
+33	go	will	AUX	AUX	_	7	obj	_	_
+34	go	go	VERB	VERB	_	33	obj	_	_
+35	di	the	DET	DET	_	36	det	_	_
+36	bank	bank	NOUN	NOUN	_	34	obj	_	_
+37	|c	|c	PUNCT	PUNCT	_	41	conj:coord	_	_
+38	#	#	PUNCT	PUNCT	_	-1	_	_	_
+39	we	we	PRON	PRON	_	40	subj	_	_
+40	go	will	AUX	AUX	_	34	conj:coord	_	_
+41	go	go	VERB	VERB	_	40	obj	_	_
+42	buy	buy	VERB	VERB	_	41	compound:svc	_	_
+43	anoder	another	DET	DET	_	44	det	_	_
+44	one	one	PRON	NUM	_	42	obj	_	_
+45	|c	|c	PUNCT	PUNCT	_	48	conj:coord	_	_
+46	we	we	PRON	PRON	_	47	subj	_	_
+47	go	will	AUX	AUX	_	34	conj:coord	_	_
+48	replace	replace	VERB	VERB	_	47	obj	_	_
+49	am	he	PRON	PRON	_	48	obj	_	_
+50	}	}	PUNCT	PUNCT	_	34	punct	_	_
+51	]	]	PUNCT	PUNCT	_	34	punct	_	_
+52	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_242
+1	but	but	CCONJ	CCONJ	_	0	root	_	_
+2	im	he	PRON	PRON	_	4	subj	_	_
+3	no	not	PART	PART	_	4	advmod	_	_
+4	dey	be	VERB	PART	_	1	obj	_	_
+5	possible	possible	ADJ	ADJ	_	4	obj	_	_
+6	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_243
+1	#	#	PUNCT	PUNCT	_	5	punct	_	_
+2	so	so	ADV	SCONJ	_	5	advmod	_	_
+3	life	life	NOUN	NOUN	_	5	nsubj	_	_
+4	no	not	PART	PART	_	5	advmod	_	_
+5	get	get	VERB	VERB	_	0	root	_	_
+6	duplicate	duplicate	NOUN	NOUN	_	5	obj	_	_
+7	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_244
+1	#	#	PUNCT	PUNCT	_	11	punct	_	_
+2	so	so	ADV	SCONJ	_	13	advmod	_	_
+3	as	as	SCONJ	ADP	_	13	advcl:periph	_	_
+4	di	the	DET	DET	_	5	det	_	_
+5	life	life	NOUN	NOUN	_	7	nsubj	_	_
+6	still	still	ADV	ADV	_	7	advmod	_	_
+7	dey	be	VERB	PART	_	3	obj	_	_
+8	our	our	PRON	PRON	_	9	nmod:poss	_	_
+9	body	body	NOUN	NOUN	_	7	obj	_	_
+10	<	<	PUNCT	PUNCT	_	7	punct	_	_
+11	make	let	AUX	AUX	_	0	root	_	_
+12	we	we	PRON	PRON	_	11	subj	_	_
+13	try	try	VERB	VERB	_	11	obj	_	_
+14	ensure	ensure	VERB	VERB	_	13	xcomp	_	_
+15	sey	that	SCONJ	SCONJ	_	14	ccomp	_	_
+16	[	[	PUNCT	PUNCT	_	19	punct	_	_
+17	im	he	PRON	PRON	_	19	nsubj	_	_
+18	no	not	PART	PART	_	19	advmod	_	_
+19	drop	drop	VERB	NOUN	_	15	obj	_	_
+20	]	]	NOUN	NOUN	_	19	punct	_	_
+21	//	//	PUNCT	PUNCT	_	11	punct	_	_
+
+
+# id = IBA_13_M_245
+1	because	because	SCONJ	SCONJ	_	0	root	_	_
+2	if	if	SCONJ	SCONJ	_	10	advcl	_	_
+3	im	he	PRON	PRON	_	4	subj	_	_
+4	don	PERF	AUX	AUX	_	2	obj	_	_
+5	drop	drop	VERB	NOUN	_	4	obj	_	_
+6	<+	<+	PUNCT	PUNCT	_	-1	_	_	_
+7	di	the	DET	DET	_	8	det	_	_
+8	person	person	NOUN	NOUN	_	9	subj	_	_
+9	don	have	AUX	AUX	_	1	obj	_	_
+10	go	will	VERB	AUX	_	9	obj	_	_
+11	be	be	VERB	PART	_	10	ccomp:cleft	_	_
+12	dat	that	PRON	PRON	_	11	obj	_	_
+13	//	//	PUNCT	PUNCT	_	9	punct	_	_
+
+
+# id = IBA_13_M_246
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	so	so	ADV	SCONJ	_	6	advmod	_	_
+3	make	let	AUX	AUX	_	0	root	_	_
+4	we	we	PRON	PRON	_	3	subj	_	_
+5	just	just	ADV	ADV	_	6	advmod	_	_
+6	try	try	VERB	VERB	_	3	obj	_	_
+7	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_247
+1	#	#	PUNCT	PUNCT	_	7	punct	_	_
+2	den	then	ADV	ADV	_	9	advmod	_	_
+3	in	in	ADP	ADP	_	9	obl:periph	_	_
+4	conclusion	conclusion	NOUN	NOUN	_	3	obj	_	_
+5	<	<	PUNCT	PUNCT	_	4	punct	_	_
+6	#	#	PUNCT	PUNCT	_	4	punct	_	_
+7	make	let	AUX	AUX	_	0	root	_	_
+8	una	you	PRON	PRON	_	7	subj	_	_
+9	try	try	VERB	VERB	_	7	obj	_	_
+10	#	#	PUNCT	PUNCT	_	11	punct	_	_
+11	abide	abide	VERB	VERB	_	9	xcomp	_	_
+12	by	by	ADP	ADP	_	11	obl:comp	_	_
+13	all	all	DET	ADV	_	15	det	_	_
+14	traffic	traffic	ADJ	ADJ	_	15	amod	_	_
+15	rules	rules	NOUN	NOUN	_	12	obj	_	_
+16	and	and	CCONJ	CCONJ	_	15	conj:coord	_	_
+17	regulation	regulation	NOUN	NOUN	_	16	obj	_	_
+18	//	//	PUNCT	PUNCT	_	7	punct	_	_
+
+
+# id = IBA_13_M_248
+1	make	JUS	AUX	AUX	_	0	root	_	_
+2	you	you	PRON	PRON	_	1	subj	_	_
+3	dey	be	AUX	AUX	_	1	obj	_	_
+4	#	#	PUNCT	PUNCT	_	1	punct	_	_
+5	think	think	VERB	VERB	_	3	obj	_	_
+6	of	of	ADP	ADP	_	5	obl:comp	_	_
+7	oder	other	ADJ	ADJ	_	8	amod	_	_
+8	people	people	NOUN	NOUN	_	6	obj	_	_
+9	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_249
+1	#	#	PUNCT	PUNCT	_	9	punct	_	_
+2	as	as	SCONJ	ADP	_	9	advcl	_	_
+3	you	you	PRON	PRON	_	4	nsubj	_	_
+4	comot	leave	VERB	VERB	_	2	obj	_	_
+5	for	for	ADP	ADP	_	4	obl:comp	_	_
+6	house	house	NOUN	NOUN	_	5	obj	_	_
+7	<+	<+	PUNCT	PUNCT	_	4	punct	_	_
+8	you	you	PRON	PRON	_	9	nsubj	_	_
+9	leave	leave	VERB	VERB	_	0	root	_	_
+10	your	your	PRON	PRON	_	11	nmod:poss	_	_
+11	wife	wife	NOUN	NOUN	_	9	obj	_	_
+12	|c	|c	PUNCT	PUNCT	_	13	punct	_	_
+13	leave	leave	VERB	VERB	_	9	conj:coord	_	_
+14	{	{	PUNCT	PUNCT	_	17	punct	_	_
+15	pi~	pi~	X	X	_	17	conj:dicto	_	_
+16	||	||	PUNCT	PUNCT	_	15	punct	_	_
+17	pikin	child	NOUN	NOUN	_	13	obj	_	_
+18	}	}	PUNCT	PUNCT	_	17	punct	_	_
+19	for	for	ADP	ADP	_	13	obl:comp	_	_
+20	house	house	NOUN	NOUN	_	19	obj	_	_
+
+
+# id = IBA_13_M_250
+1	dat	that	DET	PRON	_	3	det	_	_
+2	oder	other	ADJ	ADJ	_	3	amod	_	_
+3	person	person	NOUN	NOUN	_	16	dislocated	_	_
+4	#	#	PUNCT	PUNCT	_	7	punct	_	_
+5	wey	where	SCONJ	SCONJ	_	3	acl:relcl	_	_
+6	you	you	PRON	PRON	_	7	nsubj	_	_
+7	see	see	VERB	VERB	_	5	obj	_	_
+8	for	for	ADP	ADP	_	7	obl:ad	_	_
+9	road	road	NOUN	NOUN	_	8	obj	_	_
+10	<	<	PUNCT	PUNCT	_	3	punct	_	_
+11	im	he	PRON	PRON	_	16	dislocated	_	_
+12	sef	self	PART	PART	_	11	advmod:emph	_	_
+13	<	<	PUNCT	PUNCT	_	11	punct	_	_
+14	im	he	PRON	PRON	_	16	nsubj	_	_
+15	{	{	PUNCT	PUNCT	_	16	punct	_	_
+16	leave	leave	VERB	VERB	_	0	root	_	_
+17	#	#	PUNCT	PUNCT	_	18	punct	_	_
+18	pikin	child	NOUN	NOUN	_	16	obj	_	_
+19	|c	|c	PUNCT	PUNCT	_	20	punct	_	_
+20	leave	leave	VERB	VERB	_	16	conj:dicto	_	_
+21	wife	wife	NOUN	NOUN	_	20	obj	_	_
+22	for	for	ADP	ADP	_	20	obl:comp	_	_
+23	house	house	NOUN	NOUN	_	22	obj	_	_
+24	}	}	PUNCT	PUNCT	_	16	punct	_	_
+25	//	//	PUNCT	PUNCT	_	16	punct	_	_
+
+
+# id = IBA_13_M_251
+1	#	#	PUNCT	PUNCT	_	10	punct	_	_
+2	so	so	SCONJ	SCONJ	_	0	root	_	_
+3	if	if	SCONJ	SCONJ	_	11	advcl	_	_
+4	you	you	PRON	PRON	_	5	nsubj	_	_
+5	kill	kill	VERB	VERB	_	3	obj	_	_
+6	am	he	PRON	PRON	_	5	obj	_	_
+7	<+	<+	PUNCT	PUNCT	_	5	punct	_	_
+8	#	#	PUNCT	PUNCT	_	5	punct	_	_
+9	you	you	PRON	PRON	_	10	subj	_	_
+10	don	have	AUX	AUX	_	2	obj	_	_
+11	put	put	VERB	VERB	_	10	obj	_	_
+12	im	he	PRON	PRON	_	13	nmod:poss	_	_
+13	family	family	NOUN	NOUN	_	11	obj	_	_
+14	for	for	ADP	ADP	_	11	obl:comp	_	_
+15	wahala	trouble	NOUN	NOUN	_	14	obj	_	_
+16	//	//	PUNCT	PUNCT	_	10	punct	_	_
+
+
+# id = IBA_13_M_252
+1	#	#	PUNCT	PUNCT	_	6	punct	_	_
+2	you	you	PRON	PRON	_	7	dislocated	_	_
+3	yourself	yourself	PRON	PRON	_	2	advmod:emph	_	_
+4	<	<	PUNCT	PUNCT	_	2	punct	_	_
+5	you	you	PRON	PRON	_	6	subj	_	_
+6	don	have	AUX	AUX	_	0	root	_	_
+7	enter	enter	VERB	VERB	_	6	obj	_	_
+8	wahala	trouble	NOUN	NOUN	_	7	obj	_	_
+9	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_253
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	so	so	ADV	SCONJ	_	4	advmod	_	_
+3	you	you	PRON	PRON	_	4	nsubj	_	_
+4	get	get	VERB	VERB	_	0	root	_	_
+5	family	family	NOUN	NOUN	_	6	compound	_	_
+6	member	member	NOUN	NOUN	_	4	obj	_	_
+7	wey	where	SCONJ	SCONJ	_	6	acl:relcl	_	_
+8	dey	be	AUX	AUX	_	7	obj	_	_
+9	wait	wait	VERB	VERB	_	8	obj	_	_
+10	for	for	ADP	ADP	_	9	obl:comp	_	_
+11	you	you	PRON	PRON	_	10	obj	_	_
+12	for	for	ADP	ADP	_	9	obl:ad	_	_
+13	house	house	NOUN	NOUN	_	12	obj	_	_
+14	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_254
+1	so	so	ADV	SCONJ	_	4	advmod	_	_
+2	make	let	AUX	AUX	_	0	root	_	_
+3	im	he	PRON	PRON	_	2	subj	_	_
+4	dey	be	VERB	AUX	_	2	obj	_	_
+5	back	back	NOUN	NOUN	_	4	obj	_	_
+6	of	of	ADP	ADP	_	5	nmod	_	_
+7	your	your	PRON	PRON	_	8	nmod:poss	_	_
+8	mind	mind	NOUN	NOUN	_	6	obj	_	_
+9	sey	that	SCONJ	SCONJ	_	4	csubj:quasi	_	_
+10	[	[	PUNCT	PUNCT	_	18	punct	_	_
+11	as	as	SCONJ	ADP	_	18	advcl:periph	_	_
+12	I	I	PRON	PRON	_	13	subj	_	_
+13	dey	be	AUX	AUX	_	11	obj	_	_
+14	go	go	VERB	VERB	_	13	obj	_	_
+15	<	<	PUNCT	PUNCT	_	13	punct	_	_
+16	#	#	PUNCT	PUNCT	_	13	punct	_	_
+17	I	I	PRON	PRON	_	18	nsubj	_	_
+18	want	want	VERB	VERB	_	9	obj	_	_
+19	come	come	VERB	VERB	_	18	xcomp	_	_
+20	back	back	ADV	ADV	_	19	advmod	_	_
+21	house	house	NOUN	NOUN	_	19	obj	_	_
+22	come	come	VERB	VERB	_	19	conj:coord	_	_
+23	meet	meet	VERB	VERB	_	22	compound:svc	_	_
+24	ma	my	PRON	PRON	_	25	nmod:poss	_	_
+25	family	family	NOUN	NOUN	_	23	obj	_	_
+26	in	in	ADP	ADP	_	25	xcomp	_	_
+27	peace	peace	NOUN	NOUN	_	26	obj	_	_
+28	]	]	PUNCT	NOUN	_	18	punct	_	_
+29	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_255
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	so	so	ADV	SCONJ	_	6	advmod	_	_
+3	make	let	AUX	AUX	_	0	root	_	_
+4	you	you	PRON	PRON	_	3	subj	_	_
+5	dey	be	AUX	AUX	_	3	obj	_	_
+6	respect	respect	VERB	VERB	_	5	obj	_	_
+7	oder	other	ADJ	ADJ	_	9	amod	_	_
+8	road	road	NOUN	NOUN	_	9	compound	_	_
+9	user	user	NOUN	NOUN	_	6	obj	_	_
+10	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_256
+1	no	no	PART	PART	_	2	advmod	_	_
+2	dey	be	AUX	AUX	_	0	parataxis:dislocated	_	_
+3	look	look	VERB	VERB	_	2	obj	_	_
+4	sey	that	SCONJ	SCONJ	_	3	ccomp	_	_
+5	[	[	PUNCT	PUNCT	_	8	punct	_	_
+6	dis	this	DET	DET	_	7	det	_	_
+7	one	one	NOUN	NUM	_	8	subj	_	_
+8	na	na	VERB	PART	_	4	obj	_	_
+9	okada	okada	NOUN	NOUN	_	8	obj	_	_
+10	//=	//=	PUNCT	PUNCT	_	12	punct	_	_
+11	I	I	PRON	PRON	_	12	subj	_	_
+12	go	will	AUX	AUX	_	9	parataxis:conj	_	_
+13	jam	jam	VERB	VERB	_	12	obj	_	_
+14	am	he	PRON	PRON	_	13	obj	_	_
+15	]	]	NOUN	NOUN	_	8	punct	_	_
+16	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_258
+1	dem	they	PRON	PRON	_	2	subj	_	_
+2	go	will	AUX	AUX	_	0	root	_	_
+3	just	just	ADV	ADV	_	4	advmod	_	_
+4	say	say	VERB	VERB	_	2	obj	_	_
+5	[	[	PUNCT	PUNCT	_	7	punct	_	_
+6	na	na	PART	PART	_	7	cop	_	_
+7	okada	okada	NOUN	NOUN	_	4	parataxis:obj	_	_
+8	|c	|c	PUNCT	PUNCT	_	10	punct	_	_
+9	na	na	PART	PART	_	10	cop	_	_
+10	so	so	ADV	ADV	_	7	conj:coord	_	_
+11	dem	they	PRON	PRON	_	12	subj	_	_
+12	dey	be	AUX	AUX	_	10	ccomp:cleft	_	_
+13	do	do	VERB	VERB	_	12	obj	_	_
+14	//	//	PUNCT	PUNCT	_	15	punct	_	_
+15	]	]	PUNCT	PUNCT	_	7	punct	_	_
+16	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_259
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	truly	truly	ADV	ADV	_	4	advmod	_	_
+3	we	we	PRON	PRON	_	4	nsubj	_	_
+4	know	know	VERB	VERB	_	0	root	_	_
+5	sey	that	SCONJ	SCONJ	_	4	ccomp	_	_
+6	oka~	oka~	X	X	_	7	orphan	_	_
+7	&	&	PUNCT	PUNCT	_	5	obj	_	_
+8	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_260
+1	as	as	ADP	ADP	_	3	obj	_	_
+2	we	we	PRON	PRON	_	3	subj	_	_
+3	dey	be	AUX	AUX	_	12	advcl	_	_
+4	follow	follow	VERB	VERB	_	1	obj	_	_
+5	you	you	PRON	PRON	_	4	obj	_	_
+6	talk	talk	VERB	VERB	_	4	compound:svc	_	_
+7	now	now	ADV	ADV	_	6	advmod	_	_
+8	<+	<+	PUNCT	PUNCT	_	3	punct	_	_
+9	#	#	PUNCT	PUNCT	_	3	punct	_	_
+10	we	we	PRON	PRON	_	11	subj	_	_
+11	dey	be	AUX	AUX	_	0	root	_	_
+12	follow	follow	VERB	VERB	_	11	obj	_	_
+13	okada	okada	NOUN	NOUN	_	14	compound	_	_
+14	people	people	NOUN	NOUN	_	12	obj	_	_
+15	too	too	ADV	ADV	_	12	advmod	_	_
+16	talk	talk	VERB	VERB	_	12	compound:svc	_	_
+17	//	//	PUNCT	PUNCT	_	11	punct	_	_
+
+
+# id = IBA_13_M_261
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	dey	be	AUX	AUX	_	0	root	_	_
+4	stay	stay	VERB	VERB	_	3	obj	_	_
+5	for	for	ADP	ADP	_	4	obl:comp	_	_
+6	middle	middle	NOUN	NOUN	_	5	obj	_	_
+7	of	of	ADP	ADP	_	6	obl:npmod	_	_
+8	road	road	NOUN	NOUN	_	7	obj	_	_
+9	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_262
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	dey	be	AUX	AUX	_	0	root	_	_
+3	ride	ride	VERB	VERB	_	2	obj	_	_
+4	your	your	PRON	PRON	_	5	nmod:poss	_	_
+5	okada	okada	NOUN	NOUN	_	3	obj	_	_
+6	for	for	ADP	ADP	_	3	obl:ad	_	_
+7	side	side	NOUN	NOUN	_	6	obj	_	_
+8	of	of	ADP	ADP	_	7	nmod	_	_
+9	di	the	DET	DET	_	10	det	_	_
+10	road	road	NOUN	NOUN	_	8	obj	_	_
+11	so	so	SCONJ	SCONJ	_	3	advcl	_	_
+12	dat	that	SCONJ	PRON	_	11	fixed	_	_
+13	person	person	NOUN	NOUN	_	15	subj	_	_
+14	no	not	PART	PART	_	15	advmod	_	_
+15	go	will	AUX	AUX	_	11	obj	_	_
+16	come	come	AUX	VERB	_	15	obj	_	_
+17	jam	jam	VERB	VERB	_	16	obj	_	_
+18	you	you	PRON	PRON	_	17	obj	_	_
+19	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_263
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	so	so	ADV	SCONJ	_	6	advmod	_	_
+3	make	let	AUX	AUX	_	0	root	_	_
+4	you	you	PRON	PRON	_	3	subj	_	_
+5	dey	be	AUX	AUX	_	3	obj	_	_
+6	reason	reason	VERB	VERB	_	5	obj	_	_
+7	oder	other	ADJ	ADJ	_	8	amod	_	_
+8	people	people	NOUN	NOUN	_	6	obj	_	_
+9	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_264
+1	#	#	PUNCT	PUNCT	_	5	punct	_	_
+2	den	then	ADV	ADV	_	5	advmod	_	_
+3	make	let	AUX	AUX	_	6	aux	_	_
+4	you	you	PRON	PRON	_	5	subj	_	_
+5	dey	be	VERB	PART	_	0	root	_	_
+6	defensive	defensive	ADJ	ADJ	_	5	obj	_	_
+7	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_265
+1	im	he	PRON	PRON	_	2	subj	_	_
+2	dey	be	VERB	PART	_	0	root	_	_
+3	important	important	ADJ	ADJ	_	2	obj	_	_
+4	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_266
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	dem	they	PRON	PRON	_	3	subj	_	_
+3	dey	be	AUX	AUX	_	0	root	_	_
+4	always	always	ADV	ADV	_	5	advmod	_	_
+5	talk	talk	VERB	VERB	_	3	obj	_	_
+6	sey	that	SCONJ	SCONJ	_	5	ccomp	_	_
+7	[	[	PUNCT	PUNCT	_	14	punct	_	_
+8	if	if	SCONJ	SCONJ	_	16	advcl	_	_
+9	you	you	PRON	PRON	_	10	subj	_	_
+10	dey	be	AUX	AUX	_	8	obj	_	_
+11	drive	drive	VERB	VERB	_	10	obj	_	_
+12	<+	<+	PUNCT	PUNCT	_	10	punct	_	_
+13	#	#	PUNCT	PUNCT	_	10	punct	_	_
+14	make	let	AUX	AUX	_	6	obj	_	_
+15	you	you	PRON	PRON	_	14	subj	_	_
+16	see	see	VERB	VERB	_	14	obj	_	_
+17	yourself	yourself	PRON	PRON	_	16	obj	_	_
+18	sey	that	SCONJ	SCONJ	_	16	advcl	_	_
+19	[	[	PUNCT	PUNCT	_	22	punct	_	_
+20	na	na	PART	PART	_	22	cop	_	_
+21	only	only	ADJ	ADJ	_	22	amod	_	_
+22	you	you	PRON	PRON	_	18	obj	_	_
+23	>+	>+	ADV	PUNCT	_	25	punct	_	_
+24	naim	naim	ADV	SCONJ	_	25	mark	_	_
+25	get	get	VERB	VERB	_	22	acl:cleft	_	_
+26	sense	sense	NOUN	NOUN	_	25	obj	_	_
+27	for	for	ADP	ADP	_	25	obl:ad	_	_
+28	road	road	NOUN	NOUN	_	27	obj	_	_
+29	dat	that	DET	PRON	_	30	det	_	_
+30	time	time	NOUN	NOUN	_	25	obl:ad	_	_
+31	]	]	PUNCT	NOUN	_	22	punct	_	_
+32	]	]	PUNCT	NOUN	_	14	punct	_	_
+33	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_267
+1	#	#	PUNCT	PUNCT	_	6	punct	_	_
+2	oder	other	ADJ	ADJ	_	3	amod	_	_
+3	people	people	NOUN	NOUN	_	7	dislocated	_	_
+4	<	<	PUNCT	PUNCT	_	3	punct	_	_
+5	#	#	PUNCT	PUNCT	_	3	punct	_	_
+6	dey	be	VERB	PART	_	0	root	_	_
+7	mad	mad	ADJ	ADJ	_	6	obj	_	_
+8	//	//	PUNCT	PUNCT	_	6	punct	_	_
+
+
+# id = IBA_13_M_268
+1	or	or	CCONJ	CCONJ	_	0	root	_	_
+2	oder	other	ADJ	ADJ	_	3	amod	_	_
+3	people	people	NOUN	NOUN	_	5	nsubj	_	_
+4	no	not	PART	PART	_	5	advmod	_	_
+5	get	get	VERB	VERB	_	1	obj	_	_
+6	sense	sense	NOUN	NOUN	_	5	obj	_	_
+7	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_269
+1	{	{	PUNCT	PUNCT	_	5	punct	_	_
+2	so	so	ADV	SCONJ	_	65	discourse	_	_
+3	if	if	SCONJ	SCONJ	_	65	advcl	_	_
+4	everybody	everybody	NOUN	NOUN	_	5	subj	_	_
+5	dey	be	AUX	AUX	_	3	obj	_	_
+6	get	get	VERB	VERB	_	5	obj	_	_
+7	dat	that	DET	PRON	_	8	det	_	_
+8	kind	kind	NOUN	NOUN	_	6	obj	_	_
+9	consciousness	consciousness	NOUN	NOUN	_	8	nmod	_	_
+10	|c	|c	PUNCT	PUNCT	_	15	punct	_	_
+11	if	if	SCONJ	SCONJ	_	6	conj:dicto	_	_
+12	me	I	PRON	PRON	_	15	dislocated	_	_
+13	<	<	PUNCT	PUNCT	_	12	punct	_	_
+14	I	I	PRON	PRON	_	15	nsubj	_	_
+15	see	see	VERB	VERB	_	11	obj	_	_
+16	you	you	PRON	PRON	_	15	obj	_	_
+17	sey	that	SCONJ	SCONJ	_	15	advcl	_	_
+18	[	[	PUNCT	PUNCT	_	21	punct	_	_
+19	na	na	PART	PART	_	21	cop	_	_
+20	only	only	ADV	ADJ	_	21	advmod	_	_
+21	me	I	PRON	PRON	_	17	obj	_	_
+22	>+	>+	PUNCT	VERB	_	-1	_	_	_
+23	dey	be	VERB	PART	_	21	acl:cleft	_	_
+24	okay	okay	ADJ	INTJ	_	23	obj	_	_
+25	]	]	PUNCT	NOUN	_	21	punct	_	_
+26	|c	|c	PUNCT	NOUN	_	36	punct	_	_
+27	#	#	PUNCT	PUNCT	_	36	punct	_	_
+28	{	{	PUNCT	PUNCT	_	36	punct	_	_
+29	you	you	PRON	PRON	_	32	dislocated	_	_
+30	<	<	PUNCT	PUNCT	_	-1	_	_	_
+31	you	you	PRON	PRON	_	32	nsubj	_	_
+32	see	see	VERB	VERB	_	36	conj:dicto	_	_
+33	me	I	PRON	PRON	_	32	obj	_	_
+34	||	||	PUNCT	PUNCT	_	32	punct	_	_
+35	I	I	PRON	PRON	_	36	nsubj	_	_
+36	see	see	VERB	VERB	_	15	conj:coord	_	_
+37	you	you	PRON	PRON	_	36	obj	_	_
+38	}	}	PUNCT	PUNCT	_	36	punct	_	_
+39	like	like	ADP	ADP	_	44	obj	_	_
+40	sey	that	SCONJ	SCONJ	_	39	fixed	_	_
+41	[	[	PUNCT	PUNCT	_	44	punct	_	_
+42	you	you	PRON	PRON	_	44	subj	_	_
+43	no	not	PART	PART	_	44	advmod	_	_
+44	dey	be	VERB	PART	_	36	advmod	_	_
+45	okay	okay	ADJ	INTJ	_	39	obj	_	_
+46	]	]	PUNCT	NOUN	_	44	punct	_	_
+47	|c	|c	PUNCT	PUNCT	_	51	punct	_	_
+48	you	you	PRON	PRON	_	51	dislocated	_	_
+49	<	<	PUNCT	PUNCT	_	-1	_	_	_
+50	you	you	PRON	PRON	_	51	nsubj	_	_
+51	see	see	VERB	VERB	_	15	conj:coord	_	_
+52	me	I	PRON	PRON	_	51	obj	_	_
+53	like	like	ADP	ADP	_	58	obj	_	_
+54	sey	that	SCONJ	SCONJ	_	53	fixed	_	_
+55	[	[	PUNCT	PUNCT	_	58	punct	_	_
+56	I	I	PRON	PRON	_	58	subj	_	_
+57	no	not	PART	PART	_	58	advmod	_	_
+58	dey	be	VERB	PART	_	51	advcl	_	_
+59	okay	okay	ADJ	INTJ	_	53	obj	_	_
+60	]	]	PUNCT	NOUN	_	58	punct	_	_
+61	}	}	PUNCT	PUNCT	_	5	punct	_	_
+62	<+	<+	PUNCT	PUNCT	_	6	punct	_	_
+63	I	I	PRON	PRON	_	64	subj	_	_
+64	dey	be	AUX	AUX	_	0	root	_	_
+65	dey	be	VERB	PART	_	64	obj	_	_
+66	careful	careful	ADJ	ADJ	_	65	obl:comp	_	_
+67	//=	//=	PUNCT	PUNCT	_	71	punct	_	_
+68	you	you	PRON	PRON	_	71	subj	_	_
+69	sef	self	PART	PART	_	68	advmod:emph	_	_
+70	<	<	PUNCT	PUNCT	_	68	punct	_	_
+71	dey	be	AUX	AUX	_	65	parataxis:conj	_	_
+72	dey	be	VERB	PART	_	71	obj	_	_
+73	careful	careful	ADJ	ADJ	_	72	obl:comp	_	_
+74	//=	//=	PUNCT	PUNCT	_	76	punct	_	_
+75	everybody	everybody	NOUN	NOUN	_	76	subj	_	_
+76	dey	be	AUX	AUX	_	65	parataxis:conj	_	_
+77	dey	be	VERB	PART	_	76	obj	_	_
+78	careful	careful	ADJ	ADJ	_	77	obl:comp	_	_
+79	//	//	PUNCT	PUNCT	_	64	punct	_	_
+
+
+# id = IBA_13_M_270
+1	accident	accident	NOUN	NOUN	_	3	subj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	go	will	AUX	AUX	_	0	root	_	_
+4	dey	be	AUX	AUX	_	3	obj	_	_
+5	happen	happen	VERB	VERB	_	4	obj	_	_
+6	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_271
+1	#	#	PUNCT	PUNCT	_	41	punct	_	_
+2	but	but	CCONJ	CCONJ	_	41	advcl	_	_
+3	if	if	SCONJ	SCONJ	_	2	obj	_	_
+4	{	{	PUNCT	PUNCT	_	6	punct	_	_
+5	you	you	PRON	PRON	_	6	subj	_	_
+6	come	come	AUX	VERB	_	3	obj	_	_
+7	talk	talk	VERB	VERB	_	6	obj	_	_
+8	sey	that	SCONJ	SCONJ	_	7	parataxis:obj	_	_
+9	[	[	PUNCT	PUNCT	_	13	punct	_	_
+10	no	no	INTJ	INTJ	_	13	parataxis:discourse	_	_
+11	o	yo	PART	PART	_	10	advmod:emph	_	_
+12	na	na	PART	PART	_	13	cop	_	_
+13	me	I	PRON	PRON	_	8	obj	_	_
+14	>+	>+	VERB	VERB	_	13	punct	_	_
+15	get	get	VERB	VERB	_	13	acl:cleft	_	_
+16	right	right	ADJ	ADJ	_	15	obj	_	_
+17	of	of	ADP	ADP	_	16	nmod:npmod	_	_
+18	way	way	NOUN	NOUN	_	17	obj	_	_
+19	]	]	NOUN	NOUN	_	13	punct	_	_
+20	|c	|c	PUNCT	PUNCT	_	23	punct	_	_
+21	#	#	PUNCT	PUNCT	_	23	punct	_	_
+22	you	you	PRON	PRON	_	23	subj	_	_
+23	dey	be	AUX	AUX	_	7	conj:coord	_	_
+24	drive	drive	VERB	VERB	_	23	obj	_	_
+25	anyhow	anyhow	ADV	ADV	_	24	advmod	_	_
+26	|c	|c	PUNCT	PUNCT	_	29	punct	_	_
+27	you	you	PRON	PRON	_	29	subj	_	_
+28	{	{	PUNCT	PUNCT	_	29	punct	_	_
+29	dey	be	AUX	AUX	_	7	conj:coord	_	_
+30	press	press	VERB	VERB	_	29	obj	_	_
+31	am	he	PRON	PRON	_	30	obj	_	_
+32	|c	|c	PUNCT	PUNCT	_	30	punct	_	_
+33	dey	be	AUX	AUX	_	34	aux	_	_
+34	match	match	NOUN	NOUN	_	30	conj:coord	_	_
+35	am	he	PRON	PRON	_	34	obj	_	_
+36	}	}	PUNCT	PUNCT	_	30	punct	_	_
+37	}	}	PUNCT	PUNCT	_	6	punct	_	_
+38	<+	<+	PUNCT	PUNCT	_	7	punct	_	_
+39	#	#	PUNCT	PUNCT	_	7	punct	_	_
+40	na	na	PART	PART	_	41	cop	_	_
+41	accident	accident	NOUN	NOUN	_	0	root	_	_
+42	>+	>+	VERB	VERB	_	45	punct	_	_
+43	im	he	PRON	PRON	_	45	nsubj:expl	_	_
+44	dey	be	AUX	AUX	_	45	amod	_	_
+45	result	result	NOUN	NOUN	_	41	acl:cleft	_	_
+46	in	in	ADP	ADP	_	45	obl:comp	_	_
+47	//	//	PUNCT	PUNCT	_	41	punct	_	_
+
+
+# id = IBA_13_M_272
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	den	then	ADV	ADV	_	5	advmod	_	_
+3	make	let	AUX	AUX	_	0	root	_	_
+4	we	we	PRON	PRON	_	3	subj	_	_
+5	try	try	VERB	VERB	_	3	obj	_	_
+6	ensure	ensure	VERB	VERB	_	5	xcomp	_	_
+7	sey	that	SCONJ	SCONJ	_	6	ccomp	_	_
+8	[	[	PUNCT	PUNCT	_	19	punct	_	_
+9	{	{	PUNCT	PUNCT	_	12	punct	_	_
+10	our	our	PRON	PRON	_	12	nmod:poss	_	_
+11	vehicle	vehicle	NOUN	NOUN	_	12	compound	_	_
+12	licence	licence	NOUN	NOUN	_	19	nsubj	_	_
+13	|c	|c	PUNCT	PUNCT	_	15	punct	_	_
+14	driver	driver	NOUN	NOUN	_	15	compound	_	_
+15	licence	licence	NOUN	NOUN	_	12	conj:coord	_	_
+16	|c	|c	PUNCT	PUNCT	_	17	punct	_	_
+17	everything	everything	PRON	NOUN	_	12	conj:coord	_	_
+18	}	}	PUNCT	PUNCT	_	12	punct	_	_
+19	dey	be	VERB	PART	_	7	obj	_	_
+20	okay	okay	ADJ	INTJ	_	19	obj	_	_
+21	]	]	PUNCT	NOUN	_	19	punct	_	_
+22	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_273
+1	im	he	PRON	PRON	_	2	subj	_	_
+2	dey	be	VERB	PART	_	0	root	_	_
+3	very	very	ADV	ADV	_	2	advmod	_	_
+4	very	very	ADV	ADV	_	3	compound:redup	_	_
+5	important	important	ADJ	ADJ	_	2	obj	_	_
+6	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_274
+1	#	#	PUNCT	PUNCT	_	4	punct	_	_
+2	na	na	PART	PART	_	4	cop	_	_
+3	our	our	PRON	PRON	_	4	nmod:poss	_	_
+4	right	right	NOUN	NOUN	_	0	root	_	_
+5	>+	>+	PUNCT	VERB	_	6	punct	_	_
+6	be	be	VERB	PART	_	4	acl:cleft	_	_
+7	dat	that	PRON	PRON	_	6	obj	_	_
+8	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_275
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	we	we	PRON	PRON	_	3	nsubj	_	_
+3	owe	owe	VERB	VERB	_	0	root	_	_
+4	government	government	NOUN	NOUN	_	3	iobj	_	_
+5	#	#	PUNCT	PUNCT	_	7	punct	_	_
+6	dese	dese	DET	DET	_	7	det	_	_
+7	thing	thing	NOUN	NOUN	_	3	obj	_	_
+8	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_276
+1	so	so	ADV	SCONJ	_	4	advmod	_	_
+2	make	let	AUX	AUX	_	0	root	_	_
+3	we	we	PRON	PRON	_	2	subj	_	_
+4	try	try	VERB	VERB	_	2	obj	_	_
+5	ensure	ensure	VERB	VERB	_	4	xcomp	_	_
+6	sey	that	SCONJ	SCONJ	_	5	ccomp	_	_
+7	[	[	PUNCT	PUNCT	_	18	punct	_	_
+8	everything	everything	NOUN	NOUN	_	18	dislocated	_	_
+9	wey	where	SCONJ	SCONJ	_	8	acl:relcl	_	_
+10	we	we	PRON	PRON	_	11	nsubj	_	_
+11	suppose	suppose	VERB	VERB	_	9	obj	_	_
+12	get	get	VERB	VERB	_	11	xcomp	_	_
+13	for	for	ADP	ADP	_	12	obl:comp	_	_
+14	our	our	PRON	PRON	_	15	nmod:poss	_	_
+15	moto	moto	NOUN	NOUN	_	13	obj	_	_
+16	<	<	PUNCT	PUNCT	_	8	punct	_	_
+17	we	we	PRON	PRON	_	18	nsubj	_	_
+18	get	get	VERB	VERB	_	6	obj	_	_
+19	dem	they	PRON	PRON	_	18	obj	_	_
+20	]	]	PUNCT	NOUN	_	18	punct	_	_
+21	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_277
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	and	and	CCONJ	CCONJ	_	0	root	_	_
+3	make	let	AUX	AUX	_	2	obj	_	_
+4	we	we	PRON	PRON	_	3	subj	_	_
+5	try	try	VERB	VERB	_	3	obj	_	_
+6	drive	drive	VERB	VERB	_	5	xcomp	_	_
+7	to	to	PART	ADP	_	6	advcl	_	_
+8	stay	stay	VERB	VERB	_	7	obj	_	_
+9	alive	alive	ADJ	ADJ	_	8	xcomp	_	_
+10	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_278
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	I	I	PRON	PRON	_	3	nsubj	_	_
+3	happy	happy	ADJ	ADJ	_	0	root	_	_
+4	sey	that	SCONJ	SCONJ	_	3	ccomp	_	_
+5	una	you	PRON	PRON	_	6	nsubj	_	_
+6	give	give	VERB	VERB	_	4	obj	_	_
+7	me	I	PRON	PRON	_	6	iobj	_	_
+8	dis	this	DET	DET	_	9	det	_	_
+9	opportunity	opportunity	NOUN	NOUN	_	6	obj	_	_
+10	to	to	PART	ADP	_	9	acl	_	_
+11	talk	talk	VERB	VERB	_	10	obj	_	_
+12	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# id = IBA_13_M_279
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	and	and	CCONJ	CCONJ	_	0	root	_	_
+3	I	I	PRON	PRON	_	4	nsubj	_	_
+4	believe	believe	VERB	VERB	_	2	obj	_	_
+5	sey	that	SCONJ	SCONJ	_	4	ccomp	_	_
+6	#	#	PUNCT	PUNCT	_	5	punct	_	_
+7	[	[	PUNCT	PUNCT	_	16	punct	_	_
+8	em	em	INTJ	INTJ	_	18	discourse	_	_
+9	from	from	ADP	ADP	_	18	obl:ad	_	_
+10	today	today	NOUN	NOUN	_	9	obj	_	_
+11	<	<	PUNCT	PUNCT	_	10	punct	_	_
+12	#	#	PUNCT	PUNCT	_	10	punct	_	_
+13	all	all	ADV	ADV	_	16	subj	_	_
+14	of	of	ADP	ADP	_	13	nmod	_	_
+15	us	we	PRON	PRON	_	14	obj	_	_
+16	go	will	AUX	AUX	_	5	obj	_	_
+17	dey	be	AUX	AUX	_	16	obj	_	_
+18	do	do	VERB	VERB	_	17	obj	_	_
+19	di	the	DET	DET	_	20	det	_	_
+20	thing	thing	NOUN	NOUN	_	18	obj	_	_
+21	wey	where	SCONJ	SCONJ	_	20	acl:relcl	_	_
+22	we	we	PRON	PRON	_	23	nsubj	_	_
+23	talk	talk	VERB	VERB	_	21	obj	_	_
+24	sey	that	SCONJ	SCONJ	_	23	ccomp	_	_
+25	[	[	PUNCT	PUNCT	_	26	punct	_	_
+26	make	let	AUX	AUX	_	24	obj	_	_
+27	we	we	PRON	PRON	_	26	subj	_	_
+28	dey	be	AUX	AUX	_	26	obj	_	_
+29	do	do	VERB	VERB	_	28	obj	_	_
+30	]	]	NOUN	NOUN	_	26	punct	_	_
+31	so	so	SCONJ	SCONJ	_	18	advcl	_	_
+32	dat	that	SCONJ	PRON	_	31	fixed	_	_
+33	accident	accident	NOUN	NOUN	_	35	subj	_	_
+34	no	not	PART	PART	_	35	advmod	_	_
+35	go	will	AUX	AUX	_	31	obj	_	_
+36	dey	be	AUX	AUX	_	35	obj	_	_
+37	happen	happen	VERB	VERB	_	36	obj	_	_
+38	]	]	NOUN	NOUN	_	16	punct	_	_
+39	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_280
+1	I	I	PRON	PRON	_	2	nsubj	_	_
+2	know	know	VERB	VERB	_	0	root	_	_
+3	sey	that	SCONJ	SCONJ	_	2	ccomp	_	_
+4	[	[	PUNCT	PUNCT	_	10	punct	_	_
+5	{	{	PUNCT	PUNCT	_	8	punct	_	_
+6	I	I	PRON	PRON	_	8	conj:dicto	_	_
+7	||	||	PUNCT	PUNCT	_	6	punct	_	_
+8	una	you	PRON	PRON	_	10	subj	_	_
+9	}	}	PUNCT	PUNCT	_	8	punct	_	_
+10	go	will	AUX	AUX	_	3	obj	_	_
+11	get	get	VERB	VERB	_	10	obj	_	_
+12	question	question	NOUN	NOUN	_	11	obj	_	_
+13	]	]	PUNCT	NOUN	_	10	punct	_	_
+14	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+# id = IBA_13_M_281
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	and	and	CCONJ	CCONJ	_	0	root	_	_
+3	una	you	PRON	PRON	_	4	subj	_	_
+4	go	will	AUX	AUX	_	2	obj	_	_
+5	get	get	VERB	VERB	_	4	obj	_	_
+6	{	{	PUNCT	PUNCT	_	10	punct	_	_
+7	con~	con~	X	X	_	10	conj:dicto	_	_
+8	||	||	PUNCT	PUNCT	_	7	punct	_	_
+9	em	em	INTJ	INTJ	_	10	discourse	_	_
+10	discussion	discussion	NOUN	NOUN	_	5	obj	_	_
+11	|c	|c	PUNCT	PUNCT	_	14	conj:coord	_	_
+12	or	or	CCONJ	CCONJ	_	10	conj:coord	_	_
+13	maybe	maybe	ADV	ADV	_	12	parataxis:parenth	_	_
+14	contribution	contribution	NOUN	NOUN	_	12	obj	_	_
+15	}	}	PUNCT	PUNCT	_	10	punct	_	_
+16	//	//	PUNCT	PUNCT	_	4	punct	_	_
+
+
+# id = IBA_13_M_282
+1	#	#	PUNCT	PUNCT	_	5	punct	_	_
+2	so	so	ADV	SCONJ	_	7	advmod	_	_
+3	abeg	abeg	ADV	ADV	_	7	discourse	_	_
+4	<	<	PUNCT	PUNCT	_	3	punct	_	_
+5	make	let	AUX	AUX	_	0	root	_	_
+6	una	you	PRON	PRON	_	5	subj	_	_
+7	feel	feel	VERB	VERB	_	5	obj	_	_
+8	free	free	ADJ	ADJ	_	7	xcomp	_	_
+9	//	//	PUNCT	PUNCT	_	5	punct	_	_
+
+
+# id = IBA_13_M_283
+1	make	let	AUX	AUX	_	0	root	_	_
+2	una	you	PRON	PRON	_	1	subj	_	_
+3	ask	ask	VERB	VERB	_	1	obj	_	_
+4	me	I	PRON	PRON	_	3	iobj	_	_
+5	question	question	NOUN	NOUN	_	3	obj	_	_
+6	so	so	SCONJ	SCONJ	_	3	advcl	_	_
+7	that	that	SCONJ	SCONJ	_	6	fixed	_	_
+8	we	we	PRON	PRON	_	9	subj	_	_
+9	go	will	AUX	AUX	_	6	obj	_	_
+10	fit	can	AUX	AUX	_	9	obj	_	_
+11	tackle	tackle	VERB	VERB	_	10	obj	_	_
+12	di	the	DET	DET	_	13	det	_	_
+13	question	question	NOUN	NOUN	_	11	obj	_	_
+14	//	//	PUNCT	PUNCT	_	1	punct	_	_
+
+
+# id = IBA_13_M_284
+1	#	#	PUNCT	PUNCT	_	2	punct	_	_
+2	thank	thank	VERB	VERB	_	0	root	_	_
+3	you	you	PRON	PRON	_	2	obj	_	_
+4	very	very	ADV	ADV	_	5	advmod	_	_
+5	much	much	ADV	ADV	_	2	advmod	_	_
+6	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+1	if	if	SCONJ	SCONJ	_	11	advcl:periph	_	_
+2	you	you	PRON	PRON	_	3	nsubj	_	_
+3	know	know	VERB	VERB	_	1	obj	_	_
+4	sey	that	SCONJ	SCONJ	_	3	ccomp	_	_
+5	you	you	PRON	PRON	_	6	nsubj	_	_
+6	want	want	VERB	VERB	_	4	obj	_	_
+7	drink	drink	VERB	VERB	_	6	xcomp	_	_
+8	<	<	PUNCT	PUNCT	_	3	punct	_	_
+9	we	we	PRON	PRON	_	11	nsubj	_	_
+10	no	not	PART	PART	_	11	advmod	_	_
+11	say	say	VERB	VERB	_	0	root	_	_
+12	[	[	PUNCT	PUNCT	_	13	punct	_	_
+13	make	let	AUX	AUX	_	11	parataxis:obj	_	_
+14	{	{	PUNCT	PUNCT	_	19	punct	_	_
+15	you	you	PRON	PRON	_	16	orphan	_	_
+16	n~	n~	PART	NOUN	_	19	conj:dicto	_	_
+17	|	|	PUNCT	PUNCT	_	16	punct	_	_
+18	you	you	PRON	PRON	_	13	subj	_	_
+19	no	not	PART	PART	_	13	advmod	_	_
+20	}	}	PUNCT	PUNCT	_	19	punct	_	_
+21	drink	drink	VERB	VERB	_	13	obj	_	_
+22	//	//	PUNCT	PUNCT	_	23	punct	_	_
+23	]	]	PUNCT	PUNCT	_	13	punct	_	_
+24	o	yo	PART	PART	_	11	advmod:emph	_	_
+25	//	//	PUNCT	PUNCT	_	11	punct	_	_
+
+
+1	#	#	PUNCT	PUNCT	_	3	punct	_	_
+2	I	I	PRON	PRON	_	3	subj	_	_
+3	don	have	AUX	AUX	_	0	root	_	_
+4	get	get	VERB	VERB	_	3	obj	_	_
+5	experience	experience	NOUN	NOUN	_	4	obj	_	_
+6	before	before	ADV	ADP	_	4	advmod	_	_
+7	#	#	PUNCT	PUNCT	_	10	punct	_	_
+8	of	of	ADP	ADP	_	5	nmod	_	_
+9	one	one	NUM	DET	_	10	nummod	_	_
+10	accident	accident	NOUN	NOUN	_	8	obj	_	_
+11	wen	wen	SCONJ	SCONJ	_	10	acl:relcl	_	_
+12	be	be	PART	PART	_	11	fixed	_	_
+13	sey	that	SCONJ	SCONJ	_	12	fixed	_	_
+14	driver	driver	NOUN	NOUN	_	15	nsubj	_	_
+15	carry	carry	VERB	VERB	_	11	obj	_	_
+16	two	two	NUM	NUM	_	17	nummod	_	_
+17	passenger	passenger	NOUN	NOUN	_	15	obj	_	_
+18	for	for	ADP	ADP	_	15	obl:ad	_	_
+19	front	front	NOUN	NOUN	_	18	obj	_	_
+20	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+# sent_id = IBA_07_D_387
+# speaker = 1
+1	you	you	PRON	PRON	_	2	nsubj	_	_
+2	know	know	VERB	VERB	_	0	root	_	_
+3	di	the	DET	DET	_	4	det	_	_
+4	kind	kind	NOUN	NOUN	_	2	obj	_	_
+5	danger	danger	NOUN	NOUN	_	4	nmod	_	_
+6	wey	where	SCONJ	SCONJ	_	4	acl:relcl	_	_
+7	for	for	SCONJ	ADP	_	8	obj	_	_
+8	don	have	AUX	AUX	_	6	obj	_	_
+9	happen	happen	VERB	VERB	_	7	obj	_	_
+10	to	to	ADP	ADP	_	9	obl:comp	_	_
+11	am	he	PRON	PRON	_	10	obj	_	_
+12	for	for	ADP	ADP	_	13	obl:comp	_	_
+13	road	road	NOUN	NOUN	_	9	obl:comp	_	_
+14	as	as	SCONJ	ADP	_	9	advcl	_	_
+15	im	he	PRON	PRON	_	16	subj	_	_
+16	dey	be	AUX	AUX	_	14	obj	_	_
+17	go	go	VERB	VERB	_	16	obj	_	_
+18	house	house	NOUN	NOUN	_	17	obj	_	_
+19	//	//	PUNCT	PUNCT	_	2	punct	_	_
+
+
+1	brake	brake	NOUN	NOUN	_	3	subj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	go	will	AUX	AUX	_	0	root	_	_
+4	answer	answer	VERB	VERB	_	3	obj	_	_
+5	//=	//=	PUNCT	PUNCT	_	8	punct	_	_
+6	#	#	PUNCT	PUNCT	_	-1	_	_	_
+7	brake	brake	NOUN	NOUN	_	8	subj	_	_
+8	go	will	AUX	AUX	_	4	parataxis:conj	_	_
+9	fail	fail	VERB	VERB	_	8	obj	_	_
+10	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+1	some	some	DET	DET	_	2	det	_	_
+2	people	people	NOUN	NOUN	_	3	nsubj	_	_
+3	get	get	VERB	VERB	_	0	root	_	_
+4	dat	that	DET	PRON	_	5	det	_	_
+5	kind	kind	NOUN	NOUN	_	3	obj	_	_
+6	feeling	feeling	NOUN	NOUN	_	5	nmod	_	_
+7	//	//	PUNCT	PUNCT	_	3	punct	_	_
+
+
+1	#	#	PUNCT	PUNCT	_	0	punct	_	_

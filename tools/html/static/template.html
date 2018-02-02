@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="robots" content="noindex, nofollow, noarchive, nosnippet" />
+	<meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet" />
+
+	<link rel="stylesheet" href="static/bootstrap.min.css" type="text/css" />
+	<link rel="stylesheet" href="static/arborator-draft.css" type="text/css" />
+	
+	<script language="JavaScript" type="text/javascript" src="static/jquery-3.2.1.min.js"></script>
+ 	<script language="JavaScript" type="text/javascript" src="static/popper.min.js"></script> 
+ 	<script language="JavaScript" type="text/javascript" src="static/bootstrap.min.js"></script> 
+	<script language="JavaScript" type="text/javascript" src="static/material.js"></script>
+	<script language="JavaScript" type="text/javascript" src="static/d3.js"></script>
+	<script language="JavaScript" type="text/javascript" src="static/jquery.easing.min.js"></script>
+	
+	<script language="JavaScript" type="text/javascript" src="static/arborator-draft.js"></script>
+
+	<title>Conlleva Results</title>   
+    
+</head>
+
+<body>
+<div class="titlerow">
+	<a href="https://arborator.github.io/">
+	<div>
+	<object data="static/arborator_logo.svg" type="image/svg+xml" height="150"></object>
+	</div>
+	</a>
+</div>
+
+<div class="xcontainer">        
+	<div class="row">
+		
+
+		<div class="row">
+			<div class="panel panel-primary">
+			{conll}
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script>
+	window.onload = function () { 
+		new ArboratorDraft(); // START
+        }
+</script>
+
+</body>
+</html>

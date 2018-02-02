@@ -1,0 +1,1010 @@
+# sent_id = SSLC01_320:1:5
+# text = PRO1 PRO1 HETA TEDDIE@b@en TEDDIE-SUNDQVIST@en
+1	PRO1	_	PRON	PN	_	3	subj	_	_
+2	PRO1	_	PRON	PN	_	1	conj	_	_
+3	HETA	_	VERB	VB	_	0	root	_	_
+4	TEDDIE@b@en	_	NOUN	NN	_	3	obj	_	_
+5	TEDDIE-SUNDQVIST@en	_	NOUN	NN	_	3	flat	_	_
+
+
+# sent_id = SSLC01_320:6:7
+# text = VARFÖR TEDDIE-SUNDQVIST@en
+1	VARFÖR	_	ADV	AB	_	2	advmod	_	_
+2	TEDDIE-SUNDQVIST@en	_	NOUN	NN	_	0	root	_	_
+
+
+# sent_id = SSLC01_320:8:13
+# text = PRO1 LITEN-PERSON HA*INTE PERSON^TECKEN PRO1 PU@g
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	LITEN-PERSON	_	ADJ	JJ	_	3	advcl	_	_
+3	HA*INTE	_	VERB	VB	_	0	root	_	_
+4	PERSON^TECKEN	_	NOUN	NN	_	3	obj	_	_
+5	PRO1	_	PRON	PN	_	1	nsubj	_	_
+6	PU@g	_	INTJ	G	_	4	discourse	_	_
+
+
+# sent_id = SSLC01_320:14:26
+# text = EN DÖV SÅG PEK PRO1 HA HÅL@b HÅL>öra BESTÄMMA-SIG PEK TEDDIE-SUNDQVIST@en ORSAK TEDDIE-SUNDQVIST@en
+1	EN	_	NUM	RG	_	2	det	_	_
+2	DÖV	_	NOUN	NN	_	3	nsubj	_	_
+3	SÅG	_	VERB	VB	_	0	root	_	_
+4	PEK	_	PRON	PEK	_	3	obj	_	_
+5	PRO1	_	PRON	PN	_	3	nsubj	_	_
+6	HA	_	VERB	VB	_	3	ccomp	_	_
+7	HÅL@b	_	NOUN	NN	_	6	obj	_	_
+8	HÅL>öra	_	NOUN	NNKL	_	7	clf	_	_
+9	BESTÄMMA-SIG	_	VERB	VB	_	3	conj	_	_
+10	PEK	_	PRON	PEK	_	9	nsubj	_	_
+11	TEDDIE-SUNDQVIST@en	_	NOUN	NN	_	9	ccomp	_	_
+12	ORSAK	_	CCONJ	KN	_	13	mark	_	_
+13	TEDDIE-SUNDQVIST@en	_	NOUN	NN	_	11	xcomp	_	_
+
+
+# sent_id = SSLC01_320:27:29
+# text = PRO1(B) FÖDD SKÖVDE@en
+1	PRO1(B)	_	PRON	PN	_	2	nsubj	_	_
+2	FÖDD	_	VERB	VB	_	0	root	_	_
+3	SKÖVDE@en	_	NOUN	NN	_	2	obl	_	_
+
+
+# sent_id = SSLC01_320:30:38
+# text = PRO1 FÖDD HÖRANDE@rd PRO1 VÄXA-UPP TRE HALV ÅR@b DÖV(Ao)
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	FÖDD	_	VERB	VB	_	0	root	_	_
+3	HÖRANDE@rd	_	NOUN	NN	_	1	acl	_	_
+4	PRO1	_	PRON	PN	_	1	conj	_	_
+5	VÄXA-UPP	_	NOUN	NN	_	2	conj	_	_
+6	TRE	_	NUM	RG	_	7	compound	_	_
+7	HALV	_	ADJ	JJ	_	8	nummod	_	_
+8	ÅR@b	_	NOUN	NN	_	5	obl	_	_
+9	DÖV(Ao)	_	ADJ	JJ	_	4	acl	_	_
+
+
+# sent_id = SSLC01_320:39:41
+# text = HJÄRN^INFLAMMATION ORSAK DÖV
+1	HJÄRN^INFLAMMATION	_	NOUN	NN	_	0	root	_	_
+2	ORSAK	_	CCONJ	KN	_	3	mark	_	_
+3	DÖV	_	NOUN	NN	_	1	advcl	_	_
+
+
+# sent_id = SSLC01_320:42:52
+# text = POSS1 FÖRÄLDRAR TITTA-PÅ BESTÄMMA-SIG FLYTTA-UT TILL VÄNERSBORG@en ORSAK VÄNERSBORG^SKOLA@en FINNAS DÄR
+1	POSS1	_	PRON	PN	_	2	nmod:poss	_	_
+2	FÖRÄLDRAR	_	NOUN	NN	_	3	nsubj	_	_
+3	TITTA-PÅ	_	VERB	VB	_	0	root	_	_
+4	BESTÄMMA-SIG	_	VERB	VB	_	3	conj	_	_
+5	FLYTTA-UT	_	VERB	VB	_	3	conj	_	_
+6	TILL	_	ADP	PP	_	5	obl	_	_
+7	VÄNERSBORG@en	_	NOUN	NN	_	6	obj	_	_
+8	ORSAK	_	CCONJ	KN	_	5	mark	_	_
+9	VÄNERSBORG^SKOLA@en	_	NOUN	NN	_	10	nsubj	_	_
+10	FINNAS	_	VERB	VB	_	5	advcl	_	_
+11	DÄR	_	ADV	AB	_	10	obl	_	_
+
+
+# sent_id = SSLC01_320:53:59
+# text = PRO1 VÄXA-UPP PEK ÅTTIO^ETT GLOSA:(STRECK)@z NITTIO^ETT PRO1
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	VÄXA-UPP	_	NOUN	NN	_	0	root	_	_
+3	PEK	_	PRON	PEK	_	2	obl	_	_
+4	ÅTTIO^ETT	_	NUM	RG	_	2	obl	_	_
+5	GLOSA:(STRECK)@z	_	X	?	_	6	case	_	_
+6	NITTIO^ETT	_	NUM	RG	_	4	conj	_	_
+7	PRO1	_	PRON	PN	_	1	conj	_	_
+
+
+# sent_id = SSLC01_320:60:65
+# text = TID-FRAMÅT FÄRDIG PRO1 PEK RIK^GYMNASIUM ÖREBRO@en
+1	TID-FRAMÅT	_	ADV	AB	_	4	advmod	_	_
+2	FÄRDIG	_	ADJ	JJ	_	4	advmod	_	_
+3	PRO1	_	PRON	PN	_	4	nsubj	_	_
+4	PEK	_	PRON	PEK	_	0	root	_	_
+5	RIK^GYMNASIUM	_	NOUN	NN	_	4	obl	_	_
+6	ÖREBRO@en	_	NOUN	NN	_	5	flat	_	_
+
+
+# sent_id = SSLC01_320:66:70
+# text = PRO1 PLUGGA SAMHÄLLE ÅR+FYRA FÄRDIG
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	PLUGGA	_	VERB	VB	_	0	root	_	_
+3	SAMHÄLLE	_	NOUN	NN	_	2	obj	_	_
+4	ÅR+FYRA	_	ADV	AB	_	2	obl	_	_
+5	FÄRDIG	_	ADJ	JJ	_	1	advmod	_	_
+
+
+# sent_id = SSLC01_320:71:81
+# text = PRO1 VAD VAD-GÖRA PU@g PRO1 GLOSA:(PU)@z PRO1 GLOSA:(PU)@z BESTÄMMA-SIG TILLBAKA VÄNERSBORG@en
+1	PRO1	_	PRON	PN	_	3	nsubj	_	_
+2	VAD	_	PRON	PN	_	3	obj	_	_
+3	VAD-GÖRA	_	ADV	AB	_	0	root	_	_
+4	PU@g	_	INTJ	G	_	3	discourse	_	_
+5	PRO1	_	PRON	PN	_	1	conj	_	_
+6	GLOSA:(PU)@z	_	X	?	_	4	compound:svc	_	_
+7	PRO1	_	PRON	PN	_	1	conj	_	_
+8	GLOSA:(PU)@z	_	X	?	_	4	compound:svc	_	_
+9	BESTÄMMA-SIG	_	VERB	VB	_	4	conj	_	_
+10	TILLBAKA	_	ADV	AB	_	9	xcomp	_	_
+11	VÄNERSBORG@en	_	NOUN	NN	_	9	obl	_	_
+
+
+# sent_id = SSLC01_320:82:96
+# text = PRO1 GLOSA:(PU)@z PRO1 PÅKALLA-UPPMÄRKSAMHET FÖRÄLDRAR VAD VAD-GÖRA VAD PRO1 GLOSA:(PU)@z ANSÖKA HÖG^SKOLA MISSA FÄRDIG PU@g
+1	PRO1	_	PRON	PN	_	4	nsubj	_	_
+2	GLOSA:(PU)@z	_	X	?	_	4	discourse	_	_
+3	PRO1	_	PRON	PN	_	1	conj	_	_
+4	PÅKALLA-UPPMÄRKSAMHET	_	VERB	VB	_	0	root	_	_
+5	FÖRÄLDRAR	_	NOUN	NN	_	4	obj	_	_
+6	VAD	_	PRON	PN	_	7	obj	_	_
+7	VAD-GÖRA	_	ADV	AB	_	4	ccomp	_	_
+8	VAD	_	PRON	PN	_	6	conj	_	_
+9	PRO1	_	PRON	PN	_	7	nsubj	_	_
+10	GLOSA:(PU)@z	_	X	?	_	7	discourse	_	_
+11	ANSÖKA	_	VERB	VB	_	13	advcl	_	_
+12	HÖG^SKOLA	_	NOUN	NN	_	11	obl	_	_
+13	MISSA	_	VERB	VB	_	8	conj	_	_
+14	FÄRDIG	_	ADJ	JJ	_	13	advmod	_	_
+15	PU@g	_	INTJ	G	_	13	discourse	_	_
+
+
+# sent_id = SSLC01_320:97:107
+# text = PAPPA FÖRESLÅ PU@g VÄNERBORG@en*SKOLA PEK UNGDOM^PRAKTIK PROVA PÅ ETCETERA(L) OLIKA SAK.PL
+1	PAPPA	_	NOUN	NN	_	2	nsubj	_	_
+2	FÖRESLÅ	_	VERB	VB	_	0	root	_	_
+3	PU@g	_	INTJ	G	_	2	discourse	_	_
+4	VÄNERBORG@en*SKOLA	_	NOUN	NN	_	2	obj	_	_
+5	PEK	_	PRON	PEK	_	6	case	_	_
+6	UNGDOM^PRAKTIK	_	NOUN	NN	_	2	obl	_	_
+7	PROVA	_	VERB	VB	_	6	acl	_	_
+8	PÅ	_	ADP	PP	_	9	compound:prt	_	_
+9	ETCETERA(L)	_	NOUN	NN	_	7	nmod	_	_
+10	OLIKA	_	ADV	AB	_	11	amod	_	_
+11	SAK.PL	_	NOUN	NN	_	7	obj	_	_
+
+
+# sent_id = SSLC01_320:108:112
+# text = PRO1 JA@ub OK@b PRO1 STARTA
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	JA@ub	_	INTJ	INTERJ	_	5	conj	_	_
+3	OK@b	_	INTJ	INTERJ	_	5	conj	_	_
+4	PRO1	_	PRON	PN	_	5	nsubj	_	_
+5	STARTA	_	VERB	VB	_	0	root	_	_
+
+
+# sent_id = SSLC01_320:113:133
+# text = TIDEN-GÅR EN ÅR+EN KLOCKPERIOD.NATTDEL TILL VÅR(B) KLOCKPERIOD.EFTERMDEL DÅ@b EN BIRGITTA-JONSSON@en STUDIE^REKTOR KOMMA-HIT(L) SA PEK TECKENSPRÅK^LÄRARE SJUK KAN IN@b HÖG^STADIUM UNDERVISA@rd TECKENSPRÅK
+1	TIDEN-GÅR	_	VERB	VB	_	12	advmod	_	_
+2	EN	_	NUM	RG	_	3	nummod	_	_
+3	ÅR+EN	_	ADV	AB	_	12	obl	_	_
+4	KLOCKPERIOD.NATTDEL	_	NOUN	NNKL	_	3	clf	_	_
+5	TILL	_	ADP	PP	_	12	obl	_	_
+6	VÅR(B)	_	X	?	_	5	obj	_	_
+7	KLOCKPERIOD.EFTERMDEL	_	NOUN	NNKL	_	6	clf	_	_
+8	DÅ@b	_	ADV	AB	_	12	advmod	_	_
+9	EN	_	NUM	RG	_	11	det	_	_
+10	BIRGITTA-JONSSON@en	_	NOUN	NN	_	12	nsubj	_	_
+11	STUDIE^REKTOR	_	NOUN	NN	_	10	appos	_	_
+12	KOMMA-HIT(L)	_	VERB	VBAV	_	0	root	_	_
+13	SA	_	VERB	VB	_	12	conj	_	_
+14	PEK	_	DET	PEK	_	15	det	_	_
+15	TECKENSPRÅK^LÄRARE	_	NOUN	NN	_	16	nsubj	_	_
+16	SJUK	_	ADJ	JJ	_	13	ccomp	_	_
+17	KAN	_	VERB	VB	_	13	ccomp	_	_
+18	IN@b	_	VERB	VB	_	17	obj	_	_
+19	HÖG^STADIUM	_	NOUN	NN	_	18	obl	_	_
+20	UNDERVISA@rd	_	VERB	VB	_	18	conj	_	_
+21	TECKENSPRÅK	_	NOUN	NN	_	20	obl	_	_
+
+
+# sent_id = SSLC01_320:134:136
+# text = PRO1 JA@b VARFÖR*INTE
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	JA@b	_	INTJ	INTERJ	_	0	root	_	_
+3	VARFÖR*INTE	_	VERB	VB	_	2	conj	_	_
+
+
+# sent_id = SSLC01_320:137:142
+# text = PRO1 GÅ-IN(N) KLASS^RUM PRO1 HAND(G)+HANTERA@p HAND(G)@p@hd
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	GÅ-IN(N)	_	VERB	VB	_	0	root	_	_
+3	KLASS^RUM	_	NOUN	NN	_	2	obl	_	_
+4	PRO1	_	PRON	PN	_	5	nsubj	_	_
+5	HAND(G)+HANTERA@p	_	VERB	VBAV	_	2	conj	_	_
+6	HAND(G)@p@hd	_	VERB	VBAV	_	5	compound:svc	_	_
+
+
+# sent_id = SSLC01_320:143:148
+# text = PRO1 TÄNKA PRO1 UNDERVISA TECKENSPRÅK VAD
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	TÄNKA	_	VERB	VB	_	0	root	_	_
+3	PRO1	_	PRON	PN	_	1	conj	_	_
+4	UNDERVISA	_	VERB	VB	_	6	csubj	_	_
+5	TECKENSPRÅK	_	NOUN	NN	_	4	obl	_	_
+6	VAD	_	PRON	PN	_	2	ccomp	_	_
+
+
+# sent_id = SSLC01_320:149:153
+# text = POSS1 EGEN SPRÅK VETA-INTE PRO1
+1	POSS1	_	PRON	PN	_	3	nmod:poss	_	_
+2	EGEN	_	ADJ	JJ	_	3	amod	_	_
+3	SPRÅK	_	NOUN	NN	_	4	obl	_	_
+4	VETA-INTE	_	VERB	VB	_	0	root	_	_
+5	PRO1	_	PRON	PN	_	4	nsubj	_	_
+
+
+# sent_id = SSLC01_320:154:159
+# text = DÅ@b PRO1 BESTÄMMA-SIG PRO1 PLUGGA TECKENSPRÅK
+1	DÅ@b	_	ADV	AB	_	3	advmod	_	_
+2	PRO1	_	PRON	PN	_	3	nsubj	_	_
+3	BESTÄMMA-SIG	_	VERB	VB	_	0	root	_	_
+4	PRO1	_	PRON	PN	_	2	conj	_	_
+5	PLUGGA	_	VERB	VB	_	3	xcomp	_	_
+6	TECKENSPRÅK	_	NOUN	NN	_	5	obj	_	_
+
+
+# sent_id = SSLC01_320:160:169
+# text = PRO1 ANSÖKA TILL LEKA^SAND@en PEK DÅ@b FINNAS TECKENSPRÅK^LÄRARE^UTBILDNING PEK LEKA^SAND@en
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	ANSÖKA	_	VERB	VB	_	0	root	_	_
+3	TILL	_	ADP	PP	_	2	obl	_	_
+4	LEKA^SAND@en	_	NOUN	NN	_	3	obj	_	_
+5	PEK	_	DET	PEK	_	4	det	_	_
+6	DÅ@b	_	ADV	AB	_	7	advmod	_	_
+7	FINNAS	_	VERB	VB	_	2	advcl	_	_
+8	TECKENSPRÅK^LÄRARE^UTBILDNING	_	NOUN	NN	_	7	nsubj	_	_
+9	PEK	_	DET	PEK	_	10	det	_	_
+10	LEKA^SAND@en	_	NOUN	NN	_	4	conj	_	_
+
+
+# sent_id = SSLC01_320:170:184
+# text = PRO1 EN ÅR+EN FÄRDIG SEN KOMMA-DIT(Lb) TILL NORDISK PEK FRÅN DÄR NITTIO^SJU PEK.REL PUNKTBOJ I@b^DAG
+1	PRO1	_	PRON	PN	_	4	nsubj	_	_
+2	EN	_	NUM	RG	_	3	nummod	_	_
+3	ÅR+EN	_	ADV	AB	_	4	obl	_	_
+4	FÄRDIG	_	ADJ	JJ	_	0	root	_	_
+5	SEN	_	ADV	AB	_	6	advmod	_	_
+6	KOMMA-DIT(Lb)	_	VERB	VB	_	4	conj	_	_
+7	TILL	_	ADP	PP	_	6	obl	_	_
+8	NORDISK	_	ADJ	JJ	_	7	obj	_	_
+9	PEK	_	DET	PEK	_	8	det	_	_
+10	FRÅN	_	ADP	PP	_	11	obl	_	_
+11	DÄR	_	ADV	AB	_	6	conj	_	_
+12	NITTIO^SJU	_	NUM	RG	_	10	obj	_	_
+13	PEK.REL	_	PRON	PEK	_	15	case	_	_
+14	PUNKTBOJ	_	X	BOJ	_	12	det	_	_
+15	I@b^DAG	_	ADV	AB	_	12	conj	_	_
+
+
+# sent_id = SSLC01_320:185:209
+# text = PRO1 tp@& SAMTIDIG PRO1 PARALLELL PLUGGA ÖREBRO@en UNIVERSITET PEK>pekf LISTBOJ.EN PEK>långf LISTBOJ.TVÅ LINKÖPING@en UNIVERSITET PEK>långf LISTBOJ.TRE FLYTTA>ringf MALMÖ@en EN ÅR@b PLUS VECKA^PENDLA UMEÅ@en TVÅ ÅR@b
+1	PRO1	_	PRON	PN	_	6	nsubj	_	_
+2	tp@&	_	X	?	_	3	reparandum	_	_
+3	SAMTIDIG	_	ADV	AB	_	6	advmod	_	_
+4	PRO1	_	PRON	PN	_	1	conj	_	_
+5	PARALLELL	_	ADV	AB	_	6	advmod	_	_
+6	PLUGGA	_	VERB	VB	_	0	root	_	_
+7	ÖREBRO@en	_	NOUN	NN	_	8	compound	_	_
+8	UNIVERSITET	_	NOUN	NN	_	6	obl	_	_
+9	PEK>pekf	_	DET	PEK	_	8	det	_	_
+10	LISTBOJ.EN	_	X	BOJ	_	8	det	_	_
+11	PEK>långf	_	DET	PEK	_	14	det	_	_
+12	LISTBOJ.TVÅ	_	X	BOJ	_	14	det	_	_
+13	LINKÖPING@en	_	NOUN	NN	_	14	compound	_	_
+14	UNIVERSITET	_	NOUN	NN	_	6	conj	_	_
+15	PEK>långf	_	DET	PEK	_	14	det	_	_
+16	LISTBOJ.TRE	_	X	BOJ	_	18	det	_	_
+17	FLYTTA>ringf	_	VERB	VB	_	6	conj	_	_
+18	MALMÖ@en	_	NOUN	NN	_	17	obl	_	_
+19	EN	_	NUM	RG	_	20	nummod	_	_
+20	ÅR@b	_	NOUN	NN	_	17	obl	_	_
+21	PLUS	_	CCONJ	KN	_	6	conj	_	_
+22	VECKA^PENDLA	_	VERB	VB	_	21	obj	_	_
+23	UMEÅ@en	_	NOUN	NN	_	22	obl	_	_
+24	TVÅ	_	NUM	RG	_	25	nummod	_	_
+25	ÅR@b	_	NOUN	NN	_	22	obl	_	_
+
+
+# sent_id = SSLC01_320:210:222
+# text = PU@g FRI^TID(L) PRO1 MYCKET SPORT@rd PU@g FÖRSÖKA TRÄFFAS FOLK PU@g BYGGA POSS1 HUS
+1	PU@g	_	INTJ	G	_	5	discourse	_	_
+2	FRI^TID(L)	_	NOUN	NN	_	5	obl	_	_
+3	PRO1	_	PRON	PN	_	5	nsubj	_	_
+4	MYCKET	_	ADV	AB	_	5	advmod	_	_
+5	SPORT@rd	_	VERB	VB	_	0	root	_	_
+6	PU@g	_	INTJ	G	_	5	discourse	_	_
+7	FÖRSÖKA	_	VERB	VB	_	5	conj	_	_
+8	TRÄFFAS	_	VERB	VB	_	7	obj	_	_
+9	FOLK	_	NOUN	NN	_	8	obj	_	_
+10	PU@g	_	INTJ	G	_	8	discourse	_	_
+11	BYGGA	_	VERB	VB	_	5	conj	_	_
+12	POSS1	_	PRON	PN	_	13	nmod:poss	_	_
+13	HUS	_	NOUN	NN	_	11	obj	_	_
+
+
+# sent_id = SSLC01_320:223:227
+# text = VARA KORTVARIG(J) OM@b OBJPRO1 PU@g
+1	VARA	_	VERB	VB	_	0	root	_	_
+2	KORTVARIG(J)	_	ADJ	JJ	_	1	obj	_	_
+3	OM@b	_	CCONJ	KN	_	4	case	_	_
+4	OBJPRO1	_	PRON	PN	_	2	obl	_	_
+5	PU@g	_	INTJ	G	_	2	discourse	_	_
+
+
+# sent_id = SSLC01_320:228:229
+# text = VEM PEK>person
+1	VEM	_	PRON	PN	_	0	root	_	_
+2	PEK>person	_	PRON	PEK	_	1	nsubj	_	_
+
+
+# sent_id = SSLC01_320:1:10
+# text = OK@b PRO1 ANN-CHARLOTTE-LINDBLOM@en LOTTA@b@en PI HETA ANN@b*CHARLOTTE@b@en KORTVARIG(J) SÅ-ATT-SÄGA LOTTA@b@en
+1	OK@b	_	INTJ	INTERJ	_	3	discourse	_	_
+2	PRO1	_	PRON	PN	_	3	nsubj	_	_
+3	ANN-CHARLOTTE-LINDBLOM@en	_	NOUN	NN	_	0	root	_	_
+4	LOTTA@b@en	_	NOUN	NN	_	3	compound	_	_
+5	PI	_	ADV	AB	_	6	advmod	_	_
+6	HETA	_	VERB	VB	_	3	conj	_	_
+7	ANN@b*CHARLOTTE@b@en	_	NOUN	NN	_	6	obj	_	_
+8	KORTVARIG(J)	_	ADJ	JJ	_	10	advmod	_	_
+9	SÅ-ATT-SÄGA	_	ADV	AB	_	10	advmod	_	_
+10	LOTTA@b@en	_	NOUN	NN	_	3	conj	_	_
+
+
+# sent_id = SSLC01_320:11:20
+# text = PRO1 TECKNA ANN-CHARLOTTE-LINDBLOM@en ORSAK LOCKIG HÅR PRO1 VÄXA-UPP LOCKIG PRO1
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	TECKNA	_	VERB	VB	_	0	root	_	_
+3	ANN-CHARLOTTE-LINDBLOM@en	_	NOUN	NN	_	2	obj	_	_
+4	ORSAK	_	CCONJ	KN	_	6	mark	_	_
+5	LOCKIG	_	ADJ	JJ	_	6	amod	_	_
+6	HÅR	_	NOUN	NN	_	2	advcl	_	_
+7	PRO1	_	PRON	PN	_	8	nsubj	_	_
+8	VÄXA-UPP	_	NOUN	NN	_	6	conj	_	_
+9	LOCKIG	_	ADJ	JJ	_	8	conj	_	_
+10	PRO1	_	PRON	PN	_	7	conj	_	_
+
+
+# sent_id = SSLC01_320:21:24
+# text = tp@& PRO1 FÖDD DÖV
+1	tp@&	_	X	?	_	2	reparandum	_	_
+2	PRO1	_	PRON	PN	_	3	nsubj	_	_
+3	FÖDD	_	VERB	VB	_	0	root	_	_
+4	DÖV	_	NOUN	NN	_	2	acl	_	_
+
+
+# sent_id = SSLC01_320:25:31
+# text = ORSAK TILL VARFÖR PRO1 BLI(L) DÖV VETA-INTE
+1	ORSAK	_	CCONJ	KN	_	2	obj	_	_
+2	TILL	_	ADP	PP	_	6	obl	_	_
+3	VARFÖR	_	ADV	AB	_	5	advmod	_	_
+4	PRO1	_	PRON	PN	_	5	subj	_	_
+5	BLI(L)	_	VERB	VB	_	7	csubj	_	_
+6	DÖV	_	NOUN	NN	_	5	obj	_	_
+7	VETA-INTE	_	VERB	VB	_	0	root	_	_
+
+
+# sent_id = SSLC01_320:32:33
+# text = FINNAS*INTE SVARA
+1	FINNAS*INTE	_	VERB	VB	_	0	root	_	_
+2	SVARA	_	VERB	VB	_	1	nsubj	_	_
+
+
+# sent_id = SSLC01_320:34:41
+# text = PRO1 VÄXA-UPP PEK VÄNERSBORG^SKOLA@en PRO1 FÖDD I@b VAR^BERG@en
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	VÄXA-UPP	_	NOUN	NN	_	0	root	_	_
+3	PEK	_	DET	PEK	_	4	det	_	_
+4	VÄNERSBORG^SKOLA@en	_	NOUN	NN	_	2	obl	_	_
+5	PRO1	_	PRON	PN	_	6	nsubj	_	_
+6	FÖDD	_	VERB	VB	_	2	conj	_	_
+7	I@b	_	ADP	PP	_	6	obl	_	_
+8	VAR^BERG@en	_	NOUN	NN	_	7	obj	_	_
+
+
+# sent_id = SSLC01_320:42:48
+# text = PRO1 FLYTTA-UT VÄNERSBORG^SKOLA@en TID-FRAMÅT NITTIO^EN TILL NOLL^EN
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	FLYTTA-UT	_	VERB	VB	_	0	root	_	_
+3	VÄNERSBORG^SKOLA@en	_	NOUN	NN	_	2	obl	_	_
+4	TID-FRAMÅT	_	ADV	AB	_	2	advmod	_	_
+5	NITTIO^EN	_	NUM	RG	_	2	obl	_	_
+6	TILL	_	ADP	PP	_	5	conj	_	_
+7	NOLL^EN	_	NUM	RG	_	6	obj	_	_
+
+
+# sent_id = SSLC01_320:49:54
+# text = PRO1 BESTÄMMA-SIG TA MEDIA^PROGRAM I@b ÖREBRO@en
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	BESTÄMMA-SIG	_	VERB	VB	_	0	root	_	_
+3	TA	_	VERB	VB	_	2	conj	_	_
+4	MEDIA^PROGRAM	_	NOUN	NN	_	3	obj	_	_
+5	I@b	_	ADP	PP	_	4	nmod	_	_
+6	ÖREBRO@en	_	NOUN	NN	_	5	obj	_	_
+
+
+# sent_id = SSLC01_320:55:68
+# text = PRO1 KOMMA-DIT(Lb) PRO1 GLOSA:(PD)@z ROLIG@rd MEDIA TID-FRAMÅT SEDAN(L) FÄRDIG STUDENT(Q) KÄNNA PRO1 MEDIA PU@g
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	KOMMA-DIT(Lb)	_	VERB	VB	_	0	root	_	_
+3	PRO1	_	PRON	PN	_	1	conj	_	_
+4	GLOSA:(PD)@z	_	X	?	_	5	reparandum	_	_
+5	ROLIG@rd	_	ADJ	JJ	_	2	conj	_	_
+6	MEDIA	_	NOUN	NN	_	5	nsubj	_	_
+7	TID-FRAMÅT	_	ADV	AB	_	5	advmod	_	_
+8	SEDAN(L)	_	ADV	AB	_	9	advmod	_	_
+9	FÄRDIG	_	ADJ	JJ	_	11	advcl	_	_
+10	STUDENT(Q)	_	NOUN	NN	_	9	obj	_	_
+11	KÄNNA	_	VERB	VB	_	5	conj	_	_
+12	PRO1	_	PRON	PN	_	11	nsubj	_	_
+13	MEDIA	_	NOUN	NN	_	14	nsubj	_	_
+14	PU@g	_	INTJ	G	_	11	ccomp	_	_
+
+
+# sent_id = SSLC01_320:69:73
+# text = LÅTA-VARA PRO1 BEGE-SIG-HEM TILL GÖTEBORG@en
+1	LÅTA-VARA	_	X	G	_	3	discourse	_	_
+2	PRO1	_	PRON	PN	_	3	nsubj	_	_
+3	BEGE-SIG-HEM	_	VERB	VB	_	0	root	_	_
+4	TILL	_	ADP	PP	_	3	obl	_	_
+5	GÖTEBORG@en	_	NOUN	NN	_	4	obj	_	_
+
+
+# sent_id = SSLC01_320:74:91
+# text = PRO1 FLYTTA PRO1 PU@g ANSÖKA.MULTI BARA(B) PROVA@rd PÅ OLIKA JOBB.MULTI SYFTE VAD PRO1 VILL*HA FRAMTID VAD LÄRA-SIG LÄSA
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	FLYTTA	_	VERB	VB	_	0	root	_	_
+3	PRO1	_	PRON	PN	_	1	conj	_	_
+4	PU@g	_	INTJ	G	_	2	discourse	_	_
+5	ANSÖKA.MULTI	_	VERB	VB	_	2	conj	_	_
+6	BARA(B)	_	ADV	AB	_	7	advmod	_	_
+7	PROVA@rd	_	VERB	VB	_	2	conj	_	_
+8	PÅ	_	ADP	PP	_	7	compound:prt	_	_
+9	OLIKA	_	ADV	AB	_	10	amod	_	_
+10	JOBB.MULTI	_	NOUN	NN	_	7	obj	_	_
+11	SYFTE	_	NOUN	NN	_	14	mark	_	_
+12	VAD	_	PRON	PN	_	14	obj	_	_
+13	PRO1	_	PRON	PN	_	14	nsubj	_	_
+14	VILL*HA	_	VERB	VB	_	7	advcl	_	_
+15	FRAMTID	_	NOUN	NN	_	14	obl	_	_
+16	VAD	_	PRON	PN	_	17	obj	_	_
+17	LÄRA-SIG	_	VERB	VB	_	14	conj	_	_
+18	LÄSA	_	VERB	VB	_	14	conj	_	_
+
+
+# sent_id = SSLC01_320:92:100
+# text = PRO1 TID-FRAMÅT@z BESTÄMMA-SIG tp@& FÅ1 JOBB GRUPP^BOSTAD PEK>långf ELEV^ASSISTENT
+1	PRO1	_	PRON	PN	_	3	nsubj	_	_
+2	TID-FRAMÅT@z	_	ADV	AB	_	3	advmod	_	_
+3	BESTÄMMA-SIG	_	VERB	VB	_	0	root	_	_
+4	tp@&	_	X	?	_	5	reparandum	_	_
+5	FÅ1	_	VERB	VB	_	3	conj	_	_
+6	JOBB	_	NOUN	NN	_	5	obj	_	_
+7	GRUPP^BOSTAD	_	NOUN	NN	_	3	obl	_	_
+8	PEK>långf	_	PRON	PEK	_	7	conj	_	_
+9	ELEV^ASSISTENT	_	NOUN	NN	_	8	obj	_	_
+
+
+# sent_id = SSLC01_320:101:111
+# text = PRO1 TA PEK JOBB TID-FRAMÅT BLI(L) FAST I@b^DAG TID-FRAMÅT PRO1 STANNA-KVAR
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	TA	_	VERB	VB	_	0	root	_	_
+3	PEK	_	DET	PEK	_	4	det	_	_
+4	JOBB	_	NOUN	NN	_	2	obj	_	_
+5	TID-FRAMÅT	_	ADV	AB	_	6	advmod	_	_
+6	BLI(L)	_	VERB	VB	_	2	conj	_	_
+7	FAST	_	ADV	AB	_	6	obj	_	_
+8	I@b^DAG	_	ADV	AB	_	7	obl	_	_
+9	TID-FRAMÅT	_	ADV	AB	_	7	advmod	_	_
+10	PRO1	_	PRON	PN	_	11	nsubj	_	_
+11	STANNA-KVAR	_	VERB	VB	_	2	conj	_	_
+
+
+# sent_id = SSLC01_320:112:120
+# text = MEN FRAMTID PU@g PERF-NEG BESTÄMMA-SIG VAD VILL BLI(L) PU@g
+1	MEN	_	CCONJ	KN	_	0	root	_	_
+2	FRAMTID	_	NOUN	NN	_	5	obl	_	_
+3	PU@g	_	INTJ	G	_	4	subj	_	_
+4	PERF-NEG	_	VERB	VB	_	1	obj	_	_
+5	BESTÄMMA-SIG	_	VERB	VB	_	4	obj	_	_
+6	VAD	_	PRON	PN	_	7	obj	_	_
+7	VILL	_	VERB	VB	_	5	xcomp	_	_
+8	BLI(L)	_	VERB	VB	_	7	obj	_	_
+9	PU@g	_	INTJ	G	_	6	discourse	_	_
+
+
+# sent_id = SSLC01_320:121:128
+# text = SEDAN(L)@z PRO1 tp@& TRÄNA BASKETBOLL FÖR HÖRANDE KLUBB
+1	SEDAN(L)@z	_	ADV	AB	_	4	advmod	_	_
+2	PRO1	_	PRON	PN	_	4	nsubj	_	_
+3	tp@&	_	X	?	_	4	reparandum	_	_
+4	TRÄNA	_	VERB	VB	_	0	root	_	_
+5	BASKETBOLL	_	NOUN	NN	_	4	obj	_	_
+6	FÖR	_	ADV	AB	_	4	obl	_	_
+7	HÖRANDE	_	NOUN	NN	_	8	compound	_	_
+8	KLUBB	_	NOUN	NN	_	6	obj	_	_
+
+
+# sent_id = SSLC01_320:129:133
+# text = PRO1 PERF MED.VARA OS@b VM@b
+1	PRO1	_	PRON	PN	_	3	nsubj	_	_
+2	PERF	_	VERB	VB	_	3	aux	_	_
+3	MED.VARA	_	X	PP/VB?	_	0	root	_	_
+4	OS@b	_	NOUN	NN	_	3	obl	_	_
+5	VM@b	_	NOUN	NN	_	4	conj	_	_
+
+
+# sent_id = SSLC01_320:134:143
+# text = VARA POSS1 MÅLSÄTTNING FORTSÄTTA TID-FRAMÅT MED BASKETBOLL PRO1 STOR INTRESSE
+1	VARA	_	VERB	VB	_	0	root	_	_
+2	POSS1	_	PRON	PN	_	3	nmod:poss	_	_
+3	MÅLSÄTTNING	_	NOUN	NN	_	1	obj	_	_
+4	FORTSÄTTA	_	VERB	VB	_	1	subj	_	_
+5	TID-FRAMÅT	_	ADV	AB	_	4	advmod	_	_
+6	MED	_	ADP	PP	_	4	obl	_	_
+7	BASKETBOLL	_	NOUN	NN	_	6	obj	_	_
+8	PRO1	_	PRON	PN	_	10	nmod:poss	_	_
+9	STOR	_	ADJ	JJ	_	10	amod	_	_
+10	INTRESSE	_	NOUN	NN	_	4	nmod	_	_
+
+
+# sent_id = SSLC01_320:144:144
+# text = JA@b
+1	JA@b	_	INTJ	INTERJ	_	0	root	_	_
+
+
+# sent_id = SSLC02_332:1:3
+# text = LITE SORG LITE
+1	LITE	_	ADV	AB	_	2	advmod	_	_
+2	SORG	_	NOUN	NN	_	0	root	_	_
+3	LITE	_	ADV	AB	_	2	advmod	_	_
+
+
+# sent_id = SSLC02_332:1:2
+# text = PRO1 SNÖ^MAN
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	SNÖ^MAN	_	NOUN	NN	_	0	root	_	_
+
+
+# sent_id = SSLC02_332:3:17
+# text = PEK POJKE LÄGGA-SIG LIGGA(G) SOVA VAKNA MORGON NU@b STIGA-UPP HAND(G)+HANTERA@p nms HAND(G)@p@hd SNÖA TITTA-PÅ TA-SIG-DIT
+1	PEK	_	DET	PEK	_	2	det	_	_
+2	POJKE	_	NOUN	NN	_	3	nsubj	_	_
+3	LÄGGA-SIG	_	VERB	VB	_	0	root	_	_
+4	LIGGA(G)	_	VERB	VB	_	3	compound:svc	_	_
+5	SOVA	_	VERB	VB	_	3	conj	_	_
+6	VAKNA	_	VERB	VB	_	3	conj	_	_
+7	MORGON	_	NOUN	NN	_	6	obl	_	_
+8	NU@b	_	ADV	AB	_	9	advmod	_	_
+9	STIGA-UPP	_	VERB	VB	_	3	conj	_	_
+10	HAND(G)+HANTERA@p	_	VERB	VBAV	_	3	conj	_	_
+11	nms	_	X	G	_	3	dep	_	_
+12	HAND(G)@p@hd	_	VERB	VBAV	_	10	conj	_	_
+13	SNÖA	_	VERB	VB	_	3	conj	_	_
+14	TITTA-PÅ	_	VERB	VB	_	3	conj	_	_
+15	TA-SIG-DIT	_	VERB	VB	_	3	conj	_	_
+
+
+# sent_id = SSLC02_332:18:22
+# text = KLÄ-PÅ.NEDERDEL KLÄ-PÅ.ÖVERDEL VARM KLÄDER MÖSSA(G)
+1	KLÄ-PÅ.NEDERDEL	_	VERB	VBAV	_	0	root	_	_
+2	KLÄ-PÅ.ÖVERDEL	_	VERB	VBAV	_	1	compound:svc	_	_
+3	VARM	_	ADJ	JJ	_	4	amod	_	_
+4	KLÄDER	_	NOUN	NN	_	1	obj	_	_
+5	MÖSSA(G)	_	NOUN	NN	_	4	conj	_	_
+
+
+# sent_id = SSLC02_332:23:30
+# text = VARELSE(Vb)+FÖRFLYTTA@p PÅKALLA-UPPMÄRKSAMHET@g MAMMA PRO1 UTE PRO1(J) HAND(JJb)+HANTERA@p SNÖ^GUBBE
+1	VARELSE(Vb)+FÖRFLYTTA@p	_	VERB	VBAV	_	0	root	_	_
+2	PÅKALLA-UPPMÄRKSAMHET@g	_	X	G	_	1	conj	_	_
+3	MAMMA	_	NOUN	NN	_	2	iobj	_	_
+4	PRO1	_	PRON	PN	_	1	nsubj	_	_
+5	UTE	_	ADV	AB	_	2	ccomp	_	_
+6	PRO1(J)	_	PRON	PN	_	4	conj	_	_
+7	HAND(JJb)+HANTERA@p	_	VERB	VBAV	_	1	ccomp	_	_
+8	SNÖ^GUBBE	_	NOUN	NN	_	7	obj	_	_
+
+
+# sent_id = SSLC02_332:31:39
+# text = MAMMA JA@ub@z PÅKALLA-UPPMÄRKSAMHET@g MÖSSA(G) SKA PEK PEK HÄMTA PEK
+1	MAMMA	_	NOUN	NN	_	3	nsubj	_	_
+2	JA@ub@z	_	INTJ	INTERJ	_	3	conj	_	_
+3	PÅKALLA-UPPMÄRKSAMHET@g	_	X	G	_	0	root	_	_
+4	MÖSSA(G)	_	NOUN	NN	_	8	obj	_	_
+5	SKA	_	VERB	VB	_	3	ccomp	_	_
+6	PEK	_	PRON	PEK	_	5	subj	_	_
+7	PEK	_	PRON	PEK	_	6	conj	_	_
+8	HÄMTA	_	VERB	VB	_	5	obj	_	_
+9	PEK	_	PRON	PEK	_	6	conj	_	_
+
+
+# sent_id = SSLC02_332:40:45
+# text = KLÄ-PÅ.HUVUDDEL HAND(G)+HANTERA@p SPRINGA(Lb) ENTITET(Yb)+FÖRFLYTTA@p MÖSSA(G) LÅTA-VARA
+1	KLÄ-PÅ.HUVUDDEL	_	VERB	VBAV	_	0	root	_	_
+2	HAND(G)+HANTERA@p	_	VERB	VBAV	_	1	conj	_	_
+3	SPRINGA(Lb)	_	VERB	VB	_	1	conj	_	_
+4	ENTITET(Yb)+FÖRFLYTTA@p	_	VERB	VBAV	_	1	conj	_	_
+5	MÖSSA(G)	_	NOUN	NN	_	6	obj	_	_
+6	LÅTA-VARA	_	X	G	_	1	conj	_	_
+
+
+# sent_id = SSLC02_332:46:53
+# text = HAND(JJb)+HANTERA@p RULLA GLOSA:(JÄSA)@z FORM(JJb)+BESKRIVNING@p GLOSA:(PF)@z HUNGRIG VARELSE(Vb)+FÖRFLYTTA@p BEGE-SIG-HEM
+1	HAND(JJb)+HANTERA@p	_	VERB	VBAV	_	0	root	_	_
+2	RULLA	_	VERB	VB	_	1	conj	_	_
+3	GLOSA:(JÄSA)@z	_	VERB	VBAV	_	2	compound:svc	_	_
+4	FORM(JJb)+BESKRIVNING@p	_	VERB	VBAV	_	2	compound:svc	_	_
+5	GLOSA:(PF)@z	_	X	?	_	1	discourse	_	_
+6	HUNGRIG	_	ADJ	JJ	_	1	conj	_	_
+7	VARELSE(Vb)+FÖRFLYTTA@p	_	VERB	VBAV	_	1	conj	_	_
+8	BEGE-SIG-HEM	_	VERB	VB	_	7	compound:svc	_	_
+
+
+# sent_id = SSLC02_332:54:59
+# text = SÄTTA-SIG ÄTA(Q) TITTA-PÅ SNÖ^GUBBE PEK ÄTA(Q)
+1	SÄTTA-SIG	_	VERB	VB	_	0	root	_	_
+2	ÄTA(Q)	_	VERB	VB	_	1	conj	_	_
+3	TITTA-PÅ	_	VERB	VB	_	1	conj	_	_
+4	SNÖ^GUBBE	_	NOUN	NN	_	3	obj	_	_
+5	PEK	_	DET	PEK	_	4	det	_	_
+6	ÄTA(Q)	_	VERB	VB	_	2	conj	_	_
+
+
+# sent_id = SSLC02_332:60:71
+# text = PRO1 UT@b PRO1 FORTSÄTTA PRO1 KLÄ-PÅ:ÖVERDEL SEDAN KLÄ-PÅ.HUVUDDEL KOMMA-DIT(L) SPRINGA(Lb) GLOSA:(PD)@z HAND(YYb)+HANTERA@p
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	UT@b	_	VERB	VB	_	0	root	_	_
+3	PRO1	_	PRON	PN	_	1	conj	_	_
+4	FORTSÄTTA	_	VERB	VB	_	2	conj	_	_
+5	PRO1	_	PRON	PN	_	1	conj	_	_
+6	KLÄ-PÅ:ÖVERDEL	_	VERB	VBAV	_	2	conj	_	_
+7	SEDAN	_	ADV	AB	_	8	advmod	_	_
+8	KLÄ-PÅ.HUVUDDEL	_	VERB	VBAV	_	6	conj	_	_
+9	KOMMA-DIT(L)	_	VERB	VBAV	_	2	conj	_	_
+10	SPRINGA(Lb)	_	VERB	VB	_	9	conj	_	_
+11	GLOSA:(PD)@z	_	X	?	_	2	conj	_	_
+12	HAND(YYb)+HANTERA@p	_	VERB	VBAV	_	11	conj	_	_
+
+
+# sent_id = SSLC02_332:72:75
+# text = FUNDERA@ca BARA(B) HAND(YYb)+@p TRÅKIG
+1	FUNDERA@ca	_	VERB	VBCA	_	0	root	_	_
+2	BARA(B)	_	ADV	AB	_	3	advmod	_	_
+3	HAND(YYb)+@p	_	VERB	VBAV	_	4	nsubj	_	_
+4	TRÅKIG	_	ADJ	JJ	_	1	ccomp	_	_
+
+
+# sent_id = SSLC02_332:76:83
+# text = ÖGON EN-LISTA TVÅ-LISTA MUN TRE-LISTA ENTITET(O)+BEFINNA@p>näsa HUR FUNDERA@ca
+1	ÖGON	_	NOUN	NN	_	8	obj	_	_
+2	EN-LISTA	_	X	BOJ	_	1	det	_	_
+3	TVÅ-LISTA	_	X	BOJ	_	4	det	_	_
+4	MUN	_	NOUN	NN	_	1	conj	_	_
+5	TRE-LISTA	_	X	BOJ	_	6	det	_	_
+6	ENTITET(O)+BEFINNA@p>näsa	_	VERB	VBAV	_	1	conj	_	_
+7	HUR	_	ADV	AB	_	8	advmod	_	_
+8	FUNDERA@ca	_	VERB	VBCA	_	0	root	_	_
+
+
+# sent_id = SSLC02_332:85:90
+# text = KOMMA-HIT(L) GÅ-IN(N) HAND(S)+HANTERA@p HAND(S)@p@hd TOMAT HAND(S)+HANTERA@p>näsa
+1	KOMMA-HIT(L)	_	VERB	VBAV	_	0	root	_	_
+2	GÅ-IN(N)	_	VERB	VB	_	1	conj	_	_
+3	HAND(S)+HANTERA@p	_	VERB	VBAV	_	1	conj	_	_
+4	HAND(S)@p@hd	_	VERB	VBAV	_	3	conj	_	_
+5	TOMAT	_	NOUN	NN	_	3	obj	_	_
+6	HAND(S)+HANTERA@p>näsa	_	VERB	VBAV	_	3	conj	_	_
+
+
+# sent_id = SSLC02_332:91:93
+# text = SEDAN@z MUN VAD
+1	SEDAN@z	_	ADV	AB	_	3	advmod	_	_
+2	MUN	_	NOUN	NN	_	3	nsubj	_	_
+3	VAD	_	PRON	PN	_	0	root	_	_
+
+
+# sent_id = SSLC02_332:94:101
+# text = HAND(Lvs)+HANTERA@p>mun KOL@b PRO1 HAND(Yb)+HANTERA+HAND(Yb)@p HAND(YYb)+HANTERA@p HAND(Yb)@p@hd HAND(A)+HANTERA@p>mun HAND(A)+HANTERA@p.MULTI>bröst
+1	HAND(Lvs)+HANTERA@p>mun	_	VERB	VBAV	_	0	root	_	_
+2	KOL@b	_	NOUN	NN	_	1	obj	_	_
+3	PRO1	_	PRON	PN	_	1	nsubj	_	_
+4	HAND(Yb)+HANTERA+HAND(Yb)@p	_	VERB	VBAV	_	1	conj	_	_
+5	HAND(YYb)+HANTERA@p	_	VERB	VBAV	_	4	compound:svc	_	_
+6	HAND(Yb)@p@hd	_	VERB	VBAV	_	5	conj	_	_
+7	HAND(A)+HANTERA@p>mun	_	VERB	VBAV	_	4	compound:svc	_	_
+8	HAND(A)+HANTERA@p.MULTI>bröst	_	VERB	VBAV	_	4	compound:svc	_	_
+
+
+# sent_id = SSLC02_332:102:109
+# text = glosa@& PÅKALLA-UPPMÄRKSAMHET@g MAMMA VILL*HA MÖSSA(G) NÅGOT HATT NÅGON
+1	glosa@&	_	X	?	_	6	reparandum	_	_
+2	PÅKALLA-UPPMÄRKSAMHET@g	_	X	G	_	0	root	_	_
+3	MAMMA	_	NOUN	NN	_	2	vocative	_	_
+4	VILL*HA	_	VERB	VB	_	2	ccomp	_	_
+5	MÖSSA(G)	_	NOUN	NN	_	4	obj	_	_
+6	NÅGOT	_	PRON	PN	_	7	nmod	_	_
+7	HATT	_	NOUN	NN	_	5	conj	_	_
+8	NÅGON	_	PRON	PN	_	7	nmod	_	_
+
+
+# sent_id = SSLC02_332:110:116
+# text = MAMMA HAND(AA)+HANTERA@p HATT HAND(AA)+HANTERA@p>huvud HALSDUK HAND(S)+HANTERA@p>hals FINEMANG
+1	MAMMA	_	NOUN	NN	_	2	nsubj	_	_
+2	HAND(AA)+HANTERA@p	_	VERB	VBAV	_	0	root	_	_
+3	HATT	_	NOUN	NN	_	2	obj	_	_
+4	HAND(AA)+HANTERA@p>huvud	_	VERB	VBAV	_	2	conj	_	_
+5	HALSDUK	_	NOUN	NN	_	6	obj	_	_
+6	HAND(S)+HANTERA@p>hals	_	VERB	VBAV	_	4	conj	_	_
+7	FINEMANG	_	ADJ	JJ	_	2	discourse	_	_
+
+
+# sent_id = SSLC02_332:117:122
+# text = POJKE GNUGGA-HÄNDER@ca ROLIG GNUGGA-HÄNDER@ca VARELSE(N)+FÖRFLYTTA@p GÅ-IN(N)
+1	POJKE	_	NOUN	NN	_	2	nsubj	_	_
+2	GNUGGA-HÄNDER@ca	_	VERB	VBCA	_	0	root	_	_
+3	ROLIG	_	ADJ	JJ	_	2	discourse	_	_
+4	GNUGGA-HÄNDER@ca	_	VERB	VBCA	_	2	conj	_	_
+5	VARELSE(N)+FÖRFLYTTA@p	_	VERB	VBAV	_	2	conj	_	_
+6	GÅ-IN(N)	_	VERB	VB	_	5	compound:svc	_	_
+
+
+# sent_id = SSLC02_332:123:143
+# text = KVÄLL FÖRÄLDRAR SITTA(Vb) TV@b KNAPPA-FJÄRRKONTROLL POJKE TITTA-UT@ca SNÖ^GUBBE TITTA-UT@ca JÄMN TITTA-PÅ PÅKALLA-UPPMÄRKSAMHET@g PEK PRO1 GÖRA PEK TITTA-UT@ca MAMMA@z JA@ub@z PÅKALLA-UPPMÄRKSAMHET@g LUGNA@g
+1	KVÄLL	_	NOUN	NN	_	3	advmod	_	_
+2	FÖRÄLDRAR	_	NOUN	NN	_	3	nsubj	_	_
+3	SITTA(Vb)	_	VERB	VB	_	0	root	_	_
+4	TV@b	_	NOUN	NN	_	3	obl	_	_
+5	KNAPPA-FJÄRRKONTROLL	_	VERB	VB	_	3	conj	_	_
+6	POJKE	_	NOUN	NN	_	7	nsubj	_	_
+7	TITTA-UT@ca	_	VERB	VBCA	_	3	conj	_	_
+8	SNÖ^GUBBE	_	NOUN	NN	_	7	iobj	_	_
+9	TITTA-UT@ca	_	VERB	VBCA	_	7	conj	_	_
+10	JÄMN	_	VERB	VBS	_	7	advmod	_	_
+11	TITTA-PÅ	_	VERB	VB	_	9	conj	_	_
+12	PÅKALLA-UPPMÄRKSAMHET@g	_	X	G	_	7	conj	_	_
+13	PEK	_	PRON	PEK	_	15	obj	_	_
+14	PRO1	_	PRON	PN	_	15	nsubj	_	_
+15	GÖRA	_	VERB	VB	_	12	ccomp	_	_
+16	PEK	_	PRON	PEK	_	13	conj	_	_
+17	TITTA-UT@ca	_	VERB	VBCA	_	9	conj	_	_
+18	MAMMA@z	_	NOUN	NN	_	20	nsubj	_	_
+19	JA@ub@z	_	INTJ	INTERJ	_	3	discourse	_	_
+20	PÅKALLA-UPPMÄRKSAMHET@g	_	X	G	_	3	conj	_	_
+21	LUGNA@g	_	VERB	G	_	20	compound:svc	_	_
+
+
+# sent_id = SSLC02_332:144:157
+# text = SKA SOVA LIGGA(G) SOVA LIGGA-SÖMNLÖS VARELSE(Vb)+FÖRFLYTTA@p HAND(G)+HANTERA@p HAND(G)@p@hd KONTROLLERA SNÖ(Y) TITTA-PÅ FINNAS KVAR HAND(G)+HANTERA@p
+1	SKA	_	VERB	VB	_	0	root	_	_
+2	SOVA	_	VERB	VB	_	1	obj	_	_
+3	LIGGA(G)	_	VERB	VB	_	2	compound:svc	_	_
+4	SOVA	_	VERB	VB	_	2	compound:svc	_	_
+5	LIGGA-SÖMNLÖS	_	VERB	VB	_	2	conj	_	_
+6	VARELSE(Vb)+FÖRFLYTTA@p	_	VERB	VBAV	_	2	conj	_	_
+7	HAND(G)+HANTERA@p	_	VERB	VBAV	_	2	conj	_	_
+8	HAND(G)@p@hd	_	VERB	VBAV	_	7	conj	_	_
+9	KONTROLLERA	_	VERB	VB	_	2	conj	_	_
+10	SNÖ(Y)	_	NOUN	NN	_	1	subj	_	_
+11	TITTA-PÅ	_	VERB	VB	_	2	conj	_	_
+12	FINNAS	_	VERB	VB	_	2	ccomp	_	_
+13	KVAR	_	ADV	AB	_	12	compound:prt	_	_
+14	HAND(G)+HANTERA@p	_	VERB	VBAV	_	7	conj	_	_
+
+
+# sent_id = SSLC02_332:158:167
+# text = LIGGA(G) LIGGA-SÖMNLÖS LÅTA-VARA KLÄ-PÅ VARELSE(N)+FÖRFLYTTA@p ZZZ@z TITTA-PÅ TOM FORM(J)+UTSTRÄCKNING@p TITTA-PÅ
+1	LIGGA(G)	_	VERB	VB	_	0	root	_	_
+2	LIGGA-SÖMNLÖS	_	VERB	VB	_	1	conj	_	_
+3	LÅTA-VARA	_	X	G	_	1	conj	_	_
+4	KLÄ-PÅ	_	VERB	VB	_	1	conj	_	_
+5	VARELSE(N)+FÖRFLYTTA@p	_	VERB	VBAV	_	1	conj	_	_
+6	ZZZ@z	_	X	?	_	1	dep	_	_
+7	TITTA-PÅ	_	VERB	VB	_	1	conj	_	_
+8	TOM	_	ADJ	JJ	_	1	conj	_	_
+9	FORM(J)+UTSTRÄCKNING@p	_	VERB	VBAV	_	8	clf	_	_
+10	TITTA-PÅ	_	VERB	VB	_	7	conj	_	_
+
+
+# sent_id = SSLC02_332:168:177
+# text = HAND(G)+HANTERA@p HAND(G)@p@hd JASÅ KOMMA-HIT(L) HEJ@g HAND(G)@p@hd SNÖ^GUBBE PRATA TITTA-PÅ HEJ@g
+1	HAND(G)+HANTERA@p	_	VERB	VBAV	_	0	root	_	_
+2	HAND(G)@p@hd	_	VERB	VBAV	_	1	conj	_	_
+3	JASÅ	_	INTJ	INTERJ	_	4	discourse	_	_
+4	KOMMA-HIT(L)	_	VERB	VBAV	_	1	conj	_	_
+5	HEJ@g	_	INTJ	G	_	4	discourse	_	_
+6	HAND(G)@p@hd	_	VERB	VBAV	_	1	conj	_	_
+7	SNÖ^GUBBE	_	NOUN	NN	_	8	nsubj	_	_
+8	PRATA	_	VERB	VB	_	1	conj	_	_
+9	TITTA-PÅ	_	VERB	VB	_	1	conj	_	_
+10	HEJ@g	_	INTJ	G	_	5	conj	_	_
+
+
+# sent_id = SSLC02_332:178:184
+# text = POJKE ENTUSIASTISK HANDSKAKA@ca KOM-HIT@rd GÅ-IN(N) KOM-HIT FÖLJAS-ÅT
+1	POJKE	_	NOUN	NN	_	2	nsubj	_	_
+2	ENTUSIASTISK	_	VERB	VBS	_	0	root	_	_
+3	HANDSKAKA@ca	_	VERB	VBCA	_	2	conj	_	_
+4	KOM-HIT@rd	_	VERB	VB	_	2	conj	_	_
+5	GÅ-IN(N)	_	VERB	VB	_	4	compound:prt	_	_
+6	KOM-HIT	_	VERB	VB	_	4	conj	_	_
+7	FÖLJAS-ÅT	_	VERB	VB	_	3	conj	_	_
+
+
+# sent_id = SSLC02_332:185:189
+# text = PÅKALLA-UPPMÄRKSAMHET@g SNÖ^GUBBE TITTA-PÅ.OMKRING@z KONSTIG HUS
+1	PÅKALLA-UPPMÄRKSAMHET@g	_	X	G	_	0	root	_	_
+2	SNÖ^GUBBE	_	NOUN	NN	_	1	nsubj	_	_
+3	TITTA-PÅ.OMKRING@z	_	VERB	VB	_	1	conj	_	_
+4	KONSTIG	_	ADJ	JJ	_	5	amod	_	_
+5	HUS	_	NOUN	NN	_	3	obj	_	_
+
+
+# sent_id = SSLC02_332:190:197
+# text = FINNAS BLOMMA TAVLA GLOSA:(PD)@z KONSTIG VATTEN HAND(Q)+HANTERA@p BRINNA@rd
+1	FINNAS	_	VERB	VB	_	0	root	_	_
+2	BLOMMA	_	NOUN	NN	_	1	nsubj	_	_
+3	TAVLA	_	NOUN	NN	_	2	conj	_	_
+4	GLOSA:(PD)@z	_	X	?	_	1	dep	_	_
+5	KONSTIG	_	ADJ	JJ	_	1	conj	_	_
+6	VATTEN	_	NOUN	NN	_	7	compound	_	_
+7	HAND(Q)+HANTERA@p	_	VERB	VBAV	_	2	conj	_	_
+8	BRINNA@rd	_	VERB	VB	_	2	conj	_	_
+
+
+# sent_id = SSLC02_332:198:207
+# text = POJKE VISA JA@ub@z PEK.FL FUNGERA SÅ KÖK VATTEN TÄNDA ALLTIHOP
+1	POJKE	_	NOUN	NN	_	2	nsubj	_	_
+2	VISA	_	VERB	VB	_	0	root	_	_
+3	JA@ub@z	_	INTJ	INTERJ	_	5	discourse	_	_
+4	PEK.FL	_	PRON	PEK	_	5	nsubj	_	_
+5	FUNGERA	_	VERB	VB	_	2	ccomp	_	_
+6	SÅ	_	PRON	PN	_	5	advmod	_	_
+7	KÖK	_	NOUN	NN	_	4	conj	_	_
+8	VATTEN	_	NOUN	NN	_	4	conj	_	_
+9	TÄNDA	_	VERB	VB	_	4	conj	_	_
+10	ALLTIHOP	_	PRON	PN	_	4	conj	_	_
+
+
+# sent_id = SSLC02_332:208:212
+# text = TITTA-PÅ FASCINERA BRINNA@rd TITTA-PÅ.OMKRING FASCINERA
+1	TITTA-PÅ	_	VERB	VB	_	0	root	_	_
+2	FASCINERA	_	VERB	VB	_	1	conj	_	_
+3	BRINNA@rd	_	VERB	VB	_	1	obj	_	_
+4	TITTA-PÅ.OMKRING	_	VERB	VB	_	1	conj	_	_
+5	FASCINERA	_	VERB	VB	_	1	conj	_	_
+
+
+# sent_id = SSLC02_332:213:224
+# text = pek@& tp@& glosa@& tp@& POJKE KOM-HIT@rd FÖLJAS-ÅT VISA RUM FÖLJAS-ÅT HUS VARELSE(N)+FÖRFLYTTA@p
+1	pek@&	_	PRON	PEK	_	6	dep	_	_
+2	tp@&	_	X	?	_	6	dep	_	_
+3	glosa@&	_	X	?	_	6	dep	_	_
+4	tp@&	_	X	?	_	6	dep	_	_
+5	POJKE	_	NOUN	NN	_	6	nsubj	_	_
+6	KOM-HIT@rd	_	VERB	VB	_	0	root	_	_
+7	FÖLJAS-ÅT	_	VERB	VB	_	6	conj	_	_
+8	VISA	_	VERB	VB	_	6	conj	_	_
+9	RUM	_	NOUN	NN	_	8	obj	_	_
+10	FÖLJAS-ÅT	_	VERB	VB	_	7	conj	_	_
+11	HUS	_	NOUN	NN	_	10	obl	_	_
+12	VARELSE(N)+FÖRFLYTTA@p	_	VERB	VBAV	_	10	conj	_	_
+
+
+# sent_id = SSLC02_332:225:233
+# text = KOM-HIT@rd SNÖ^GUBBE PRO1 VISA OBJPRO NU@b UTE PRO1@z KOM-HIT@rd
+1	KOM-HIT@rd	_	VERB	VB	_	0	root	_	_
+2	SNÖ^GUBBE	_	NOUN	NN	_	1	nsubj	_	_
+3	PRO1	_	PRON	PN	_	2	conj	_	_
+4	VISA	_	VERB	VB	_	1	conj	_	_
+5	OBJPRO	_	PRON	PN	_	4	iobj	_	_
+6	NU@b	_	ADV	AB	_	4	advmod	_	_
+7	UTE	_	ADV	AB	_	4	advmod	_	_
+8	PRO1@z	_	PRON	PN	_	3	conj	_	_
+9	KOM-HIT@rd	_	VERB	VB	_	1	conj	_	_
+
+
+# sent_id = SSLC02_332:234:246
+# text = POJKE JASÅ SKA VARELSE(LL)+FÖRFLYTTA@p HAND(G)+HANTERA@p FLYGA(J) VARELSE(V)+FÖRFLYTTA@p ÖVER STAN VARELSE(V)+FÖRFLYTTA@p VARELSE(V)+FÖRFLYTTA-TILL+ENTITET(J)@p VATTEN FORM(YY)+BESKRIVNING@p
+1	POJKE	_	NOUN	NN	_	3	subj	_	_
+2	JASÅ	_	INTJ	INTERJ	_	4	discourse	_	_
+3	SKA	_	VERB	VB	_	0	root	_	_
+4	VARELSE(LL)+FÖRFLYTTA@p	_	VERB	VBAV	_	3	obj	_	_
+5	HAND(G)+HANTERA@p	_	VERB	VBAV	_	4	conj	_	_
+6	FLYGA(J)	_	VERB	VB	_	5	conj	_	_
+7	VARELSE(V)+FÖRFLYTTA@p	_	VERB	VBAV	_	5	conj	_	_
+8	ÖVER	_	ADP	PP	_	5	obl	_	_
+9	STAN	_	NOUN	NN	_	8	obj	_	_
+10	VARELSE(V)+FÖRFLYTTA@p	_	VERB	VBAV	_	5	conj	_	_
+11	VARELSE(V)+FÖRFLYTTA-TILL+ENTITET(J)@p	_	VERB	VBAV	_	4	conj	_	_
+12	VATTEN	_	NOUN	NN	_	11	obl	_	_
+13	FORM(YY)+BESKRIVNING@p	_	VERB	VBAV	_	12	acl:relcl	_	_
+
+
+# sent_id = SSLC02_332:247:257
+# text = POJKE STÅ LÄGGA-ARM-OM@ca TITTA-PÅ MYSIG HAND(GG)+HANTERA@p TILLBAKA BEGE-SIG-HEM HAND(G)+HANTERA@p KOMMA-FRAM HEMMA
+1	POJKE	_	NOUN	NN	_	2	nsubj	_	_
+2	STÅ	_	VERB	VB	_	0	root	_	_
+3	LÄGGA-ARM-OM@ca	_	VERB	VBCA	_	2	conj	_	_
+4	TITTA-PÅ	_	VERB	VB	_	2	conj	_	_
+5	MYSIG	_	ADV	AB	_	2	conj	_	_
+6	HAND(GG)+HANTERA@p	_	VERB	VBAV	_	3	conj	_	_
+7	TILLBAKA	_	ADV	AB	_	6	advmod	_	_
+8	BEGE-SIG-HEM	_	VERB	VB	_	6	conj	_	_
+9	HAND(G)+HANTERA@p	_	VERB	VBAV	_	6	conj	_	_
+10	KOMMA-FRAM	_	VERB	VB	_	6	conj	_	_
+11	HEMMA	_	ADV	AB	_	10	advmod	_	_
+
+
+# sent_id = SSLC02_332:258:263
+# text = POJKE TITTA-PÅ TACK ROLIG MED OBJPRO
+1	POJKE	_	NOUN	NN	_	2	nsubj	_	_
+2	TITTA-PÅ	_	VERB	VB	_	0	root	_	_
+3	TACK	_	INTJ	INTERJ	_	2	ccomp	_	_
+4	ROLIG	_	ADJ	JJ	_	3	conj	_	_
+5	MED	_	ADP	PP	_	4	obl	_	_
+6	OBJPRO	_	PRON	PN	_	5	obj	_	_
+
+
+# sent_id = SSLC02_332:264:270
+# text = GÅ-IN(N) HUS PRO1 UTE FÖLJAS-ÅT TITTA-PÅ KRAMA
+1	GÅ-IN(N)	_	VERB	VB	_	0	root	_	_
+2	HUS	_	NOUN	NN	_	1	obl	_	_
+3	PRO1	_	PRON	PN	_	1	nsubj	_	_
+4	UTE	_	ADV	AB	_	5	advmod	_	_
+5	FÖLJAS-ÅT	_	VERB	VB	_	1	conj	_	_
+6	TITTA-PÅ	_	VERB	VB	_	1	conj	_	_
+7	KRAMA	_	VERB	VB	_	1	conj	_	_
+
+
+# sent_id = SSLC02_332:271:279
+# text = SNÖ^GUBBE GLOSA:(LÅTA-VARA)@z GLOSA:(?)@z GÅ-IN(N) NU@b GLOSA:(?)@z SOVA NU@b GLOSA:(?)@z
+1	SNÖ^GUBBE	_	NOUN	NN	_	2	nsubj	_	_
+2	GLOSA:(LÅTA-VARA)@z	_	X	G	_	0	root	_	_
+3	GLOSA:(?)@z	_	X	?	_	2	conj	_	_
+4	GÅ-IN(N)	_	VERB	VB	_	2	conj	_	_
+5	NU@b	_	ADV	AB	_	4	advmod	_	_
+6	GLOSA:(?)@z	_	X	?	_	2	conj	_	_
+7	SOVA	_	VERB	VB	_	2	conj	_	_
+8	NU@b	_	ADV	AB	_	7	advmod	_	_
+9	GLOSA:(?)@z	_	X	?	_	2	conj	_	_
+
+
+# sent_id = SSLC02_332:280:295
+# text = POJKE TITTA-PÅ GÅ@rd GÅ-IN(N) HAND(G)+HANTERA@p UPPRÄTT(J)@ca POJKE TITTA-PÅ LEDSEN@z VARELSE(V)+FÖRFLYTTA@p SITTA LIGGA(G) SOVA LIGGA-SÖMNLÖS SOVA LIGGA-SÖMNLÖS
+1	POJKE	_	NOUN	NN	_	2	nsubj	_	_
+2	TITTA-PÅ	_	VERB	VB	_	0	root	_	_
+3	GÅ@rd	_	VERB	VB	_	2	conj	_	_
+4	GÅ-IN(N)	_	VERB	VB	_	3	conj	_	_
+5	HAND(G)+HANTERA@p	_	VERB	VBAV	_	2	conj	_	_
+6	UPPRÄTT(J)@ca	_	VERB	VBCA	_	2	conj	_	_
+7	POJKE	_	NOUN	NN	_	8	nsubj	_	_
+8	TITTA-PÅ	_	VERB	VB	_	2	conj	_	_
+9	LEDSEN@z	_	ADJ	JJ	_	7	acl	_	_
+10	VARELSE(V)+FÖRFLYTTA@p	_	VERB	VBAV	_	3	conj	_	_
+11	SITTA	_	VERB	VB	_	2	conj	_	_
+12	LIGGA(G)	_	VERB	VB	_	11	compound:svc	_	_
+13	SOVA	_	VERB	VB	_	2	conj	_	_
+14	LIGGA-SÖMNLÖS	_	VERB	VB	_	13	conj	_	_
+15	SOVA	_	VERB	VB	_	13	conj	_	_
+16	LIGGA-SÖMNLÖS	_	VERB	VB	_	13	conj	_	_
+
+
+# sent_id = SSLC02_332:296:299
+# text = VAKNA SOLSTRÅLA SITTA@z NEKA
+1	VAKNA	_	VERB	VB	_	0	root	_	_
+2	SOLSTRÅLA	_	VERB	VB	_	1	advcl	_	_
+3	SITTA@z	_	VERB	VB	_	1	conj	_	_
+4	NEKA	_	VERB	VB	_	1	conj	_	_
+
+
+# sent_id = SSLC02_332:300:309
+# text = VARELSE(Vb)+FÖRFLYTTA@p SPRINGA(G) FÖRÄLDRAR VÄNDA-SIG-OM@ca VAD HÄNDA SPRINGA(G) HAND(G)+HANTERA@p SMÄLTA(Yt) TITTA-PÅ
+1	VARELSE(Vb)+FÖRFLYTTA@p	_	VERB	VBAV	_	0	root	_	_
+2	SPRINGA(G)	_	VERB	VB	_	1	conj	_	_
+3	FÖRÄLDRAR	_	NOUN	NN	_	4	nsubj	_	_
+4	VÄNDA-SIG-OM@ca	_	VERB	VBCA	_	1	conj	_	_
+5	VAD	_	PRON	PN	_	6	nsubj	_	_
+6	HÄNDA	_	VERB	VB	_	4	ccomp	_	_
+7	SPRINGA(G)	_	VERB	VB	_	1	conj	_	_
+8	HAND(G)+HANTERA@p	_	VERB	VBAV	_	1	conj	_	_
+9	SMÄLTA(Yt)	_	VERB	VB	_	1	conj	_	_
+10	TITTA-PÅ	_	VERB	VB	_	1	conj	_	_
