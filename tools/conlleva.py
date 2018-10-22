@@ -102,7 +102,7 @@ def conll2html(inconll, sort=False):
 
 
 
-def transConllView(grammar, inconll, outconllfolder="conll/", outhtmlfolder="html/", addstat=False):
+def transConllView(grammar, inconll, outconllfolder="../conll/", outhtmlfolder="html/", addstat=False):
 	"""
 	inconll: an conll file as input
 	grammar: transconll grammar
